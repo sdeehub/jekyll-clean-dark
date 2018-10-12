@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: cpe.sdee.co
-description: Software Developer
+description: A Computer Engineering Company
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: http://sdeehub.github.io

@@ -4,5 +4,5 @@ title: About
 
 ---
 
-# Some info
+# A Computer Engineering Company - Solution Dee Co.,Ltd.
 พวกเราคือผู้ที่ชื่นชอบและหลงใหลในการเขียน `Writeln(Hello World!);` เป็นชีวิตจิตใจ และ ได้ตัดสินใจที่จะใช้ชีวิตเติบโตต่อมาบนเส้นทางของการพัฒนาร่วมไปกับเทคโนโลยี IT

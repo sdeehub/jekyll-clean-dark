@@ -1,8 +1,8 @@
 ---
-layout: page 
+layout: page
 title: About
 
 ---
 
-# Some info 
-...about how cool you are ;)
+# Some info
+พวกเราคือผู้ที่ชื่นชอบและหลงใหลในการเขียน `Writeln(Hello World!);` เป็นชีวิตจิตใจ และ ได้ตัดสินใจที่จะใช้ชีวิตเติบโตต่อมาบนเส้นทางของการพัฒนาร่วมไปกับเทคโนโลยี IT

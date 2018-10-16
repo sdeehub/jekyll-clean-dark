@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post Number 11
+title: Post Number 11 - หมายเลข ๑๑
 date:   2018-10-11 11:07
 description: This is a new post - post number 11.
 toc: true

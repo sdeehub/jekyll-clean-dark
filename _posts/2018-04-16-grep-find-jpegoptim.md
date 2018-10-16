@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "grep, find และ jpegoptim"
 date: 2018-04-16 08:55:00 +0700
-description: >
-    วันนี้มี 3 คำสั่งมาฝากจาก Ubuntu หรือ Unix (ที่ไม่ใช่ `ls` และ `sudo`) ‣ ลองมาดูกันว่า 3 คำสั่งนี้ คือ `grep`, `find` และ `jpegoptim` น่าจะช่วยให้ชีวิตพวกเราง่ายขึ้น เวลาที่เราต้องตามค้นหาและแก้ไขอะไรบางอย่าง
-categories: [developer]
-tags: [ubuntu, sdeesreallife]
+description: วันนี้มี 3 คำสั่งมาฝากจาก Ubuntu หรือ Unix (ที่ไม่ใช่ `ls` และ `sudo`) ‣ ลองมาดูกันว่า 3 คำสั่งนี้ คือ `grep`, `find` และ `jpegoptim` น่าจะช่วยให้ชีวิตพวกเราง่ายขึ้น เวลาที่เราต้องตามค้นหาและแก้ไขอะไรบางอย่าง
+tags: Ubuntu
 comments: true
 ---
 ![Ubuntu Logo](/assets/img/authors/reallife/2018-04-16/Logo-ubuntu.png)

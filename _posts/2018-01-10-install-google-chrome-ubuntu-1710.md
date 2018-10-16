@@ -1,12 +1,9 @@
 ---
-author: odd
 layout: post
 title: "ติดตั้ง Google Chrome บน Ubuntu 17.10"
 date: 2018-01-10 17:33:57 +0700
-description: >
-    มาดูการติดตั้ง Google Chrome บนระบบ OS Ubuntu 17.10 แบบตรงไปตรงมา ใช้ GUI คลิก ‣ คลิก ‣ คลิก ไป 3 ครั้งได้ครับ แล้วก็เสร็จเรียบร้อย :)
-categories: [developer]
-tags: [chrome, ubuntu, odd]
+description: มาดูการติดตั้ง Google Chrome บนระบบ OS Ubuntu 17.10 แบบตรงไปตรงมา ใช้ GUI คลิก ‣ คลิก ‣ คลิก ไป 3 ครั้งได้ครับ แล้วก็เสร็จเรียบร้อย :)
+tags: Chrome Ubuntu
 comments: true
 ---
 เพื่อไม่ให้เสียเวลา เรามาเริ่มกันเลยนะครับ ‣ ขั้นแรกเปิด browser ไปที่ [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)

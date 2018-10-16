@@ -1,11 +1,9 @@
 ---
-author: odd
 layout: post
 title: "ติดใจ Firefox"
 date: 2016-10-09 15:09:58 +0700
-description: >
-categories: [technology]
-tags: [browser, odd]
+description: Firefox ใช้แล้วติดใจนะ
+tags: Browser
 ---
 <img src="/assets/img/authors/odd/2016-10-09/firefox.jpg" alt="Firefox browser" style="border-radius:50%">
 

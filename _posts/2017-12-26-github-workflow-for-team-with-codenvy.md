@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "Workflow ดี ทีมงานก็มีความสุข"
 date: 2017-12-26 08:37:16 +0700
-description: >
-    GitHub เป็นสิ่งที่ developer ทุกคนคุ้นเคย และ ใช้งานกันได้เป็นอย่างดี สำหรับวันนี้เราจะมาดูข้อตกลงกันสักหน่อยว่าพวกเราจะใช้งาน GitHub และ Codenvy กันยังไงเอาแบบที่ให้เกิดเป็น workflow สำหรับใช้งานร่วมกันในทีม แล้วทุกคนมีรอยยิ้มไปพร้อมๆ กัน
-categories: [developer]
-tags: [github, codenvy, workflow, sdeesreallife]
+description: GitHub เป็นสิ่งที่ developer ทุกคนคุ้นเคย และ ใช้งานกันได้เป็นอย่างดี สำหรับวันนี้เราจะมาดูข้อตกลงกันสักหน่อยว่าพวกเราจะใช้งาน GitHub และ Codenvy กันยังไงเอาแบบที่ให้เกิดเป็น workflow สำหรับใช้งานร่วมกันในทีม แล้วทุกคนมีรอยยิ้มไปพร้อมๆ กัน
+tags: Github Codenvy Workflow
 comments: true
 ---
 <img src="/assets/img/authors/reallife/2017-12-26/github.png" alt="GitHub Logo">

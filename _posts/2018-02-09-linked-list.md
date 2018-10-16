@@ -1,12 +1,9 @@
 ---
-author: x
 layout: post
 title: "โครงสร้างข้อมูลลิงค์ลิสต์"
 date: 2018-02-09 09:00:00 +0700
-description: >
-    มาทำความรู้จักกับโครงสร้างข้อมูลแบบลิงค์ลิสต์
-categories: [technology]
-tags: [data-structure, x]
+description: มาทำความรู้จักกับโครงสร้างข้อมูลแบบลิงค์ลิสต์
+tags: Data-structure
 comments: true
 ---
 โครงสร้างข้อมูลแบบลิงค์ลิสต์ ถูกนำมาใช้แก้ปัญหาโครงสร้างข้อมูลแบบอาร์เรย์ ซึ่งมีข้อจำกัด ดังนี้
@@ -18,7 +15,7 @@ comments: true
 เราสามารถจำแนกลิงค์ลิสต์ได้ตามลักษณะของโหนดและลิงค์ ได้ดังนี้
 
 ### ลิงค์ลิสต์เดี่ยว (singly linked list)
-เป็นลิงค์ลิสต์ที่แต่ละโหนดมีเพียง 1 link และแต่ละโหนดจะประกอบไปด้วย 2 ส่วนคือส่วนที่เป็นข้อมูล (Info) และส่วนที่ใช้ชี้ไปยังโหนดถัดไป (Link) สำหรับโหนดสุดท้ายของลิงค์ลิสต์จะมีโหนดถัดไปเป็นค่าว่าง (Null) 
+เป็นลิงค์ลิสต์ที่แต่ละโหนดมีเพียง 1 link และแต่ละโหนดจะประกอบไปด้วย 2 ส่วนคือส่วนที่เป็นข้อมูล (Info) และส่วนที่ใช้ชี้ไปยังโหนดถัดไป (Link) สำหรับโหนดสุดท้ายของลิงค์ลิสต์จะมีโหนดถัดไปเป็นค่าว่าง (Null)
 ![Single Linked List](/assets/img/authors/x/2018-02-09/linked-list-1.PNG)
 #### ตัวอย่าง การใช้งาน Linked List ของจาวา
 ```java
@@ -31,13 +28,13 @@ public class LinkListExample {
 	public static void main(String[] args) {
 
 		 LinkedList<String> linkedlist = new LinkedList<String>();
-		 
+
 		 linkedlist.add("A");
 		 linkedlist.add("B");
 		 linkedlist.add("C");
 		 linkedlist.add("D");
 		 linkedlist.add("E");
-	     
+
 	     System.out.println("Linked List Content: " +linkedlist);
 	}
 
@@ -55,13 +52,13 @@ public class LinkListExample {
 public static void main(String[] args) {
 
 		 LinkedList<String> linkedlist = new LinkedList<String>();
-		 
+
 		 linkedlist.add("A");
 		 linkedlist.add("B");
 		 linkedlist.add("C");
 		 linkedlist.add("D");
 		 linkedlist.add("E");
-	     
+
 	     for(int i=0; i < linkedlist.size(); i++){
 	    	 if(linkedlist.get(i).equals("E")){
 	    		 System.out.println("Found E at "+i);
@@ -83,13 +80,13 @@ public static void main(String[] args) {
 public static void main(String[] args) {
 
 		 LinkedList<String> linkedlist = new LinkedList<String>();
-		 
+
 		 linkedlist.add("A");
 		 linkedlist.add("B");
 		 linkedlist.add("C");
 		 linkedlist.add("D");
 		 linkedlist.add("E");
-	     
+
 	     for(int i=0; i < linkedlist.size(); i++){
 	    	 if(linkedlist.get(i).equals("C")){
 	    		 linkedlist.add(i, "F");

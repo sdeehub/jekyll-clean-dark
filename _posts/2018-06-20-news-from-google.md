@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "อ้าวเหรอ!? เรื่องใหม่จากกูเกิ้ลเหรอ!?"
 date: 2018-06-20 12:53:00 +0700
-description: >
-    2 วันนี้มี 2 เรื่องใหม่จากกูเกิ้ลที่เพิ่งเคยใช้ คือ Android Messages ที่เป็น Web Client (อันนี้เพิ่งจะ Roll Out ออกมาให้ได้ใช้กัน เมื่อสักวัน สองวันนี้ - 19/06/2018) กับ Chrome Remote Desktop (อันนี้มีมาสักพักล่ะ แต่เราเพิ่งจะมาลองใช้กัน) ‣ มาดูกันว่าการใช้งานจะเป็นประโยชน์ยังไงกันบ้างนะครับ
-categories: [developer]
-tags: [tool, sdeesreallife]
+description: 2 วันนี้มี 2 เรื่องใหม่จากกูเกิ้ลที่เพิ่งเคยใช้ คือ Android Messages ที่เป็น Web Client (อันนี้เพิ่งจะ Roll Out ออกมาให้ได้ใช้กัน เมื่อสักวัน สองวันนี้ - 19/06/2018) กับ Chrome Remote Desktop (อันนี้มีมาสักพักล่ะ แต่เราเพิ่งจะมาลองใช้กัน) ‣ มาดูกันว่าการใช้งานจะเป็นประโยชน์ยังไงกันบ้างนะครับ
+tags: Tool
 comments: true
 ---
 เริ่มจากเรื่องที่ 1 คือ Android Messages ที่เป็น Web Client - ด้วยสิ่งนี้จะทำให้เราสามารถใช้งานรับ-ส่ง SMS จากหน้าเว็บได้ สิ่งที่ต้องมีก็คือ Android Phone และ Browser ของเรา (เหมือนกับที่เราใช้ Apple's iMessages + Mac) การจะใช้งานนั้นง่ายมากๆ คือเปิด browser บนเครื่อง PC หรือเครื่อง Mac ของเราแล้วไปที่ [https://messages.android.com/](https://messages.android.com/)

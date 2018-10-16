@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "บน Ubutu เราดูค่า IP กันตรงไหน?"
 date: 2018-08-29 11:18:00 +0700
-description: >
-    ปกติถ้าเป็นบน Windows พวกเราก็จะเข้า Dos แล้วใช้คำสั่งว่า `ipconfig` เพื่อดูค่า IP, ค่า Subnet อะไรต่างๆ แต่พอมาอยู่บน Ubuntu (หรือคำสั่งของ Unix) ต้องใช้คำสั่งอะไร ดูตรงไหนได้บ้าง?
-categories: [developer]
-tags: [ubuntu, sdeesreallife]
+description: ปกติถ้าเป็นบน Windows พวกเราก็จะเข้า Dos แล้วใช้คำสั่งว่า `ipconfig` เพื่อดูค่า IP, ค่า Subnet อะไรต่างๆ แต่พอมาอยู่บน Ubuntu (หรือคำสั่งของ Unix) ต้องใช้คำสั่งอะไร ดูตรงไหนได้บ้าง?
+tags: Ubuntu
 comments: true
 ---
 ![ipconfig](https://res.cloudinary.com/sdees-reallife/image/upload/w_200,h_200,r_max,x_45,y_35,c_crop/v1535516845/ipconfig-command.gif)

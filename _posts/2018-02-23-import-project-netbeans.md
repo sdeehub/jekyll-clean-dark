@@ -1,12 +1,9 @@
 ---
-author: x
 layout: post
 title: "Import Eclipse Project to Netbeans"
 date: 2018-02-23 09:10:10 +0700
-description: >
-    การ Import Project ของ Eclipse ใน Netbeans
-categories: [developer]
-tags: [netbeans, x]
+description: การ Import Project ของ Eclipse ใน Netbeans
+tags: Netbeans
 comments: true
 ---
 เมื่อไม่นานมานี้ มีเหตุต้องเปลี่ยน OS จาก Windows มาใช้ Ubuntu แทน ทำให้งานที่ทำอยู่ มีปัญหาเรื่องโปรแกรม คือเดิมใช้ Eclipse ในการพัฒนาโปรแกรมด้วยจาวาอยู่ แล้วมีโปรเจ็คที่ต้องใช้ SWT ซึ่งเป็น GUI Toolkit ตัวหนึ่ง

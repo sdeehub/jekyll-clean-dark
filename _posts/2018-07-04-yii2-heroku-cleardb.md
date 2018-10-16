@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "Yii2 กับ Heroku + ClearDB"
 date: 2018-07-04 16:46:00 +0700
-description: >
-    สำหรับวันนี้เราจะมาดูภาคต่อของ Yii2 หลังจากที่ได้เอาขึ้นไปอยู่บน Heroku แล้ว (อ่านตอน [Yii2 กับ Heroku](https://www.sdee.co/developer/2018/04/07/yii2-deploy-to-heroku/) ได้ที่นี่) ‣ มาดูกันว่าเราจะต้องทำยังไงให้ Yii2 ของเราสามารถใช้งานร่วมกับ ClearDB ที่มีให้บน Heroku ได้ (แทนการใช้ MySQL และ phpMyAdmin บน localhost)
-categories: [developer]
-tags: [yii2, sdeesreallife]
+description: สำหรับวันนี้เราจะมาดูภาคต่อของ Yii2 หลังจากที่ได้เอาขึ้นไปอยู่บน Heroku แล้ว (อ่านตอน [Yii2 กับ Heroku](https://www.sdee.co/developer/2018/04/07/yii2-deploy-to-heroku/) ได้ที่นี่) ‣ มาดูกันว่าเราจะต้องทำยังไงให้ Yii2 ของเราสามารถใช้งานร่วมกับ ClearDB ที่มีให้บน Heroku ได้ (แทนการใช้ MySQL และ phpMyAdmin บน localhost)
+tags: Yii2
 comments: true
 ---
 ![ClearDB](/assets/img/authors/reallife/2018-07-04/cleardb_owler_20170322_143747_original.jpg)

@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "Yii2 กับ Heroku"
 date: 2018-04-07 20:52:00 +0700
-description: >
-    หลังจากที่เราได้เคยทำการติดตั้ง Yii2 แบบใช้งานบนเครื่อง Local กันไปแล้วกับในตอนที่ชื่อว่า: [การติดตั้ง LAMP และ Yii2](https://www.sdee.co/developer/2018/03/01/install-lamp-and-yii2/) ‣ วันนี้เราจะมาดูขั้นตอนที่จะเอา Yii2 ไปไว้บน Heroku ด้วยกัน
-categories: [developer]
-tags: [yii2, sdeesreallife]
+description: หลังจากที่เราได้เคยทำการติดตั้ง Yii2 แบบใช้งานบนเครื่อง Local กันไปแล้วกับในตอนที่ชื่อว่า: [การติดตั้ง LAMP และ Yii2](https://www.sdee.co/developer/2018/03/01/install-lamp-and-yii2/) ‣ วันนี้เราจะมาดูขั้นตอนที่จะเอา Yii2 ไปไว้บน Heroku ด้วยกัน
+tags: Yii2
 comments: true
 ---
 ![Deploy to Heroku Logo](/assets/img/authors/reallife/2018-04-07/Deploy-to-heroku-logo.png)

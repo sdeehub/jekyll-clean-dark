@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "มาติดตั้ง Django บน Ubuntu 18.04 กัน"
 date: 2018-08-03 18:28:00 +0700
-description: >
-    วันนี้เราจะมาดูวิธีการติดตั้ง Django - The web framework for perfectionists with deadlines บน Ubuntu 18.04 กันนะครับ
-categories: [developer]
-tags: [Web, sdeesreallife]
+description: วันนี้เราจะมาดูวิธีการติดตั้ง Django - The web framework for perfectionists with deadlines บน Ubuntu 18.04 กันนะครับ
+tags: Web
 comments: true
 ---
 พร้อมแล้ว `Ctrl + Alt + t` เปิด Terminal กันขึ้นมาได้เลย ใช้คำสั่งนี้ `python3 --version` และ `which python3` เพื่อตรวจดูการติดตั้ง Python3 บนเครื่องของเรา ซึ่งปกติจะมาพร้อมกับ Ubuntu 18.04 เป็นที่เรียบร้อยแล้ว

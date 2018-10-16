@@ -1,12 +1,9 @@
 ---
-author: romeoow
 layout: post
 title: "วิธีการตรวจสอบว่าเครื่อง Windows ติดไวรัสหรือไม่ โดยใช้ DOS Command Line"
 date: 2015-11-23 17:17:47 +0700
-categories: [developer]
-tags: [antivirus, romeoow]
-description: >
-  สแกนไวรัสไม่ได้จำเป็น ถ้าคุณรู้เรื่อง IT มากพอ?
+tags: Antivirus
+description: สแกนไวรัสไม่ได้จำเป็น ถ้าคุณรู้เรื่อง IT มากพอ?
 ---
 ด้วย Comand Line ของ DOS ต่อไปนี้จะช่วยให้เราสามารถตรวจสอบความเคลื่อนไหวการใช้งาน network ของเครื่องเราได้ว่ามีอะไรที่ไม่ปกติหรือไม่
 

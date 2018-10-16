@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "รูปแบบที่ใช้เวลาจะเขียน Post"
 date: 2017-11-22 17:55:47 +0700
-description: >
-  If you are our website's writer: **READ THIS FIRST!** • สำหรับทุกคนที่จะเขียน blog ลงที่นี่: **กรุณาอ่านเนื้อหานี้ก่อน!**
-categories: [developer]
-tags: [hydejack, post, sdeesreallife]
+description: If you are our website's writer: **READ THIS FIRST!** • สำหรับทุกคนที่จะเขียน blog ลงที่นี่: **กรุณาอ่านเนื้อหานี้ก่อน!**
+tags: Markdown
 comments: true
 ---
 

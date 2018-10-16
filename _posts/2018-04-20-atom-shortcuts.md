@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "เพิ่มความไวเวลาใช้ Atom กัน"
 date: 2018-04-20 00:42:00 +0700
-description: >
-    Text Editor ถือเป็นเครื่องมือของที่สุดแห่งความสำคัญสำหรับการเขียน code - [เราได้เคยพูดถึงการติดตั้ง Atom กันไปแล้ว](https://www.sdee.co/developer/2018/02/27/atom-on-mac-os/) ‣ ในวันนี้จะพามาดูการใช้ Keyboard Shortcut ต่างๆ ที่ช่วยให้การทำงานไวขึ้นครับ
-categories: [developer]
-tags: [atom, sdeesreallife]
+description: Text Editor ถือเป็นเครื่องมือของที่สุดแห่งความสำคัญสำหรับการเขียน code - [เราได้เคยพูดถึงการติดตั้ง Atom กันไปแล้ว](https://www.sdee.co/developer/2018/02/27/atom-on-mac-os/) ‣ ในวันนี้จะพามาดูการใช้ Keyboard Shortcut ต่างๆ ที่ช่วยให้การทำงานไวขึ้นครับ
+tags: Atom
 comments: true
 ---
 เราจะขอแบ่งตามรูปแบบการใช้เป็น 2 ส่วนนะครับ - ส่วนแรกคือประเภทการเลื่อนและการเคลื่อนย้าย cursor และ ส่วนที่สองคือการแบ่งร่าง cursor ส่วนจะเป็นยังไงกันบ้างนั้นมาดูกันเลยนะครับ

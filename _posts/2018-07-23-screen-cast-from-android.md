@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "มาเอาหน้าจอมือถือ Android ขึ้นจอใหญ่กัน"
 date: 2018-07-23 14:17:00 +0700
-description: >
-    วันนี้เราจะมาดูวิธีการเอาหน้าจอมือถือ Android ขึ้นไปจอใหญ่ที่ PC กัน ต้องขอบอกว่าง่ายมากๆ ซะด้วย ‣ พร้อมแล้วมาดูกันเลย
-categories: [developer]
-tags: [tool, sdeesreallife]
+description: วันนี้เราจะมาดูวิธีการเอาหน้าจอมือถือ Android ขึ้นไปจอใหญ่ที่ PC กัน ต้องขอบอกว่าง่ายมากๆ ซะด้วย ‣ พร้อมแล้วมาดูกันเลย
+tags: Tool
 comments: true
 ---
 ![ScreenCast](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_200/v1532330516/imgingest-7995872468005967312.png)

@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "Google สารพัดประโยชน์"
 date: 2018-02-08 17:30:00 +0700
-description: >
-    เนื่องจากว่าเมื่อสัปดาห์ที่แล้วทีมงานของเราเพิ่งได้เข้าไปฟัง [Google Cloud OnBoard](https://cloudplatformonline.com/2018-onboard-bkk.html) ที่จัดโดย Google มา วันนี้เลยตั้งใจขอเขียนอะไรเพื่อเป็นการขอบคุณ Google ที่พวกเราคุ้นเคยและรู้จักกันมานานสัก 1 เรื่องนะครับ
-categories: [technology]
-tags: [Tool, sdeesreallife]
+description: เนื่องจากว่าเมื่อสัปดาห์ที่แล้วทีมงานของเราเพิ่งได้เข้าไปฟัง [Google Cloud OnBoard](https://cloudplatformonline.com/2018-onboard-bkk.html) ที่จัดโดย Google มา วันนี้เลยตั้งใจขอเขียนอะไรเพื่อเป็นการขอบคุณ Google ที่พวกเราคุ้นเคยและรู้จักกันมานานสัก 1 เรื่องนะครับ
+tags: Tool
 comments: true
 ---
 ว่าแต่จะเขียนเรื่อง Cloud ก็คงจะยังไม่ เอาเป็นว่าไปเรื่อง search ที่ทุกๆ คนคุ้นเคยกันดีอยู่แล้วดีกว่า คือนอกจากจะใช้ค้นหาอะไรๆ ทั่วๆ ไป แล้ว Google ยังช่วยเราในเรื่องชีวิตประจำวันแบบนี้ได้ด้วย

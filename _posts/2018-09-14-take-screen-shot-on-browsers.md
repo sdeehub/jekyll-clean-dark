@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "เก็บหน้าจอเว็บบน Browser กันยังไง?"
 date: 2018-09-14 17:52:47 +0700
-categories: [developer]
-tags: [chrome, firefox, sdeesreallife]
-description: >
-    วันนี้จะมาพูดถึงการเก็บ Screenshot หน้าเว็บที่แสดงอยู่บน Chrome กับ Firefox ซึ่งเป็น Browser 2 ตัวหลักๆ ที่เราชอบใช้กัน ว่าจะมีวิธีการแบบไหนกันบ้าง
+tags: Chrome Firefox
+description: วันนี้จะมาพูดถึงการเก็บ Screenshot หน้าเว็บที่แสดงอยู่บน Chrome กับ Firefox ซึ่งเป็น Browser 2 ตัวหลักๆ ที่เราชอบใช้กัน ว่าจะมีวิธีการแบบไหนกันบ้าง
 ---
 *Chrome* - ในส่วนแรกไปที่ Google Chrome กันก่อน ‣ การเก็บ Screenshots ของหน้าเว็บทำได้ง่ายๆ ด้วยการติดตั้ง Chrome extension ที่ชื่อว่า FireShot
 

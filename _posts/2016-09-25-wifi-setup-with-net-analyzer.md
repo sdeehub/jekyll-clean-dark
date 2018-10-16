@@ -1,12 +1,9 @@
 ---
-author: odd
 layout: post
 title: "เวลาจำเป็นใช้มือถือเข้าไป Config ตัว Router"
 date: 2016-09-25 16:26:58 +0700
-description: >
-  มือถือที่มีในมือก็เอามา set ตัว wifi router (หรือ access point) ได้นะ รู้ยัง?
-categories: [developer]
-tags: [mobile, tool, setup, odd]
+description: มือถือที่มีในมือก็เอามา set ตัว wifi router (หรือ access point) ได้นะ รู้ยัง?
+tags: Mobile Tool Setup
 ---
 <img src="/assets/img/authors/odd/2016-11-25/wifi.jpg" alt="wifi scan" style="border-radius:50%">
 

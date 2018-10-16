@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "บน Ubuntu 18.04 จะใช้การ์ดจอที่ต่อเพิ่มพร้อมกันกับ VGA Onboard จะต้องทำยังไง?"
 date: 2018-07-20 11:47:00 +0700
-description: >
-    หลายคนอาจจะคุ้นเคยกับการใส่การ์ดจอเพิ่มบนเครื่อง PC แล้วก็หันไปใช้งานจากการ์ดจอนั้นแทนการ์ดจอที่มาเป็นแบบ Onboard ‣ แต่คราวนี้ถ้าบังเอิญเราเกิดจะต้องใช้งานทั้ง 2 สิ่งนั้นพร้อมๆ กันล่ะ - ต้องทำยังไง?
-categories: [developer]
-tags: [ubuntu, sdeesreallife]
+description: หลายคนอาจจะคุ้นเคยกับการใส่การ์ดจอเพิ่มบนเครื่อง PC แล้วก็หันไปใช้งานจากการ์ดจอนั้นแทนการ์ดจอที่มาเป็นแบบ Onboard ‣ แต่คราวนี้ถ้าบังเอิญเราเกิดจะต้องใช้งานทั้ง 2 สิ่งนั้นพร้อมๆ กันล่ะ - ต้องทำยังไง?
+tags: Ubuntu
 comments: true
 ---
 ![Dual Screens Ubuntu](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_400/v1532061257/2018-07-20_11-32-59.png)

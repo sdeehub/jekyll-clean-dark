@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "บน Blogger ถ้าจะเปลี่ยนมาใช้ Google font ต้องทำแบบนี้"
 date: 2018-09-19 15:29:47 +0700
-categories: [developer]
-tags: [blogger, sdeesreallife]
-description: >
-    ต้องการเปลี่ยน font ที่จะใช้บน Blogger มาเป็น Google font ที่มีตัวหนังสือภาษาไทยสวยๆ ต้องทำยังไงดี?
+tags: Blogger
+description: ต้องการเปลี่ยน font ที่จะใช้บน Blogger มาเป็น Google font ที่มีตัวหนังสือภาษาไทยสวยๆ ต้องทำยังไงดี?
 ---
 ![Blogger Logo](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_200/v1537345937/blogger_logo.png)
 

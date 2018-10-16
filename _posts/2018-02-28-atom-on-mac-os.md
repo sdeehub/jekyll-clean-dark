@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "ติดตั้ง Atom บน macOS"
 date: 2018-02-27 21:38:00 +0700
-description: >
-      Atom คือ "A hackable text editor for the 21st Century." และวันนี้เราจะมาดูวิธีการติดตั้ง Atom บน macOS กัน
-categories: [developer]
-tags: [tool, mac, sdeesreallife]
+description: Atom คือ "A hackable text editor for the 21st Century." และวันนี้เราจะมาดูวิธีการติดตั้ง Atom บน macOS กัน
+tags: Tool Mac
 comments: true
 ---
 ![Atom Logo](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_200/v1519744167/atom-logo.jpg)

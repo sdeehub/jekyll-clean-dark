@@ -1,12 +1,9 @@
 ---
-author: x
 layout: post
 title: "Build JAR File on Netbeans IDE"
 date: 2018-03-09 09:10:10 +0700
-description: >
-   การ Build JAR File ใน Netbeans IDE
-categories: [developer]
-tags: [netbeans, x]
+description: การ Build JAR File ใน Netbeans IDE
+tags: Netbeans
 comments: true
 ---
 สำหรับวันนี้ ผมจะพูดถึงเรื่องการสร้างไฟล์ JAR ใน Netbeans IDE เผื่อมีคนที่ยังไม่รู้ คือแต่ก่อนผมจะใช้ Eclipse ในการพัฒนา คือ Export ออกมาเป็นไฟล์ .jar ได้เลย แต่พอย้ายมาพัฒนาบน Netbeans ตอนแรกก็งงว่าทำยังไง สำหรับใน Blog นี้ผมจะยกตัวอย่างตั้งแต่สร้าง Porject ใหม่เลย เพื่อให้รู้ขั้นตอนละเอียดขึ้น

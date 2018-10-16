@@ -1,12 +1,9 @@
 ---
-author: reallife
 layout: post
 title: "อัพเกรดมาใช้ Ubutu 18.04 กัน"
 date: 2018-06-06 13:21:00 +0700
-description: >
-    วันนี้ใครพอมีเวลาลองมานั่งอัพเกรด Ubuntu ให้เป็น Ubuntu 18.04 กัน
-categories: [developer]
-tags: [ubuntu, sdeesreallife]
+description: วันนี้ใครพอมีเวลาลองมานั่งอัพเกรด Ubuntu ให้เป็น Ubuntu 18.04 กัน
+tags: Ubuntu
 comments: true
 ---
 ![Upgrade to Ubuntu 18.04](https://res.cloudinary.com/sdees-reallife/image/upload/v1528266842/Screenshot_from_2018-06-06_13-30-14.png)

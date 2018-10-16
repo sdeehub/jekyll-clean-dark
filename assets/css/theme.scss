@@ -177,6 +177,9 @@ ul.sideBarTags {
 //********************************************************
 //                    Post
 //********************************************************
+.post-descr {
+  font-family: Athiti;
+}
 h2.post-title {
   font-family: Prompt;
   padding-top: 10px;
@@ -187,6 +190,7 @@ div.post-meta {
   border-color: #666666;
   border-style: solid;
   margin: 0 0 20px;
+  font-family: Athiti;
   ul {
     display: inline;
     padding-left: 0;
@@ -373,6 +377,7 @@ table.inner-borders {
 }
 .content{
   padding-bottom: 250px;
+  font-family: Athiti;
 }
 
 .post-content h1,

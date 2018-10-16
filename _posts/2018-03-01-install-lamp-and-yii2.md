@@ -2,7 +2,7 @@
 layout: post
 title: "การติดตั้ง LAMP และ Yii2"
 date: 2018-03-01 22:40:00 +0700
-description: เนื้อเรื่องในตอนนี้คือบันทึกช่วยจำเอาไว้สำหรับทำการติดตั้ง LAMP และ Yii2 แบบกระชับฉับไว ‣ ส่วนเนื้อหาแบบละเอียด มีการอธิบายที่ครอบคลุมเข้าใจง่ายสามารถอ่านได้จาก: [การติดตั้ง LAMP Stack - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04) และ [การเขียนโปรแกรมด้วย Yii2 - Jeff Reifman : envatotuts+](https://code.tutsplus.com/series/how-to-program-with-yii2--cms-725)
+description: เนื้อเรื่องในตอนนี้คือบันทึกช่วยจำเอาไว้สำหรับทำการติดตั้ง LAMP และ Yii2 แบบกระชับฉับไว
 tags: Yii2
 comments: true
 ---

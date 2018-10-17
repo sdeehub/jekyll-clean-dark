@@ -3,7 +3,8 @@ layout: post
 title: "สวัสดี Lorem Ipsum ที่รัก"
 date: 2017-11-27 16:26:58 +0700
 description: Lorem Ipsum เป็น dummy text ที่เริ่มมีใช้กันในวงการสิ่งพิมพ์ และการเรียงพิมพ์ตั้งแต่สมัยปีค.ศ. 1500 การอยู่ยงคงกระพันชาตรีมาเป็นระยะเวลากว่า 500 ปีนี้ ทำให้พวกเรา (ชาวนักออกแบบหน้าเว็บ) พากันหลงรักเธอเอาเข้าได้ง่ายๆ และจนบางครั้งความรักก็ถึงกับทำเอาพวกเราตาบอดได้ถ้าไม่ระวัง
-tags: Web
+tags:
+ - Web Design
 comments: true
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Hac habitasse platea dictumst vestibulum. Tortor vitae purus faucibus ornare suspendisse sed nisi lacus sed. Luctus accumsan tortor posuere ac ut consequat semper viverra nam. Congue eu consequat ac felis donec et odio pellentesque diam.

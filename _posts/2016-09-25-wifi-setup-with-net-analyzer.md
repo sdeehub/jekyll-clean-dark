@@ -3,7 +3,9 @@ layout: post
 title: "เวลาจำเป็นใช้มือถือเข้าไป Config ตัว Router"
 date: 2016-09-25 16:26:58 +0700
 description: มือถือที่มีในมือก็เอามา set ตัว Wi-Fi router (หรือ access point) ได้นะ รู้ยัง?
-tags: Tool
+tags:
+ - Setup
+ - Tool
 comments: true
 ---
 ![Wi-Fi Scan]({{ "/assets/images/authors/odd/2016-11-25/wifi.jpg" | relative_url }}){: .center-image }*รูปหน้าจอ: ผลการ Scan Wi-Fi*

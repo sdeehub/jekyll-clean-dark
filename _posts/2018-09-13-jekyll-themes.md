@@ -2,7 +2,9 @@
 layout: post
 title: "มาเลือก Jekyll theme กันดีกว่า"
 date: 2018-09-13 12:30:47 +0700
-tags: Jekyll
+tags:
+ - Jekyll
+ - Web Design
 description: มาดู Theme ของ Jekyll เอาไว้ใช้งานกันสักหน่อย ‣ ว่าแล้วก็เตรียมตัวจัดกันไปได้เลย
 ---
 Jekyll มี Theme ให้เลือกอยู่มากมาย ถ้าจะแบ่งโดยดูตามค่าใช้จ่ายกันก่อน ก็จะมีทั้งแบบที่ใช้ได้ฟรีไม่มีค่าใช้จ่าย และแบบที่ต้องซื้อหาเอามาใช้ หรือถ้าจะแบ่งตามตัวจัดการก็จะมีที่เป็นพื้นฐานคือ Gem based แล้วก็ Gulp แล้วก็ Node.js ที่เห็นอยู่ก็ประมาณนี้ ส่วนผู้รวบรวม Theme ก็จะมีอยู่หลายค่าย และหลายที่ อย่าง [jekyllthemes.org](http://jekyllthemes.org/) หรือจะที่ [themes.jekyllrc.org](http://themes.jekyllrc.org/) หรือที่ Github Pages ก็มี Theme ที่พร้อมให้ใช้อยู่พอประมาณด้วยเหมือนกัน

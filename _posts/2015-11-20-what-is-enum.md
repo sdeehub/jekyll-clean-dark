@@ -2,8 +2,10 @@
 layout: post
 title: "การใช้ Enum ในการเขียนโปรแกรมด้วย C#"
 date: 2015-11-20 15:17:47 +0700
-tags: C
+tags:
+  - C#
 description: e·nu·mer·a·tion - the action of mentioning a number of things one by one.
+comments: true
 ---
 **Enumeration** จะเป็นการสร้างตัวแปรให้อยู่กันเป็นชุด เป็นกลุ่ม หรือประเภทเดียวกัน  ซึ่งกลุ่มของตัวแปรที่เราสร้างขึ้นมักจะมีตัวเลขกำกับอยู่ด้วยเสมอ โดยใช้คำสั่ง enum ดังนี้:
 

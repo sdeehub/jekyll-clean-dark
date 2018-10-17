@@ -21,7 +21,7 @@ description: สแกนไวรัสไม่ได้จำเป็น ถ
 การ resolve dns cache นั้นก็คือ การเข้าถึงเว็บ ซึ่งชื่อมันจะแตกต่างกัน แบบว่า นี่ชื่อเว็บไรหว่ะ กุไม่เคยเข้า แล้ว dns มัน req เข้าไปได้ไง กุไม่เคยเข้าจีจีนะ
 เอาล่ะ….นั้นแหละ คือผิดปกติแล้ว….ล่ะ หรือ เมิงแอบเข้าเว็บโป๊แล้วไปเผลอคลิกมั่ว อันนี้ก็ไม่รู้น้าาา
 
-![DNS Cache]({{ "/assets/images/authors/romeoow/2015-11-23/blog1.png" | relative_url }}){: .center-image }หน้าจอ DNS Cache
+![DNS Cache]({{ "/assets/images/authors/romeoow/2015-11-23/blog1.png" | relative_url }}){: .center-image }*รูปหน้าจอ: DNS Cache*
 #### 3) ตรวจสอบ Network
 
 คราวนี้มาส่อง network บ้างว่ามัน ไปคุยกับใครบ้าง คุยกันทางไหน? คุยกันกี่เรื่อง? รายละเอียดเยอะไหม? และมันจะทำอะไร?
@@ -34,5 +34,5 @@ description: สแกนไวรัสไม่ได้จำเป็น ถ
 * -o   process id ของแต่ละ connection ‣ รายละเอียดเยอะไหม?
 * -b   คำสั่ง connection นั้นๆ ‣ มันจะทำอะไรของมัน?
 
-![Netstat]({{ "/assets/images/authors/romeoow/2015-11-23/blog2.png" | relative_url }}){: .center-image }*คำสั่ง netstat -naob*
+![Netstat]({{ "/assets/images/authors/romeoow/2015-11-23/blog2.png" | relative_url }}){: .center-image }*รูปหน้าจอ: คำสั่ง netstat -naob*
 ![img]({{ '/assets/images/deer.jpg' | relative_url }}){: .center-image }*(°0°)*

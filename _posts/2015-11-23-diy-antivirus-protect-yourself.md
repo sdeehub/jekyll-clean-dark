@@ -2,8 +2,11 @@
 layout: post
 title: "วิธีการตรวจสอบว่าเครื่อง Windows ติดไวรัสหรือไม่ โดยใช้ DOS Command Line"
 date: 2015-11-23 17:17:47 +0700
-tags: Antivirus
+tags:
+  - Antivirus
+  - DOS
 description: สแกนไวรัสไม่ได้จำเป็น ถ้าคุณรู้เรื่อง IT มากพอ?
+comments: true
 ---
 ด้วย Comand Line ของ DOS ต่อไปนี้จะช่วยให้เราสามารถตรวจสอบความเคลื่อนไหวการใช้งาน network ของเครื่องเราได้ว่ามีอะไรที่ไม่ปกติหรือไม่
 
@@ -13,6 +16,10 @@ description: สแกนไวรัสไม่ได้จำเป็น ถ
 ดูว่า Startup Item เมื่อเราเปิดเครื่องว่ามี Services หรือ Process อะไรที่ดูพิกลๆ ชื่อไม่คุ้น แต่ … เอ้ย … จริงๆ คุ้นไม่คุ้นนี่ก็ต้องรู้มาระดับหนึ่งเหมือนกันนะเห้ย ขืนไปลบสุ่มสี่สุ่มห้า ได้ลง Windows ใหม่ อย่ามาโทษกันนะเอ่อ…
 
 ปล. จริงๆ สามารถ กด Ctrl+Alt+Del ได้ เหมือนกันนะ แต่ง่ายๆ เดี่ยวมันไม่เทย์ดิ
+
+{% highlight bash %}
+`Ctrl`{: .key}+`A`{:.key}
+{% endhighlight bash %}
 
 #### 2) DNS Cache
 
@@ -35,4 +42,3 @@ description: สแกนไวรัสไม่ได้จำเป็น ถ
 * -b   คำสั่ง connection นั้นๆ ‣ มันจะทำอะไรของมัน?
 
 ![Netstat]({{ "/assets/images/authors/romeoow/2015-11-23/blog2.png" | relative_url }}){: .center-image }*รูปหน้าจอ: คำสั่ง netstat -naob*
-![img]({{ '/assets/images/deer.jpg' | relative_url }}){: .center-image }*(°0°)*

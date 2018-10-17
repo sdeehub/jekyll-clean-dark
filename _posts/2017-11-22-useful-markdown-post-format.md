@@ -57,7 +57,7 @@ _หมายเหตุ:_ สำหรับ {:toc} จะสร้าง link
 
 _หมายเหตุ:_ ใช้ Inline `+ style="border-radius:50%"` ในกรณีให้ Cover image กลม / ใช้ tag `{:.lead}` ดึงรูปยาวให้เต็ม และใช้ tag `{:.lead}` กับ text และ blockquote เพื่อเน้นข้อความได้ด้วย
 
-<img src="./assets/images/authors/reallife/2017-11-22/200x200.png" alt="Cover image 200x200 (Circle)" style="border-radius:50%">
+<img src="/jekyll-clean-dark/assets/images/authors/reallife/2017-11-22/200x200.png" alt="Cover image 200x200 (Circle)" style="border-radius:50%">
 
 ![BarLine image 800x100 (lead)]({{ "/assets/images/authors/reallife/2017-11-22/800x100.png" | relative_url }}){:.lead}
 

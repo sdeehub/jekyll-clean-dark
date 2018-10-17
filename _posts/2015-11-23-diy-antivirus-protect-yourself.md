@@ -15,11 +15,7 @@ comments: true
 `wmic startup list full` ใช้คำสั่ง: wmic startup list full
 ดูว่า Startup Item เมื่อเราเปิดเครื่องว่ามี Services หรือ Process อะไรที่ดูพิกลๆ ชื่อไม่คุ้น แต่ … เอ้ย … จริงๆ คุ้นไม่คุ้นนี่ก็ต้องรู้มาระดับหนึ่งเหมือนกันนะเห้ย ขืนไปลบสุ่มสี่สุ่มห้า ได้ลง Windows ใหม่ อย่ามาโทษกันนะเอ่อ…
 
-ปล. จริงๆ สามารถ กด Ctrl+Alt+Del ได้ เหมือนกันนะ แต่ง่ายๆ เดี่ยวมันไม่เทย์ดิ
-
-{% highlight bash %}
-`Ctrl`{: .key}+`A`{:.key}
-{% endhighlight bash %}
+ปล. จริงๆ สามารถ กด `Ctrl`{: .key}+`Alt`{: .key}+`Del`{: .key} ได้ เหมือนกันนะ แต่ง่ายๆ เดี่ยวมันไม่เทย์ดิ
 
 #### 2) DNS Cache
 

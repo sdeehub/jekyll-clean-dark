@@ -6,7 +6,7 @@ description: Firefox ใช้แล้วติดใจนะ
 tags: Browser
 comments: true
 ---
-<img src="/assets/img/authors/odd/2016-10-09/firefox.jpg" alt="Firefox browser" style="border-radius:50%">
+![Firefox Browser]({{ "/assets/images/authors/odd/2016-10-09/firefox.jpg" | relative_url }}){: .center-image }*Firefox Browser*
 
 ปกติเราใช้ระบบปฏิบัติการบนมือถือกัน 2 ค่ายถ้าไม่ iOS ก็ Android ซึ่ง browser ประจำแต่ละค่ายก็ คือ Safari กับ Chrome นั่นเอง มาวันนี้มีเหตุให้ต้องไปใช้ Firefox บนมือถือ ด้วยเพราะต้องการเปิด YouTube เป็น background แบบเป็นเรื่องเป็นราว ‣ แบบจริงจัง (จริงๆ Safari ก็ทำได้ แต่หลายๆ ครั้ง เครื่องจะพยายามบอกให้เราเข้าใช้ YouTube ที่เป็นแอพ)
 

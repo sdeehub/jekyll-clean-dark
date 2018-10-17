@@ -4,6 +4,7 @@ title: "ติดใจ Firefox"
 date: 2016-10-09 15:09:58 +0700
 description: Firefox ใช้แล้วติดใจนะ
 tags: Browser
+comments: true
 ---
 <img src="/assets/img/authors/odd/2016-10-09/firefox.jpg" alt="Firefox browser" style="border-radius:50%">
 

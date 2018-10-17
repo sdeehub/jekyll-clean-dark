@@ -34,4 +34,5 @@ description: สแกนไวรัสไม่ได้จำเป็น ถ
 * -o   process id ของแต่ละ connection ‣ รายละเอียดเยอะไหม?
 * -b   คำสั่ง connection นั้นๆ ‣ มันจะทำอะไรของมัน?
 
-![Netstat]({{ "/assets/images/authors/romeoow/2015-11-23/blog2.png" | relative_url }})
+![Netstat]({{ "/assets/images/authors/romeoow/2015-11-23/blog2.png" | relative_url }}){: .center-image }*คำสั่ง netstat -naob*
+({{ '/assets/images/deer.jpg' | relative_url }}){: .center-image }*(°0°)*

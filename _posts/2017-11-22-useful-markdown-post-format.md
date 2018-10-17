@@ -49,17 +49,17 @@ _หมายเหตุ:_ สำหรับ {:toc} จะสร้าง link
 * รูปทั่วไป 400x200
 * รูปยาว 800x100
 
-![Cover image 200x200](/assets/img/authors/reallife/2017-11-22/200x200.png)
+![Cover image 200x200]({{ "/assets/images/authors/reallife/2017-11-22/200x200.png" | relative_url }})
 
-![Story image 400x200](/assets/img/authors/reallife/2017-11-22/400x200.png)
+![Story image 400x200]({{ "/assets/images/authors/reallife/2017-11-22/400x200.png" | relative_url }})
 
-![BarLine image 800x100](/assets/img/authors/reallife/2017-11-22/800x100.png)
+![BarLine image 800x100]({{ "/assets/images/authors/reallife/2017-11-22/800x100.png" | relative_url }})
 
 _หมายเหตุ:_ ใช้ Inline `+ style="border-radius:50%"` ในกรณีให้ Cover image กลม / ใช้ tag `{:.lead}` ดึงรูปยาวให้เต็ม และใช้ tag `{:.lead}` กับ text และ blockquote เพื่อเน้นข้อความได้ด้วย
 
-<img src="/assets/img/authors/reallife/2017-11-22/200x200.png" alt="Cover image 200x200 (Circle)" style="border-radius:50%">
+<img src="/assets/images/authors/reallife/2017-11-22/200x200.png" alt="Cover image 200x200 (Circle)" style="border-radius:50%">
 
-![BarLine image 800x100 (lead)](/assets/img/authors/reallife/2017-11-22/800x100.png){:.lead}
+![BarLine image 800x100 (lead)]({{ "/assets/images/authors/reallife/2017-11-22/800x100.png" | relative_url }}){:.lead}
 
 ### Blocks
 สำหรับการใช้ block แนะนำให้แยกการใช้ block แบบต่างๆ ตามนี้คือ:

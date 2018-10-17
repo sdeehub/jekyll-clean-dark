@@ -2,9 +2,11 @@
 layout: post
 title: "นิดๆ หน่อยๆ นะกับการเขียน Markdown"
 date: 2017-11-17 13:32:13 +0700
+description: วันนี้เราจะมาดูการเขียน Markdown กัน เพราะเดี๋ยวนี้อะไรๆ ก็เริ่มที่จะรองรับ Markdown กันล่ะ
 tags: Markdown
+comments: true
 ---
-![Markdown](/assets/img/authors/reallife/2017-11-17/200x200.png)
+![Markdown]({{ /assets/img/authors/reallife/2017-11-17/200x200.png | relative_url }})
 ในการเขียน markdown (ไฟล์ที่มีนามสกุล - file type .markdown หรือ .md เช่นพวก readme.md เป็นต้น) ที่เป็นการเขียน lightweight markup language ด้วยการใช้รูปแบบของ text file ธรรมดาทั่วๆ ไป ในเนื้อหาตอนนี้เราได้เอา markdown syntax ที่ต้องใช้ทั่วๆ ไปสำหรับมือใหม่หรือกับใครที่ไม่อยากจำ มารวมไว้ให้เผื่อใครจะเปิดมาดูได้ใช้อ้างอิงได้อย่างสะดวก ส่วน original spec นั้นดูได้จากที่ [Daring Fireball by John Gruber](https://daringfireball.net/projects/markdown/)
 
 ### การกำหนด Header

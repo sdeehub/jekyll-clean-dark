@@ -3,7 +3,7 @@ layout: post
 title: "การใช้ Enum ในการเขียนโปรแกรมด้วย C#"
 date: 2015-11-20 15:17:47 +0700
 tags:
-  - C#
+  - Coding
 description: e·nu·mer·a·tion - the action of mentioning a number of things one by one.
 comments: true
 ---

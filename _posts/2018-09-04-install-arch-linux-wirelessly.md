@@ -3,7 +3,8 @@ layout: post
 title: "ติดตั้ง Arch Linux แต่มีแค่ Wi-Fi นะครับ"
 date: 2018-09-04 13:19:00 +0700
 description: วันนี้เราจะมาดูกันว่าการติดตั้ง Arch Linux ในแบบที่เราไม่สามารถต่อสาย LAN ได้ จะมีให้ใช้แค่ Wireless บนเครื่อง แล้วเราต้องทำอะไรเพิ่มเติมจากการติดตั้งแบบปกติกันบ้าง
-tags: Arch Linux
+tags:
+	- Arch Linux
 comments: true
 ---
 ![Arch Linux](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1536042431/archlinux-logo-dark-90dpi.ebdee92a15b3.png)

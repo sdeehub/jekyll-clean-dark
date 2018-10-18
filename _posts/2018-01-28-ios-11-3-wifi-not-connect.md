@@ -26,13 +26,13 @@ comments: true
 
 <a id="caution"></a>*คำเตือน:* มาถึงตรงนี้ขอให้เข้าใจว่า *(1)* Follow this advice at your own risk - ทำต่อไปด้วยความระมัดระวังและรับผิดชอบการกระทำด้วยตัวคุณเอง และ *(2)* ให้ทำการ `Backup` [ข้อมูลไว้ก่อนจะด้วย iTunes หรือบน iCloud ก็ได้](https://support.apple.com/th-th/HT203977) แต่ขอให้ทำ `Backup` ให้เรียบร้อย - ถ้ามีคำถามว่าต่อเนทไม่ได้แล้วจะเข้า iCloud ยังไง? ‣ อย่างของเราจะเข้าเนทด้วยการ Share Hotspot หรือ Wi-Fi แบบที่ไม่ต้องใส่ password (ถึงจะไม่ค่อย secure เท่าไหร่แต่ก็ OK สำหรับใช้ชั่วคราว)
 
-*ข้อ 5. ทางแก้สุดท้าย:* ที่ iPad ไปที่ `Settings` ‣ `General` ‣ `Reset` ‣ `Erase All Content and Settings` แล้วคลิก `Erase Now`
+    *ข้อ 5. ทางแก้สุดท้าย:* ที่ iPad ไปที่ `Settings` ‣ `General` ‣ `Reset` ‣ `Erase All Content and Settings` แล้วคลิก `Erase Now`
 
-![Erase All Content and Settings]({{ "/assets/images/authors/reallife/2018-01-28/erase-all-content-and-settings.jpg" | relative_url }})
+    ![Erase All Content and Settings]({{ "/assets/images/authors/reallife/2018-01-28/erase-all-content-and-settings.jpg" | relative_url }})
 
-![Confirm to Erase Now]({{ "/assets/images/authors/reallife/2018-01-28/confirm-to-erase.jpg" | relative_url }})
+    ![Confirm to Erase Now]({{ "/assets/images/authors/reallife/2018-01-28/confirm-to-erase.jpg" | relative_url }})
 
-ตรงนี้คือจะเป็นการทำ Factory Reset ทุกอย่างบนเครื่องจะหายเกลี้ยงทั้ง: ข้อมูล, แอพ, เพลง และการตั้งค่าต่างๆ ทุกอย่างรวมถึงอาการผิดปกติที่เราเจอด้วย หลังจากเครื่องรีบูทกลับมา เราสามารถใช้งาน Wi-Fi ได้เป็นปกติ และข้อมูลที่สำรองไว้ก็เอากลับมาเข้าเครื่องได้ตามขั้นตอน [การ Restore ข้อมูล](https://support.apple.com/th-th/HT204184)
+    ตรงนี้คือจะเป็นการทำ Factory Reset ทุกอย่างบนเครื่องจะหายเกลี้ยงทั้ง: ข้อมูล, แอพ, เพลง และการตั้งค่าต่างๆ ทุกอย่างรวมถึงอาการผิดปกติที่เราเจอด้วย หลังจากเครื่องรีบูทกลับมา เราสามารถใช้งาน Wi-Fi ได้เป็นปกติ และข้อมูลที่สำรองไว้ก็เอากลับมาเข้าเครื่องได้ตามขั้นตอน [การ Restore ข้อมูล](https://support.apple.com/th-th/HT204184)
 
 
 ท้ายนี้เราหวังว่าทุกอย่างจะเป็นไปด้วยความเรียบร้อย และคุณจะได้ iPad กลับมาใช้งานได้เป็นปกติเหมือนเราเช่นกัน

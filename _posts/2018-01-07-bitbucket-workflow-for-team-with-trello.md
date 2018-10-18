@@ -3,10 +3,13 @@ layout: post
 title: "Workflow ดี ทีมงาน (ไหนๆ) ก็มีความสุข"
 date: 2018-01-07 12:37:57 +0700
 description: สวัสดีปีใหม่ และในโอกาสเดียวกันนี้ขอแสดงความยินดีในโอกาสวันคล้ายวันเกิดของบริษัท โซลูชั่น ดี จำกัด (ครบรอบ 16 ปี) ไปพร้อมๆ กัน ‣ วันนี้เราจะมาดู workflow สำหรับกรณีที่ว่าทีมงานจำเป็นจะต้องเลือกใช้ Bitbucket กันครับ
-tags: Bitbucket Trello Workflow
+tags:
+ - Bitbucket
+ - Trello
+ - Workflow
 comments: true
 ---
-<img src="/assets/img/authors/reallife/2018-01-07/bitbucket.png" alt="Bitbucket Logo">
+![Bitbucket Logo]({{ "/assets/images/authors/reallife/2018-01-07/bitbucket.png" | relative_url }})
 
 หลายๆ ทีมมีเหตุให้ต้องใช้ Bitbucket สำหรับงาน source control กันก็เพราะ Bitbucket เป็นบริการที่ให้เราสร้าง repository ในแบบ private ได้โดยไม่มีการจำกัดจำนวน และไม่มีค่าใช้จ่ายใดๆ (ข้อจำกัดจะไปอยู่ที่ผู้ใช้ในทีมงานต้องไม่เกิน 5 คน)
 

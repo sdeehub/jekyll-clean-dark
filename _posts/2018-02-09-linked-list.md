@@ -3,7 +3,8 @@ layout: post
 title: "โครงสร้างข้อมูลลิงค์ลิสต์"
 date: 2018-02-09 09:00:00 +0700
 description: มาทำความรู้จักกับโครงสร้างข้อมูลแบบลิงค์ลิสต์
-tags: Data-structure
+tags:
+ - Data Structure
 comments: true
 ---
 โครงสร้างข้อมูลแบบลิงค์ลิสต์ ถูกนำมาใช้แก้ปัญหาโครงสร้างข้อมูลแบบอาร์เรย์ ซึ่งมีข้อจำกัด ดังนี้
@@ -16,7 +17,9 @@ comments: true
 
 ### ลิงค์ลิสต์เดี่ยว (singly linked list)
 เป็นลิงค์ลิสต์ที่แต่ละโหนดมีเพียง 1 link และแต่ละโหนดจะประกอบไปด้วย 2 ส่วนคือส่วนที่เป็นข้อมูล (Info) และส่วนที่ใช้ชี้ไปยังโหนดถัดไป (Link) สำหรับโหนดสุดท้ายของลิงค์ลิสต์จะมีโหนดถัดไปเป็นค่าว่าง (Null)
-![Single Linked List](/assets/img/authors/x/2018-02-09/linked-list-1.PNG)
+
+![Single Linked List]({{ "/assets/images/authors/x/2018-02-09/linked-list-1.PNG" | relative_url }})
+
 #### ตัวอย่าง การใช้งาน Linked List ของจาวา
 ```java
 package linkedlist;

@@ -13,15 +13,15 @@ comments: true
 1. กด `DOWNLOAD CHROME`
 2. เลือก `64 bit .deb (For Debian/Ubuntu)` แล้วกด `ACCEPT AND INSTALL`
 
-  ![Download 64 bit .deb]({{ "/assets/images/authors/odd/2018-01-10/2018-01-10_17-07-11.png" | relative_url }})
+    ![Download 64 bit .deb]({{ "/assets/images/authors/odd/2018-01-10/2018-01-10_17-07-11.png" | relative_url }})
 
 3. เลือก `Open with` : `Software Install (default)` แล้วกด `OK`
 
-  ![Select Default Installer]({{ "/assets/images/authors/odd/2018-01-10/2018-01-10_17-07-47.png" | relative_url }})
+    ![Select Default Installer]({{ "/assets/images/authors/odd/2018-01-10/2018-01-10_17-07-47.png" | relative_url }})
 
 4. คลิกที่ `Install`
 
-  ![Click to install google-chrome-stable]({{ "/assets/images/authors/odd/2018-01-10/2018-01-10_17-08-25.png" | relative_url }})
+    ![Click to install google-chrome-stable]({{ "/assets/images/authors/odd/2018-01-10/2018-01-10_17-08-25.png" | relative_url }})
 
 ทั้งหมดกด mouse ไปน่าจะครบ 3 คลิกพอดี (หรืออาจจะมีเกินมาหน่อยๆ) แต่ว่าเสร็จเรียบร้อย ได้ Google Chrome ที่ติดตั้งใหม่มาใช้บน Ubuntu เรียบร้อยแล้วครับ
 

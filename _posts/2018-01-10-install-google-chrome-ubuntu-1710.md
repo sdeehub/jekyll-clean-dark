@@ -10,16 +10,16 @@ comments: true
 ---
 เพื่อไม่ให้เสียเวลา เรามาเริ่มกันเลยนะครับ ‣ ขั้นแรกเปิด browser ไปที่ [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 
-1. กด `DOWNLOAD CHROME`
-2. เลือก `64 bit .deb (For Debian/Ubuntu)` แล้วกด `ACCEPT AND INSTALL`
+1) กด `DOWNLOAD CHROME`
+2) เลือก `64 bit .deb (For Debian/Ubuntu)` แล้วกด `ACCEPT AND INSTALL`
 
 ![Download 64 bit .deb]({{ "/assets/images/authors/odd/2018-01-10/2018-01-10_17-07-11.png" | relative_url }})
 
-3. เลือก `Open with` : `Software Install (default)` แล้วกด `OK`
+3) เลือก `Open with` : `Software Install (default)` แล้วกด `OK`
 
 ![Select Default Installer]({{ "/assets/images/authors/odd/2018-01-10/2018-01-10_17-07-47.png" | relative_url }})
 
-4. คลิกที่ `Install`
+4) คลิกที่ `Install`
 
 ![Click to install google-chrome-stable]({{ "/assets/images/authors/odd/2018-01-10/2018-01-10_17-08-25.png" | relative_url }})
 

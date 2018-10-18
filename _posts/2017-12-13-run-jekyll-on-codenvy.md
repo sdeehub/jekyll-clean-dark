@@ -18,7 +18,9 @@ comments: true
 * ตั้งชื่อ stack แล้วกด `SAVE` (สีเขียว)
 
 ![new stack]({{ "/assets/images/authors/reallife/2017-12-13/2017-12-14_13-31-10.png" | relative_url }})
+
 ![docker file]({{ "/assets/images/authors/reallife/2017-12-13/2017-12-14_11-48-34.png" | relative_url }})
+
 ![save stack]({{ "/assets/images/authors/reallife/2017-12-13/2017-12-14_11-49-24.png" | relative_url }})
 
 #### สร้าง workspace ขึ้นมา
@@ -33,6 +35,7 @@ comments: true
 * ในส่วน `PROJECTS` ตรงนี้จะให้เอาข้อมูลมาจาก GitHub Pages ที่เป็น site ของเรา ‣ เลือก Git แล้วใส่ URL ลงไป (หรือถ้า login ด้วย GitHub เลือกที่ GitHub แล้วเลือกไปที่ repository ที่เป็น site ของเราก็ได้) พอเลือกได้แล้วคลิก `Add` (สีฟ้า) แล้วก็คลิก `CREATE` (สีเขียว)
 
 ![git project]({{ "/assets/images/authors/reallife/2017-12-13/2017-12-14_16-55-05.png" | relative_url }})
+
 ![project added]({{ "/assets/images/authors/reallife/2017-12-13/2017-12-14_17-02-58.png" | relative_url }})
 
 * หลังจากระบบทำ workspace ให้เสร็จเรียบร้อย ที่ Terminal ด้านล่าง `ls -la` จะเห็นว่ามีโฟลเดอร์ของ Jekyll อยู่ด้วย ‣ `cd` เข้าไปที่ site project และสั่งรัน `bundle install`
@@ -62,7 +65,9 @@ http://${server.port.4000}/
 ~~~
 
 ![custom run command]({{ "/assets/images/authors/reallife/2017-12-13/2017-12-14_17-44-01.png" | relative_url }})
+
 ![run command details]({{ "/assets/images/authors/reallife/2017-12-13/2017-12-15_18-05-31.png" | relative_url }})
+
 ![preview link]({{ "/assets/images/authors/reallife/2017-12-13/2017-12-14_18-01-32.png" | relative_url }})
 
 สั่งรัน และ คลิกดูผลลัพธ์ได้จาก preview link ต่อจากนี้เราก็สามารถเข้ามาจัดการอัพเดท/แก้ไข site ของเราที่ workspace นี้ได้จากทุกเครื่อง ทุกที่ ทุกเวลา
@@ -70,6 +75,7 @@ http://${server.port.4000}/
 สำหรับการใช้งานร่วมกันหลายๆ คนในทีมบน workspace นี้ ต้องเข้าไปเพิ่มผู้ใช้มาไว้ที่ workspace นี้ด้วยอีกนิดนึง ‣ คลิกที่เมนู Workspaces ด้านซ้าย แล้วคลิกที่ Configure workspace (ขวามือรูปเกียร์ตรงกลางใต้คอลัมน์ `ACTIONS`) ‣ คลิกที่ `Share` ‣ คลิก `+ Add Developer` แล้วเพิ่มผู้ใช้งานเข้าไป
 
 ![set workspace]({{ "/assets/images/authors/reallife/2017-12-13/2017-12-15_17-39-06.png" | relative_url }})
+
 ![add developer]({{ "/assets/images/authors/reallife/2017-12-13/2017-12-15_17-40-51.png" | relative_url }})
 
 คราวนี้ทุกคนก็เข้ามาช่วยกันได้ล่ะ พออัพเดทข้อมูลทุกอย่างเรียบร้อยพร้อมจะเอาขึ้นเว็บแล้วก็แค่ git push กลับขึ้นไปที่ repository ก็เท่านั้น ยิ้มหวานสบายใจกันไปทุกๆ คน - ขอขอบคุณ Jekyll, GitHub และ Codenvy สำหรับเทคโนโลยีของพวกเขาไว้ณ.ที่นี้ด้วย :)

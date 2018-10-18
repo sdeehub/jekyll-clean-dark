@@ -3,10 +3,13 @@ layout: post
 title: "Workflow ดี ทีมงานก็มีความสุข"
 date: 2017-12-26 08:37:16 +0700
 description: GitHub เป็นสิ่งที่ developer ทุกคนคุ้นเคย และ ใช้งานกันได้เป็นอย่างดี สำหรับวันนี้เราจะมาดูข้อตกลงกันสักหน่อยว่าพวกเราจะใช้งาน GitHub และ Codenvy กันยังไงเอาแบบที่ให้เกิดเป็น workflow สำหรับใช้งานร่วมกันในทีม แล้วทุกคนมีรอยยิ้มไปพร้อมๆ กัน
-tags: Github Codenvy Workflow
+tags:
+ - Codenvy
+ - Github
+ - Workflow
 comments: true
 ---
-<img src="/assets/img/authors/reallife/2017-12-26/github.png" alt="GitHub Logo">
+![Github Logo]({{ "/assets/images/authors/reallife/2017-12-26/github.png" | relative_url }})
 
 สภาพแวดล้อมการทำงานของเราจะมี GitHub และ Codenvy บวกกับทีมงานที่ผ่านการคัดเลือกให้ทุกคนได้เข้าร่วม read/write แก้ไข code บน repository ของเราได้ สำหรับที่ branch: `master` ถือเป็นปลายทางของงานซึ่งจะผ่านการ deploy แบบอัตโนมัติทันทีออกไปที่ GitHub Pages, Heroku หรือ cloud based อื่นๆ ตามที่เลือกใช้ ส่วนห้อยท้ายของ workflow เรามองว่าเปิดความเป็นไปได้ให้กับเพื่อนๆ FC, groupie หรือผู้ที่ใช้งานมากกว่าทั่วๆ ไป มีความสนใจเข้ามา request ให้ออก feature ใหม่ๆ หรือแจ้ง bug การใช้งานไว้ อะไรแบบนี้ก็สามารถทำได้ด้วยเช่นกัน ‣ จากที่ว่ามานี้มีผลทำให้เราได้ขั้นตอนการทำงานออกมาประมาณนี้คือ:
 
@@ -16,6 +19,7 @@ comments: true
 {:toc}
 ### New issue
 ทุกครั้งที่จะมีการปรับเปลี่ยน, เพิ่มเติม, แก้ไขอะไร เราจะเริ่มต้นด้วยการออก issue ใหม่ใน GitHub ขึ้นมาก่อน ตรงนี้จะเป็นจุดเริ่มต้นที่พวกเราตั้งชื่องาน ใส่รายละเอียดของ issue, ลง label และอ้างถึงผู้ที่เกี่ยวข้องกับงานให้เรียบร้อยครบถ้วนให้มากที่สุด
+
 > Well Begun is Half Done. ~ Aristotle
 
 ### New branch

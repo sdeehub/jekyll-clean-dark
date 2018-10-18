@@ -11,6 +11,8 @@ comments: true
 ---
 ![Github Logo]({{ "/assets/images/authors/reallife/2017-12-26/github.png" | relative_url }})
 
+<img src="/jekyll-clean-dark/assets/images/authors/reallife/2017-12-26/github.png" alt="Github Logo" style="border-radius:50%">
+
 สภาพแวดล้อมการทำงานของเราจะมี GitHub และ Codenvy บวกกับทีมงานที่ผ่านการคัดเลือกให้ทุกคนได้เข้าร่วม read/write แก้ไข code บน repository ของเราได้ สำหรับที่ branch: `master` ถือเป็นปลายทางของงานซึ่งจะผ่านการ deploy แบบอัตโนมัติทันทีออกไปที่ GitHub Pages, Heroku หรือ cloud based อื่นๆ ตามที่เลือกใช้ ส่วนห้อยท้ายของ workflow เรามองว่าเปิดความเป็นไปได้ให้กับเพื่อนๆ FC, groupie หรือผู้ที่ใช้งานมากกว่าทั่วๆ ไป มีความสนใจเข้ามา request ให้ออก feature ใหม่ๆ หรือแจ้ง bug การใช้งานไว้ อะไรแบบนี้ก็สามารถทำได้ด้วยเช่นกัน ‣ จากที่ว่ามานี้มีผลทำให้เราได้ขั้นตอนการทำงานออกมาประมาณนี้คือ:
 
 ### ขั้นตอนการทำงาน

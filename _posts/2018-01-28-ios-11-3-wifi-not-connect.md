@@ -26,7 +26,7 @@ comments: true
 
     <a id="caution"></a>*คำเตือน:* มาถึงตรงนี้ขอให้เข้าใจว่า *(1)* Follow this advice at your own risk - ทำต่อไปด้วยความระมัดระวังและรับผิดชอบการกระทำด้วยตัวคุณเอง และ *(2)* ให้ทำการ `Backup` [ข้อมูลไว้ก่อนจะด้วย iTunes หรือบน iCloud ก็ได้](https://support.apple.com/th-th/HT203977) แต่ขอให้ทำ `Backup` ให้เรียบร้อย - ถ้ามีคำถามว่าต่อเนทไม่ได้แล้วจะเข้า iCloud ยังไง? ‣ อย่างของเราจะเข้าเนทด้วยการ Share Hotspot หรือ Wi-Fi แบบที่ไม่ต้องใส่ password (ถึงจะไม่ค่อย secure เท่าไหร่แต่ก็ OK สำหรับใช้ชั่วคราว)
 
-  5. *(ทางแก้สุดท้าย)* ที่ iPad ไปที่ `Settings` ‣ `General` ‣ `Reset` ‣ `Erase All Content and Settings` แล้วคลิก `Erase Now`
+5. *(ทางแก้สุดท้าย)* ที่ iPad ไปที่ `Settings` ‣ `General` ‣ `Reset` ‣ `Erase All Content and Settings` แล้วคลิก `Erase Now`
 
     ![Erase All Content and Settings]({{ "/assets/images/authors/reallife/2018-01-28/erase-all-content-and-settings.jpg" | relative_url }})
 

@@ -3,10 +3,12 @@ layout: post
 title: "ใช้ Trello กับงานร้านอาหาร"
 date: 2017-12-09 08:01:30 +0700
 description: วันนี้เราจะเอา Trello มาช่วยงานร้านอาหารกันครับ ปกติทั่วไปมักจะคุ้นกันที่ว่า Trello มักใช้กับงานโปรเจค, งาน Dev. ไม่ก็สำหรับพวกทีม Agile? แต่ถ้ามองให้ดีๆ ในร้านอาหารถึงจะไม่มีงาน Dev. ไม่มีทีม Agile แต่ในร้านอาหารก็มีงานให้ต้องจัดการ และ Trello ก็สามารถช่วยเราได้ ว่าแล้วมาลองดูกัน!
-tags: Tool Trello
+tags:
+ - Tool
+ - Trello
 comments: true
 ---
-![Trello](/assets/img/authors/reallife/2017-12-09/trello.png)
+![Trello]({{ "/assets/images/authors/reallife/2017-12-09/trello.png" | relative_url }})
 
 [Trello](https://trello.com) คือ เครื่องมือช่วยจัดการเวลาที่เราต้องทำงานหลายๆ งาน แต่ละงานมีหลายๆ ขั้นตอน และมีคนเข้ามาทำงานร่วมกันหลายๆ คน เป็นส่วนผสมของเครื่องมือบริหารจัดการ ดูความเป็นไปของงาน และ collaboration tool ที่ใช้ง่าย เข้าใช้งานได้ฟรีบน cloud ผ่านทางหน้าเว็บ หรือลงแอพบนมือถือ หรือ tablet ก็ได้ มีทั้ง [iOS](https://itunes.apple.com/us/app/trello/id461504587?mt=8) และ [Android](https://play.google.com/store/apps/details?id=com.trello&hl=en) วันนี้จะลองเอา Trello มาใช้ในงานร้านอาหารกัน พร้อมแล้วเรามาเริ่มกันเลย
 

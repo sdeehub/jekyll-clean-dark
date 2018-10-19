@@ -10,11 +10,11 @@ comments: true
 
 *วิธีที่ 1 แบบที่เป็น GUI* - เข้าไปที่ `Settings` ‣ `Network` หรือ `Wi-Fi` แล้วแต่ว่าเครื่องของเราตอนนั้นต่อด้วยสาย หรือไร้สาย แล้วคลิกที่ไอคอนรูปเกียร์ จะได้ข้อมูลที่เราต้องการ
 
-![network settings](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_400/v1535523799/Screenshot_from_2018-08-29_12-18-21.png)
+![network settings](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1535523799/Screenshot_from_2018-08-29_12-18-21.png)
 
-![wi-fi settings](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_400/v1535523800/Screenshot_from_2018-08-29_12-18-40.png)
+![wi-fi settings](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1535523800/Screenshot_from_2018-08-29_12-18-40.png)
 
-ถัดมาจากวิธีที่ 1 ที่เป็น GUI ก็เหลือแต่ที่จะต้องใช้คำสั่ง ‣ เริ่มจากการเปิด Terminal ด้วย `Ctrl - Alt - t`
+ถัดมาจากวิธีที่ 1 ที่เป็น GUI ก็เหลือแต่ที่จะต้องใช้คำสั่ง ‣ เริ่มจากการเปิด Terminal ด้วย `Ctrl`{: .key}+`Alt`{: .key}+`T`{: .key}
 
 - `hostname -I` - อันนี้ดูจะง่ายสุด ผลลัพธ์ที่ได้ก็เรียบง่ายด้วยเช่นกัน คือบอกค่า IP ที่เราต้องการรู้
 - `ip addr` - แบบนี้คือใช้คำสั่ง ip แล้วบอกให้แสดง address หรือจะดูค่าอย่างอื่นก็ได้ด้วย เช่น `ip route`, `ip neigh` แบบนี้เป็นต้น สำหรับรายละเอียดทั้งหมดของคำสั่งก็ดูด้วย `man ip` ได้เลย

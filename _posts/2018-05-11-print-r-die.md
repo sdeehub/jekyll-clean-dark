@@ -2,7 +2,7 @@
 layout: post
 title: "print_r(); die(); ทำแบบนี้ได้อ่านง่ายขึ้น"
 date: 2018-05-11 15:30:00 +0700
-description: วันนี้มีคำแนะนำมาให้สำหรับมือใหม่ในการใช้ `print_r();` และ `die();` - ทำแบบนี้จะช่วยให้เราอ่านผลของการ `print_r();` ได้ง่ายขึ้น
+description: วันนี้มีคำแนะนำมาให้สำหรับมือใหม่ในการใช้ 'print_r();' และ 'die();' - ทำแบบนี้จะช่วยให้เราอ่านผลของการ 'print_r();' ได้ง่ายขึ้น
 tags: Yii2
 comments: true
 ---
@@ -45,9 +45,9 @@ Array
 
 อีกวิธีนึงก็คือเวลา `print_r(); die();` อ่านไม่ค่อยออก ที่ browser ให้เปิด view source จะช่วยให้อ่านได้ง่ายขึ้น
 
-Firefox: `Menu ‣ Web Developer ‣ Page Source` หรือกด `Ctrl-u`
+Firefox: `Menu ‣ Web Developer ‣ Page Source` หรือกด `Ctrl`{: .key}+`U`{: .key}
 
-Chrome: `Menu ‣ More tools ‣ Developer tools` หรือกด `Ctrl-Shift-i`
+Chrome: `Menu ‣ More tools ‣ Developer tools` หรือกด `Ctrl`{: .key}+`Shift`{: .key}+`I`{: .key}
 
 ตัวอย่างเช่นจากผลลัพธ์อะไรคล้ายๆ แบบนี้
 
@@ -63,7 +63,7 @@ app\models\RfqUploadedFiles Object ( [_attributes:yii\db\BaseActiveRecord:privat
 has already been taken. ) )
 ```
 
-จะกลายมาเป็นแบบนี้ บน Firefox ด้วยการกด `Ctrl-u`
+จะกลายมาเป็นแบบนี้ บน Firefox ด้วยการกด `Ctrl`{: .key}+`U`{: .key}
 
 ```
 app\models\RfqUploadedFiles Object

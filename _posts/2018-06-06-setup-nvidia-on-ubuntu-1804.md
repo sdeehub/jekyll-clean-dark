@@ -3,10 +3,12 @@ layout: post
 title: "ติดตั้ง Nvidia Driver บน Ubutu 18.04"
 date: 2018-06-06 18:54:00 +0700
 description: หลังจากติดตั้ง Ubuntu 18.04 (หรืออัพเกรดมาก็ได้) หากเรามีความจำเป็นต้องติดตั้ง VGA Driver ของ Nvidia จะมีขั้นตอนยังไง มาดูกันได้เลย
-tags: Ubuntu Nvidia
+tags:
+ - Nvidia
+ - Ubuntu
 comments: true
 ---
-ขั้นตอนแรกคือเปิด Terminal ด้วย `Ctrl-Alt-t` แล้วพิมพ์คำสั่งนี้ลงไป `ubuntu-drivers devices`
+ขั้นตอนแรกคือเปิด Terminal ด้วย `Ctrl`{: .key}+`Alt`{: .key}+`T`{: .key} แล้วพิมพ์คำสั่งนี้ลงไป `ubuntu-drivers devices`
 
 ~~~
 $ ubuntu-drivers devices

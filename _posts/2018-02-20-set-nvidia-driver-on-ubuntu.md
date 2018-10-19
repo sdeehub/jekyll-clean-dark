@@ -3,7 +3,9 @@ layout: post
 title: "ลง driver การ์ดจอ Nvidia บน Ubuntu 17.10"
 date: 2018-02-20 15:25:15 +0700
 description: สำหรับใครที่ใช้การ์ดจอของ Nvidia และต้องการติดตั้ง driver สำหรับใช้งานบน Ubuntu เรามีวิธีการติดตั้งมาแนะนำเพื่อนๆ ตามนี้ครับ
-tags: Ubuntu
+tags:
+ - Nvidia
+ - Ubuntu
 comments: true
 ---
 เริ่มด้วยการเปิด terminal ขึ้นมาก่อนเป็นอันดับแรก ด้วยการกด ‣ `Ctrl`{: .key}+`Alt`{: .key}+`T`{: .key}

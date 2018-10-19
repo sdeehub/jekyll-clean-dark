@@ -3,7 +3,9 @@ layout: post
 title: "Keyboard shortcuts ที่ช่วยให้วันสบายๆ ของพวกเราง่ายยิ่งขึ้น"
 date: 2018-09-07 10:26:00 +0700
 description: อยู่มาวันนึงในวันสบายๆ ที่พวกเราย้ายที่นั่งทำงานจากในออฟฟิศ ไปนั่งคิด นั่งเขียนงานกันตามร้านกาแฟริมทุ่งนา นั่นทำให้เกิดความเข้าใจว่าการย้อนกลับไปสู่อะไรที่เรียบง่ายนั้นมีความสุขโดยแท้ และพระเอกที่ช่วยเราไว้ให้ยังทำงานกันได้อย่างว่องไวก็คือ Keyboard shortcuts ที่พวกเราจะเอามาเล่าให้ฟังกันในวันนี้นะครับ
-tags: Tool
+tags:
+ - Tool
+ - Ubuntu
 comments: true
 ---
 ![Easy afternoon](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1539959821/rawpixel-668176-unsplash.jpg){: .center-image }*Photo by [rawpixel](https://unsplash.com/@rawpixel) on [Unsplash](https://unsplash.com/)*

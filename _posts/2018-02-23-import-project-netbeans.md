@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Import Eclipse Project to Netbeans"
+title: "Import Eclipse Project to NetBeans"
 date: 2018-02-23 09:10:10 +0700
-description: การ Import Project ของ Eclipse ใน Netbeans
-tags: Netbeans
+description: การ Import Project ของ Eclipse ใน NetBeans
+tags: NetBeans
 comments: true
 ---
 เมื่อไม่นานมานี้ มีเหตุต้องเปลี่ยน OS จาก Windows มาใช้ Ubuntu แทน ทำให้งานที่ทำอยู่ มีปัญหาเรื่องโปรแกรม คือเดิมใช้ Eclipse ในการพัฒนาโปรแกรมด้วยจาวาอยู่ แล้วมีโปรเจ็คที่ต้องใช้ SWT ซึ่งเป็น GUI Toolkit ตัวหนึ่ง
 
 ทีนี้เจ้าตัว Plugin ที่ใช้คือ WindowBuilder ของ Eclipse ดันมี Bug ซะนี่ ทำให้งานที่ทำต้องสะดุดไป ทำไงดีล่ะทีนี้ ผมก็เลยไปพิจารณาดูว่ามี GUI Toolkit ตัวอื่นที่ใช้แทนได้ไหมใน Eclipse แล้วไม่ต้องใช้ WindowBuilder ผมหาอยู่นานไม่เจอแฮะ ชักเริ่มเสียเวลาแล้ว
 
-จึงตัดสินใจลองเปลี่ยนวิธีดู ใน Netbeans ก็มีเจ้าตัว Swing ที่มาพร้อมกับ Netbeans เลยน่าจะใช้ได้และไม่มีปัญหา เลยลองไปเล่นตัว Swing บน Netbeans ดู ผลปรากฎว่าผมชอบกว่าตัว SWT ซะอีก เลยตัดสินใจที่จะเปลี่ยน จาก Eclipse ไปใช้ Netbeans เพื่อที่จะได้ใช้เจ้า Swing ได้เต็มที่
+จึงตัดสินใจลองเปลี่ยนวิธีดู ใน NetBeans ก็มีเจ้าตัว Swing ที่มาพร้อมกับ NetBeans เลยน่าจะใช้ได้และไม่มีปัญหา เลยลองไปเล่นตัว Swing บน NetBeans ดู ผลปรากฎว่าผมชอบกว่าตัว SWT ซะอีก เลยตัดสินใจที่จะเปลี่ยน จาก Eclipse ไปใช้ NetBeans เพื่อที่จะได้ใช้เจ้า Swing ได้เต็มที่
 
-สำหรับการ Import โปรเจ็คเดิมที่ทำบน Eclipse ให้ไปอยู่ใน Netbeans ก็มีขั้นตอนง่ายๆ ต่อไปนี้
+สำหรับการ Import โปรเจ็คเดิมที่ทำบน Eclipse ให้ไปอยู่ใน NetBeans ก็มีขั้นตอนง่ายๆ ต่อไปนี้
 
 1. ไปที่เมนู `File` ‣ `Import Project` ‣ `Eclipse Project...`
 
@@ -34,4 +34,4 @@ comments: true
 
     ![Resolve File](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:20,w_400/v1519483264/resolve_file.png)
 
-    เท่านี้ก็เป็นอันเสร็จสิ้นขั้นตอนการ Import Project ที่พัฒนาบน Eclipse เข้ามาพัฒนาต่อที่ Netbeans แล้ว
+    เท่านี้ก็เป็นอันเสร็จสิ้นขั้นตอนการ Import Project ที่พัฒนาบน Eclipse เข้ามาพัฒนาต่อที่ NetBeans แล้ว

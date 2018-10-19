@@ -8,7 +8,7 @@ comments: true
 ---
 LAMP ในที่นี้เราหมายถึง Linux, Apache2, MySQL และ PHP ที่จะทำการติดตั้งบน OS Ubuntu 17.10 และ Yii2 ในที่นี้เราหมายถึง Basic Project Template
 
-#### เริ่มจากติดตั้ง Apache2:
+### เริ่มจากติดตั้ง Apache2:
 ```
 $ sudo apt update
 $ sudo apt install apache2
@@ -22,7 +22,7 @@ $ which apache2
 $ apache2 -v
 ```
 
-#### ติดตั้ง MySQL Server:
+### ติดตั้ง MySQL Server:
 ```
 $ sudo apt install mysql-server
 ```
@@ -45,7 +45,7 @@ Remove test database and access to it? - Y
 Reload privilege tables now? - Y
 ```
 
-#### ติดตั้ง PHP:
+### ติดตั้ง PHP:
 ```
 $ sudo apt install php libapache2-mod-php php-mysql
 ```
@@ -62,7 +62,7 @@ phpinfo();
 ?>
 ```
 
-#### ติดตั้ง phpMyAdmin:
+### ติดตั้ง phpMyAdmin:
 ```
 $ sudo apt install phpmyadmin
 ```
@@ -79,7 +79,7 @@ $ echo 'Include /etc/phpmyadmin/apache.conf' | sudo tee -a /etc/apache2/apache2.
 $ sudo systemctl restart apache2.service
 ```
 
-#### ติดตั้ง Composer
+### ติดตั้ง Composer
 ในแบบ Global
 ```
 $ cd ~
@@ -89,12 +89,12 @@ $ php composer-setup.php
 $ php -r "unlink('composer-setup.php');"
 $ sudo mv composer.phar /usr/local/bin/composer
 ```
-#### ติดตั้ง Plugin:
+### ติดตั้ง Plugin:
 ```
 $ composer global require "fxp/composer-asset-plugin:~1.3"
 ```
 
-#### เปลี่ยนในส่วนของ /var/www
+### เปลี่ยนในส่วนของ /var/www
 ```
 $ sudo chown -R www-data:www-data /var/www
 $ sudo chmod -R 775 /var/www
@@ -102,7 +102,7 @@ $ sudo adduser $USER www-data
 ```
 *ข้อสำคัญ:* `adduser` จะมีผลต้อง logout ก่อนแล้ว login กลับเข้ามาใหม่นะครับ
 
-#### ติดตั้ง Yii2:
+### ติดตั้ง Yii2:
 ใช้ Basic Template สร้างโปรเจคชื่อ hello
 
 ```

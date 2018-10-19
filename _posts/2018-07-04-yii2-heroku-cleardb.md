@@ -6,14 +6,16 @@ description: สำหรับวันนี้เราจะมาดูภ�
 tags: Yii2
 comments: true
 ---
-![ClearDB](/assets/img/authors/reallife/2018-07-04/cleardb_owler_20170322_143747_original.jpg)
+![ClearDB]({{ "/assets/images/authors/reallife/2018-07-04/cleardb_owler_20170322_143747_original.jpg" | relative_url }})
 
 ขั้นแรกเราจะติดตั้ง ClearDB ที่เป็น Add-ons ให้กับ Heroku App ของเราซะก่อน โดยจะใช้คำสั่งจากเครื่อง local คือ:
 ```
 $ cd /var/www/hello
 $ heroku addons:create cleardb:ignite
 ```
-![ClearDB Plans & Pricing](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_500/v1530863429/Screenshot_from_2018-07-06_14-45-21.png)
+
+![ClearDB Plans & Pricing](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_500/v1530863429/Screenshot_from_2018-07-06_14-45-21.png)
+
 เมื่อเราได้ทำการเพิ่ม ClearDB เข้าไปแล้ว ให้ใช้คำสั่ง
 ```
 $ heroku config | grep CLEARDB_DATABASE_URL
@@ -74,7 +76,7 @@ Migrated up successfully.
 ```
 หลังจากที่ได้ Table มาแล้วคราวนี้ก่อนที่เราจะเรียก Gii ที่ localhost ให้แก้ไขไฟล์ `web/index.php` เพื่อให้ค่า environment กลับไปเป็น mode ของการ dev. ซะก่อน ตามนี้
 
-```
+```php
 <?php
 
 // comment out the following two lines when deployed to production
@@ -96,7 +98,7 @@ $config = require __DIR__ . '/../config/web.php';
 ```
 แล้วก็ทำการ commit และ push ขึ้น Heroku - เวลาเพิ่มค่าลงใน DB *สังเกตว่า auto_increment ของ ClearDB ในตัวอย่างคือค่า ID* จะเพิ่มทีละ 10? ซึ่งสามารถดูคำอธิบายเพิ่มเติมได้จากที่นี่ [ClearDB FAQ](http://w2.cleardb.net/faqs/#general_16)
 
-![Yii2 on Heroku](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_500/v1530872407/Screenshot_from_2018-07-06_17-18-09.png)
+![Yii2 on Heroku](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_500/v1530872407/Screenshot_from_2018-07-06_17-18-09.png)
 
 สำหรับ interface ในส่วนของการจัดการ DB เราจะใช้ Add-ons ที่ชื่อ Adminium มาใช้แทน phpMyAdmin ที่เราเคยติดตั้งและใช้งานกันอยู่บน localhost - ซึ่ง Adminium นี้จะสามารถติดตั้งผ่านทางหน้าเว็บ Heroku App ของเราก็ได้ หรือจะด้วยคำสั่งนี้:
 
@@ -104,6 +106,6 @@ $config = require __DIR__ . '/../config/web.php';
 $ heroku addons:create adminium
 ```
 
-![Adminium DB Management](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_500/v1530873200/Screenshot_from_2018-07-06_17-31-28.png)
+![Adminium DB Management](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_500/v1530873200/Screenshot_from_2018-07-06_17-31-28.png)
 
 ทั้งหมดนี้ก็จะทำให้ Yii2 ของเราไปรันอยู่บน Heroku พร้อมกับ ClearDB ได้อย่างเรียบร้อย สบายใจไปทั่วหน้ากัน ‣ ขอให้มีความสุขกับการพัฒนาเว็บแอพด้วย Yii2 กับ Heroku + ClearDB นะครับทุกๆ คน

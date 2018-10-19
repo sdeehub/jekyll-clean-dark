@@ -3,7 +3,9 @@ layout: post
 title: "การติดตั้ง LAMP และ Yii2"
 date: 2018-03-01 22:40:00 +0700
 description: เนื้อเรื่องในตอนนี้คือบันทึกช่วยจำเอาไว้สำหรับทำการติดตั้ง LAMP และ Yii2 แบบกระชับฉับไว
-tags: Yii2
+tags:
+ - Framework
+ - Yii2
 comments: true
 ---
 LAMP ในที่นี้เราหมายถึง Linux, Apache2, MySQL และ PHP ที่จะทำการติดตั้งบน OS Ubuntu 17.10 และ Yii2 ในที่นี้เราหมายถึง Basic Project Template

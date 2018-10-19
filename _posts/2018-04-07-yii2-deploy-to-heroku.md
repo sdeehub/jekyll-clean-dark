@@ -3,7 +3,9 @@ layout: post
 title: "Yii2 กับ Heroku"
 date: 2018-04-07 20:52:00 +0700
 description: หลังจากที่เราได้เคยทำการติดตั้ง Yii2 แบบใช้งานบนเครื่อง Local กันไปแล้ว วันนี้เราจะมาดูขั้นตอนที่จะเอา Yii2 ไปไว้บน Heroku ด้วยกัน
-tags: Yii2
+tags:
+ - Framework
+ - Yii2
 comments: true
 ---
 ![Deploy to Heroku Logo]({{ "/assets/images/authors/reallife/2018-04-07/Deploy-to-heroku-logo.png" | relative_url }})

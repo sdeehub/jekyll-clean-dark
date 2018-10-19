@@ -3,10 +3,12 @@ layout: post
 title: "มาติดตั้ง Django บน Ubuntu 18.04 กัน"
 date: 2018-08-03 18:28:00 +0700
 description: วันนี้เราจะมาดูวิธีการติดตั้ง Django - The web framework for perfectionists with deadlines บน Ubuntu 18.04 กันนะครับ
-tags: Web
+tags:
+ - Framework
+ - Ubuntu
 comments: true
 ---
-พร้อมแล้ว `Ctrl + Alt + t` เปิด Terminal กันขึ้นมาได้เลย ใช้คำสั่งนี้ `python3 --version` และ `which python3` เพื่อตรวจดูการติดตั้ง Python3 บนเครื่องของเรา ซึ่งปกติจะมาพร้อมกับ Ubuntu 18.04 เป็นที่เรียบร้อยแล้ว
+พร้อมแล้ว `Ctrl`{: .key}+`Alt`{: .key}+`T`{: .key} เปิด Terminal กันขึ้นมาได้เลย ใช้คำสั่งนี้ `python3 --version` และ `which python3` เพื่อตรวจดูการติดตั้ง Python3 บนเครื่องของเรา ซึ่งปกติจะมาพร้อมกับ Ubuntu 18.04 เป็นที่เรียบร้อยแล้ว
 
 ```
 $ python3 --version
@@ -14,7 +16,7 @@ Python 3.6.5
 $ which python3
 /usr/bin/python3
 ```
-ถัดมาเราก็จะทำ `python3` ให้เป็น default ของเรา ด้วยการ `nano ~./bashrc` แล้วเพิ่มบรรทัดนี้ลงที่ท้ายไฟล์ `alias python=python3` เสร็จแล้วก็ `Ctrl-x` เพื่อ Save ไฟล์ ‣ เสร็จแล้วก็สั่ง `Source` แล้วตรวจผลตามนี้:
+ถัดมาเราก็จะทำ `python3` ให้เป็น default ของเรา ด้วยการ `nano ~./bashrc` แล้วเพิ่มบรรทัดนี้ลงที่ท้ายไฟล์ `alias python=python3` เสร็จแล้วก็ `Ctrl`{: .key}+`X`{: .key} เพื่อ Save ไฟล์ ‣ เสร็จแล้วก็สั่ง `Source` แล้วตรวจผลตามนี้:
 ```
 $ source ~/.bashrc
 $ python --version
@@ -90,4 +92,4 @@ Quit the server with CONTROL-C.
 เปิด Browser ไปที่ http://192.168.1.39:8000 ก็จะเจอกับ Django รออยู่
 ![django](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_600/v1533727467/Screenshot_from_2018-08-08_18-23-52.png)
 
-ส่งท้ายอีกนิดนึงนะครับ ถ้าจะจบการทำงานก็ `Ctrl-c` และดูดีๆ นิดนึงจะมีเรื่อง Migration อยู่อีกหน่อย ก็คือตรงนี้หยุด Server ซะก่อนแล้วใช้คำสั่ง `python manage.py migrate` ทุกอย่างก็จะเรียบร้อยครับ
+ส่งท้ายอีกนิดนึงนะครับ ถ้าจะจบการทำงานก็ `Ctrl`{: .key}+`C`{: .key} และดูดีๆ นิดนึงจะมีเรื่อง Migration อยู่อีกหน่อย ก็คือตรงนี้หยุด Server ซะก่อนแล้วใช้คำสั่ง `python manage.py migrate` ทุกอย่างก็จะเรียบร้อยครับ

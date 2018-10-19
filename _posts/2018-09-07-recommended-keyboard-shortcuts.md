@@ -3,10 +3,10 @@ layout: post
 title: "Keyboard shortcuts ที่ช่วยให้วันสบายๆ ของพวกเราง่ายยิ่งขึ้น"
 date: 2018-09-07 10:26:00 +0700
 description: อยู่มาวันนึงในวันสบายๆ ที่พวกเราย้ายที่นั่งทำงานจากในออฟฟิศ ไปนั่งคิด นั่งเขียนงานกันตามร้านกาแฟริมทุ่งนา นั่นทำให้เกิดความเข้าใจว่าการย้อนกลับไปสู่อะไรที่เรียบง่ายนั้นมีความสุขโดยแท้ และพระเอกที่ช่วยเราไว้ให้ยังทำงานกันได้อย่างว่องไวก็คือ Keyboard shortcuts ที่พวกเราจะเอามาเล่าให้ฟังกันในวันนี้นะครับ
-tags: Tips
+tags: Tool
 comments: true
 ---
-![Easy afternoon](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1539959821/rawpixel-668176-unsplash.jpg){: .center-image }*Photo by [rawpixel](https://unsplash.com/@rawpixel) on [Unsplash](https://unsplash.com/)*
+![Easy afternoon](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1539959821/rawpixel-668176-unsplash.jpg){: .center-image }*Photo by [rawpixel](https://unsplash.com/@rawpixel) on [Unsplash](https://unsplash.com/)*
 
 ปกติถ้าอยู่กันในออฟฟิศแล้ว ส่วนใหญ่พวกเราเกือบทุกๆ คน จะนั่งทำงานกันอยู่ในสภาพของป้อมปราการหรืออะไรที่คล้ายๆ กันในสภาพแบบนี้มั๊ยครับ
 
@@ -20,7 +20,7 @@ comments: true
 
 *Tips:* ถ้ามีเวลาว่างๆ ลองตั้งค่า Touchpad ดู เราอาจจะพบว่ามีการเคลื่อนนิ้วบางอย่าง เช่นพวกการตั้งค่า Gesture หรืออาจจะเป็นการใช้ 2 นิ้วเพื่อ Scroll หรือการเปลี่ยนไปใช้ Edge Scroll ค่าต่างๆ พวกนี้ถ้าลองปรับดู บางทีจะทำให้เราได้ใช้ Touchpad ในแบบที่เข้ากับความชอบและความถนัดกับตัวเรามากขึ้นได้ครับ
 
-![Touchpad settings](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1536559487/Screenshot_from_2018-09-10_13-04-31.png){: .center-image }
+![Touchpad settings](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1536559487/Screenshot_from_2018-09-10_13-04-31.png){: .center-image }
 
 ### Keyboard shortcuts ที่แนะนำบน Browser
 เวลาใช้งาน Browser ไม่ว่าค่ายไหนก็จะมี Shortcuts ที่พวกเราอยากแนะนำเหล่านี้เหมือนๆ กัน จริงๆ มีหลายคีย์มากกว่านี้ แต่นี่คัดมาแล้วครับว่าใช้บ่อย และทำให้เราใช้งานได้ไวขึ้นจริงๆ

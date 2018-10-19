@@ -10,23 +10,23 @@ comments: true
 
 เข้าไปที่ `Settings` โดยการคลิกที่ปุ่ม `Apps Button` แล้วเลือก `Settings`
 
-![Ubuntu Welcome Screen](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_400/v1535038452/Screenshot_from_2018-08-23_22-10-10.png)
+![Ubuntu Welcome Screen](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1535038452/Screenshot_from_2018-08-23_22-10-10.png)
 
-![Apps Button](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_400/v1535038636/Screenshot_from_2018-08-23_22-00-53.png)
+![Apps Button](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1535038636/Screenshot_from_2018-08-23_22-00-53.png)
 
 หรือคลิกที่แถบด้านบนตรง `System Menu` แล้วคลิกที่ `Settings`
 
-![System Menu ‣ Settings](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_400/v1535038744/Screenshot_from_2018-08-23_21-59-52.png)
+![System Menu ‣ Settings](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1535038744/Screenshot_from_2018-08-23_21-59-52.png)
 
 ในส่วนของ `Dock` ให้เลือก `Auto-hide the Dock` เป็น `ON`
 
-![Dock ‣ Auto-hide](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_400/v1535038831/Screenshot_from_2018-08-23_21-56-13.png)
+![Dock ‣ Auto-hide](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1535038831/Screenshot_from_2018-08-23_21-56-13.png)
 
 แค่นี้แถบด้านข้างก็จะซ่อนเองอัตโนมัติเวลาที่มีหน้าจออื่นเลื่อนมาบังแล้วนะครับ คราวนี้มาถึงแถบด้านบนกันบ้าง
 
 ให้เราคลิกเข้าไปที่ `Apps Button` ‣ `Ubuntu Software` แล้ว `Search` คำว่า `Hide Top Bar` (เป็น Add-ons ในพวก Shell Extensions) แล้วคลิก `Install`
 
-![Ubuntu ‣ Software Hide Top Bar](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_400/v1535039118/Screenshot_from_2018-08-23_22-22-18.png)
+![Ubuntu ‣ Software Hide Top Bar](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1535039118/Screenshot_from_2018-08-23_22-22-18.png)
 
 แค่นี้แถบด้านบนก็จะซ่อนเองอัตโนมัติเวลาที่มีหน้าจออื่นเลื่อนมาบังแล้วนะครับ สรุปว่าถ้าต้องใช้เครื่องที่หน้าจอไม่ใหญ่มาก เราก็รู้แล้วว่าจะสามารถซ่อนแถบด้านข้าง กับด้านบนได้ยังไง ถึงจะได้เนื้อที่เพิ่มมาไม่มากแต่บางทีการเปลี่ยนแปลงเล็กๆ แบบนี้ก็ช่วยให้พวกเราทำงานได้ง่ายขึ้นมากเหมือนกันนะครับ
 

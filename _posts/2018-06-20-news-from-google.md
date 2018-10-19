@@ -8,7 +8,7 @@ comments: true
 ---
 เริ่มจากเรื่องที่ 1 คือ Android Messages ที่เป็น Web Client - ด้วยสิ่งนี้จะทำให้เราสามารถใช้งานรับ-ส่ง SMS จากหน้าเว็บได้ สิ่งที่ต้องมีก็คือ Android Phone และ Browser ของเรา (เหมือนกับที่เราใช้ Apple's iMessages + Mac) การจะใช้งานนั้นง่ายมากๆ คือเปิด browser บนเครื่อง PC หรือเครื่อง Mac ของเราแล้วไปที่ [https://messages.android.com/](https://messages.android.com/)
 
-![messages.android.com](/assets/img/authors/reallife/2018-06-20/Screenshot_from_2018-06-20_13-40-58.png)
+![messages.android.com]({{ "/assets/images/authors/reallife/2018-06-20/Screenshot_from_2018-06-20_13-40-58.png" | relative_url }})
 
 หยิบมือถือที่เป็น Android ของเราขึ้นมาแล้วทำตามขั้นตอน 1 2 3 คือเปิดแอปที่ใช้รับ-ส่ง SMS อันนี้จะต้องเป็น [Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en)
 
@@ -26,7 +26,7 @@ comments: true
 
 เหลืออีกเรื่องคือ Chrome Remote Desktop - อันนี้ก็ติดตั้งและใช้งานได้ง่ายๆ เช่นกัน สำหรับบน PC หรือ Mac จะติดตั้งเป็น Extension อยู่บน Google Chrome (บวกกับลงโปรแกรมอีกนิดหน่อย ตามที่มีหน้าจอให้เราติดตั้งเวลาที่จะใช้งาน)
 
-![Chrome Remote Desktop Extension](/assets/img/authors/reallife/2018-06-20/Screenshot_from_2018-06-19_11-47-35.png)
+![Chrome Remote Desktop Extension]({{ "/assets/images/authors/reallife/2018-06-20/Screenshot_from_2018-06-19_11-47-35.png" | relative_url }})
 
 ส่วนบนมือถือก็ติดตั้ง Chrome Remote Desktop จาก Play Store หรือ App Store
 
@@ -34,7 +34,7 @@ comments: true
 
 การตั้งค่าบนเครื่องของเราตรงไป-ตรงมาครับ มี 2 Mode ให้เลือก แต่ละแบบมีการใช้ Key และ Pin สำหรับให้อีกฝั่งเอาไปกรอกตอนที่จะเชื่อมต่อเข้ามา
 
-![Chrome Remote Desktop](/assets/img/authors/reallife/2018-06-20/Screenshot_from_2018-06-19_11-21-33.png)
+![Chrome Remote Desktop]({{ "/assets/images/authors/reallife/2018-06-20/Screenshot_from_2018-06-19_11-21-33.png" | relative_url }})
 
 แล้วในการใช้งานก็จะทำให้เราสามารถ Remote เข้ามาใช้งานบนเครื่องของเราได้จากทุกที่ ที่มีเนทและจากมือถือก็ได้
 

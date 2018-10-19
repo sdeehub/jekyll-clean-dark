@@ -90,6 +90,7 @@ Starting development server at http://192.168.1.39:8000/
 Quit the server with CONTROL-C.
 ```
 เปิด Browser ไปที่ http://192.168.1.39:8000 ก็จะเจอกับ Django รออยู่
-![django](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_600/v1533727467/Screenshot_from_2018-08-08_18-23-52.png)
+
+![django](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1533727467/Screenshot_from_2018-08-08_18-23-52.png)
 
 ส่งท้ายอีกนิดนึงนะครับ ถ้าจะจบการทำงานก็ `Ctrl`{: .key}+`C`{: .key} และดูดีๆ นิดนึงจะมีเรื่อง Migration อยู่อีกหน่อย ก็คือตรงนี้หยุด Server ซะก่อนแล้วใช้คำสั่ง `python manage.py migrate` ทุกอย่างก็จะเรียบร้อยครับ

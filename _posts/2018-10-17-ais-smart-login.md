@@ -3,7 +3,8 @@ layout: post
 title: ตั้งค่าเข้าใช้ AIS Smart Login บน Linux Notebook
 date: 2018-10-17 21:34:47 +0700
 tags:
-  - Setup
+ - Arch Linux
+ - Setup
 description: หน้าจอการตั้งค่าเวลาจะใช้ AIS Smart Login จากเครื่องที่เป็น Linux ครับ
 comments: true
 ---

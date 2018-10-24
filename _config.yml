@@ -22,11 +22,11 @@ share:
   email: true
 
 social:
-  github: streetturtle
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
+  github: sdeehub
+  # stackoverflow: ''
+  # linkedin:
+  instagram: cpe.sdee.co
+  # lastfm: ''
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
@@ -39,7 +39,7 @@ yandex_metrica:
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
 disqus: sdeesreallife
-comments: false
+comments: true
 
 permalink: /:year/:month/:title
 

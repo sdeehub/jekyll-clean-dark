@@ -5,22 +5,37 @@ date: 2018-10-25 15:07:47 +0700
 tags:
  - Browser
  - Tool
-description: สำหรับพวกเราที่ชอบเข้า browser ในแบบ private หรือ incognito mode วันนี้เรามี DuckDuckGo มาแนะนำ
+description: ถ้าความเป็นส่วนตัวในการค้นหาและท่องเน็ตคือสิ่งที่คุณถามหา วันนี้พวกเรามี DuckDuckGo มาแนะนำ
 comments: true
 ---
-![DuckDuckGo Logo](https://res.cloudinary.com/sdees-reallife/image/upload/c_thumb,h_200,r_max,w_200/v1540459575/proxy.duckduckgo.com.png){: .center-image }
+![DuckDuckGo Policy](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1540472335/Screenshot_2018-10-25_DuckDuckGo_Privacy.png){: .center-image }
 
-ด้วยความแตกต่างของนโยบาย DuckDuckGo คือชื่อที่จะทำให้พวกเรามั่นใจได้ว่าการท่องเน็ตของพวกเรา มีความเป็นส่วนตัว - จะไม่มีใครมาคอยเฝ้าติดตาม ประเภทที่คอยเก็บข้อมูลว่าเราไปค้นอะไร ไปคลิกตรงไหน
+ด้วยความแตกต่างของนโยบาย [DuckDuckGo](https://duckduckgo.com/privacy) คือชื่อที่จะทำให้พวกเรามั่นใจได้ว่าการท่องเน็ตของพวกเรา = มีความเป็นส่วนตัว ในแบบที่จะไม่มีใครมาคอยเฝ้าติดตาม หรือคอยเก็บข้อมูลว่าเราไปค้นอะไร ไปคลิกตรงไหน
 
 ![DuckDuckGo Begin](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1540455500/DuckDuckGo_Browser_Extension_Mobile_App.png){: .center-image }
 
-อันนี้ไม่ใช่เพราะกลัวความลับอะไรจะรั่วไหล เพราะเราใช้งานอยู่บนเครื่องของเราเอง (ยกเว้นกรณีที่ใช้เน็ตบนเครื่องสาธารณะ อันนั้นคือที่ๆ ต้องใช้ความระมัดระวังเกี่ยวกับข้อมูลส่วนตัว ข้อมูลการเงิน ข้อมูลรหัสผ่านต่างๆ อย่างเป็นพิเศษ อย่าทิ้งข้อมูลสำคัญพวกนั้นไว้บนเครื่อง) - cookies หรือ history ของ browser หรือแม้แต่เวลาที่เราใช้ search engine เจ้าข้อมูลพวกนี้สะสมรวมกันยิ่งนานๆ เข้า ก็ทำให้พวกเราตกเป็นเป้าของสินค้าและบริการจากผลิตภัณฑ์ต่างๆ ได้เหมือนกัน
+เพราะว่าข้อมูลพวก cookies หรือ history ของ browser หรือแม้แต่เวลาที่เราใช้ search engine เจ้าข้อมูลพวกนี้สะสมรวมกันยิ่งนานๆ เข้า ก็ทำให้พวกเราตกเป็นเป้าของสินค้าและบริการจากผลิตภัณฑ์ต่างๆ ได้เหมือนกัน
 
-อย่างเช่น [Filter Bubble](https://en.wikipedia.org/wiki/Filter_bubble) - อันนี้ก็เป็นผลของ algorithm ที่เอาข้อมูลส่วนตัวเกี่ยวกับการใช้งานเน็ตของผู้ใช้อย่างเราๆ ไปรวบรวมแล้วให้ผลลัพธ์ของการ search (รวมทั้งโฆษณา) ที่ได้ ล้อกันไปตามประวัติการใช้งานของเรานั่นเอง เหมือนตีกรอบให้เราด้วยข้อมูลการใช้งานที่สะสมมา ลักษณะว่าดูประวัติการใช้แล้วรู้ว่าเราชอบอะไร ต่อไปพอถามหาอะไรก็เลยจัดของที่ชอบให้
+ดูอย่างเช่น [Filter Bubble](https://en.wikipedia.org/wiki/Filter_bubble) - อันนี้ก็เป็นผลของ algorithm ที่เอาข้อมูลส่วนตัวเกี่ยวกับการใช้งานเน็ตของผู้ใช้อย่างเราๆ ไปรวบรวมบวกกับการวิเคราะห์ข้อมูล เพื่อจะหาผลลัพธ์ของการ search (รวมทั้งโฆษณา) ที่จะเข้าทางไปกับความชอบของเรา
 
-เพราะแบบนี้หลายคนเลยมักเลี่ยงไปใช้ browser ในแบบ private หรือ incognito mode เอาตรงนี้เข้ามาช่วยให้เพิ่มความสบายใจ - แต่เพื่อให้เป็นทางเลือกที่จะไม่ต้องเกี่ยวพันกับค่ายใหญ่อย่าง Google วันนี้พวกเราเลยขอแนะนำ DuckDuckGo ให้เป็นอีกหนึ่งทางเลือก การใช้งานมีทั้งที่เป็น
-* search engine
-* browser mobile app - [iOS](https://itunes.apple.com/us/app/duckduckgo-search-stories/id663592361?mt=8), [Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android)
-* browser extension - [Chrome](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
+ซึ่งก็มองได้ทั้งในมุมที่ดี และมุมที่มากเกินไป ทำให้หลายคนเลยมักเลี่ยงไปใช้ browser ในแบบ private หรือ incognito mode กันเพื่อช่วยเพิ่มความสบายใจ - แต่เพื่อให้เป็นทางเลือกที่จะไม่ต้องเกี่ยวพันกับค่ายใหญ่อย่าง Google วันนี้พวกเราเลยขอแนะนำ DuckDuckGo ให้เป็นอีกหนึ่งทางเลือก
 
-![DuckDuckGo Ending](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_200/v1540458660/Screenshot_20181025-150303.png){: .center-image }
+![DuckDuckGo Website](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1540471375/Screenshot_2018-10-25_DuckDuckGo_Privacy_simplified.png){: .center-image }
+
+การใช้งานมีทั้งที่เป็น
+* search engine - [duckduckgo.com](https://duckduckgo.com/)
+* browser mobile app - [iOS](https://itunes.apple.com/us/app/duckduckgo-search-stories/id663592361?mt=8)
+* browser mobile app - [Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android)
+* browser extension - [Chrome](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
+* browser extension - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
+
+![DuckDuckGo Ending](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1540458660/Screenshot_20181025-150303.png){: .center-image }
+
+ผลของการใช้งานก็ตรงไป-ตรงมา จากตัวอย่างรูปข้างล่างนี้เป็นการใช้งาน browser เข้าเว็บของพวกเราคือ [www.sdee.co](https://www.sdee.co) พอเปิดไปดูที่ Dashboard ก็จะรู้ว่า
+* เชื่อมต่อด้วย https - Encrypted Connection
+* ปิดข้อมูล tracker ไป 1 จุดเพราะว่าที่ site ของพวกเราวาง Google Analytics ไว้ - 1 Tracker Blocked
+* *สำหรับหน้าเว็บที่มีโฆษณา* - โฆษณาจะถูกปิดทั้งหมด
+
+![DuckDuckGo Dashboard](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1540472590/Screenshot_20181025-192354.png){: .center-image }
+
+และแล้วก็ถึงเวลาที่ต้องตัดสินใจ ลองเอา DuckDuckGo มาใช้งานกันดูนะครับ ได้ผลเป็นยังไง หรือใครมีวิธีการอื่นแบบไหนเพื่อรักษาความเป็นส่วนตัวเวลาท่องเน็ตก็บอกต่อกันได้

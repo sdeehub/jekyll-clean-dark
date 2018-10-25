@@ -29,13 +29,13 @@ comments: true
 * browser extension - [Chrome](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 * browser extension - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
 
-![DuckDuckGo Ending](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1540458660/Screenshot_20181025-150303.png){: .center-image }
+![DuckDuckGo Ending](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_300/v1540458660/Screenshot_20181025-150303.png){: .center-image }
 
 ผลของการใช้งานก็ตรงไป-ตรงมา จากตัวอย่างรูปข้างล่างนี้เป็นการใช้งาน browser เข้าเว็บของพวกเราคือ [www.sdee.co](https://www.sdee.co) พอเปิดไปดูที่ Dashboard ก็จะรู้ว่า
 * เชื่อมต่อด้วย https - Encrypted Connection
 * ปิดข้อมูล tracker ไป 1 จุดเพราะว่าที่ site ของพวกเราวาง Google Analytics ไว้ - 1 Tracker Blocked
 * *สำหรับหน้าเว็บที่มีโฆษณา* - โฆษณาจะถูกปิดทั้งหมด
 
-![DuckDuckGo Dashboard](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1540472590/Screenshot_20181025-192354.png){: .center-image }
+![DuckDuckGo Dashboard](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_300/v1540472590/Screenshot_20181025-192354.png){: .center-image }
 
-และแล้วก็ถึงเวลาที่ต้องตัดสินใจ ลองเอา DuckDuckGo มาใช้งานกันดูนะครับ ได้ผลเป็นยังไง หรือใครมีวิธีการอื่นแบบไหนเพื่อรักษาความเป็นส่วนตัวเวลาท่องเน็ตก็บอกต่อกันได้
+และแล้วก็ถึงเวลาที่ต้องตัดสินใจ ลองเอา DuckDuckGo มาใช้งานกันดูนะครับ ได้ผลเป็นยังไง หรือใครมีวิธีการอื่นแบบไหนเพื่อรักษาความเป็นส่วนตัวเวลาท่องเน็ตก็บอกๆ กันได้ - ขอให้เทคโนโลยีและการเข้าถึงข้อมูลนำมาซึ่งความปลอดภัยและความสบายใจของพวกเราทุกๆ คนนะครับ

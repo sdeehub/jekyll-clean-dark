@@ -8,7 +8,7 @@ tags:
 description: สำหรับพวกเราที่ชอบเข้า browser ในแบบ private หรือ incognito mode วันนี้เรามี DuckDuckGo มาแนะนำ
 comments: true
 ---
-![DuckDuckGo Logo](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_200/v1540459575/proxy.duckduckgo.com.png){: .center-image }
+![DuckDuckGo Logo](https://res.cloudinary.com/sdees-reallife/image/upload/c_thumb,h_200,r_max,w_200/v1540459575/proxy.duckduckgo.com.png){: .center-image }
 
 ด้วยความแตกต่างของนโยบาย DuckDuckGo คือชื่อที่จะทำให้พวกเรามั่นใจได้ว่าการท่องเน็ตของพวกเรา มีความเป็นส่วนตัว - จะไม่มีใครมาคอยเฝ้าติดตาม ประเภทที่คอยเก็บข้อมูลว่าเราไปค้นอะไร ไปคลิกตรงไหน
 

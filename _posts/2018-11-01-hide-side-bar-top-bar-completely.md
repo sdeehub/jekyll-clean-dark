@@ -12,17 +12,17 @@ comments: true
 
 ทำการติดตั้งให้เรียบร้อย เสร็จแล้วคลิก `Extension Settings`
 
-![Dash to dock - Settings](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541058809/Screenshot_from_2018-10-31_18-56-07.png)
+![Dash to dock - Settings](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541059573/Screenshot_from_2018-10-31_18-56-40.png)
 
 คลิกให้ `Intelligent autohide` เป็น `ON`{: .key} แล้วคลิกที่รูปเกียร์
 
 ![Intelligent autohide - ON](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1541058893/Screenshot_from_2018-10-31_18-57-11.png)
 
-แล้วเลือกให้ `Autohide` และ `Dodge windows` เป็น `OFF`{: .key} - แค่นี้ก็จะเรียบร้อยสำหรับแถบด้านข้างหรือ Sidebar
+แล้วเลือกให้ `Autohide` เป็น `OFF`{: .key} และ `Dodge windows` เป็น `OFF`{: .key} - แค่นี้ก็จะเรียบร้อยสำหรับแถบด้านข้างหรือ Sidebar
 
 ![Autohide, Dodge windows - OFF](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1541058963/Screenshot_from_2018-10-31_18-56-58.png)
 
-ต่อมาแถบด้านบนไปที่ Ubuntu Software อีกครั้ง คราวนี้ `Search` ว่า `hide top` แล้วเราจะติดตั้งตัว `Hide Top Panel` - ไม่ใช่ `Hide Top Bar` เหมือนที่เคยทำตอนซ่อนแล้วผลุบๆ โผล่ๆ ในเรื่องนี้: [ทำยังไงถึงจะซ่อนแถบด้านซ้ายและแถบด้านบนของ Ubutu 18.04 ได้?](https://sdeehub.github.io/cpe/2018/08/hide-side-and-top-bars-ubuntu)
+ต่อมาแถบด้านบนไปที่ Ubuntu Software อีกครั้ง คราวนี้ `Search` ว่า `hide top` แล้วเราจะติดตั้งตัว `Hide top panel` - ไม่ใช่ `Hide Top Bar` เหมือนที่เคยทำตอนที่ซ่อนแล้วผลุบๆ โผล่ๆ อย่างในเรื่องนี้: [ทำยังไงถึงจะซ่อนแถบด้านซ้ายและแถบด้านบนของ Ubutu 18.04 ได้?](https://sdeehub.github.io/cpe/2018/08/hide-side-and-top-bars-ubuntu)
 
 ![hide top panel](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541059016/Screenshot_from_2018-10-31_18-57-31.png)
 
@@ -30,4 +30,4 @@ comments: true
 
 ![Show workspace](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541059088/Screenshot_from_2018-10-31_18-58-57.png)
 
-เวลาใช้กดที่คีย์ Window ได้เลย เพราะไม่ได้ซ่อนไปไหน แค่ซ่อนกลิ่นไง - ฟังกันหรือยัง? เพลงเพราะแล้วก็ MV เค้าก็สวยน่ะ ไปล่ะ ขอไปซ่อนตัวก่อน บาย!
+เวลาใช้กดที่คีย์ Window ได้เลย เพราะไม่ได้ซ่อนไปไหน แค่ซ่อนกลิ่นไง - ฟังกันหรือยัง? เพลงเพราะแล้วก็ MV เค้าก็สวยน่ะ ไปล่ะ ขอไป ไปซ่อนตัวก่อน บาย!

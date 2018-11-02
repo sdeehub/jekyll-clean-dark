@@ -10,11 +10,7 @@ comments: true
 
 ![Dash to dock](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1541058714/Screenshot_from_2018-10-31_18-55-36.png)
 
-ทำการติดตั้งให้เรียบร้อย เสร็จแล้วคลิก `Extension Settings`
-
-![Dash to dock - Settings](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541059573/Screenshot_from_2018-10-31_18-56-40.png)
-
-คลิกให้ `Intelligent autohide` เป็น `ON`{: .key} แล้วคลิกที่รูปเกียร์
+ทำการติดตั้งให้เรียบร้อย เสร็จแล้วคลิก `Extension Settings` ‣ คลิกให้ `Intelligent autohide` เป็น `ON`{: .key} แล้วคลิกที่รูปเกียร์
 
 ![Intelligent autohide - ON](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1541058893/Screenshot_from_2018-10-31_18-57-11.png)
 
@@ -26,8 +22,12 @@ comments: true
 
 ![hide top panel](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541059016/Screenshot_from_2018-10-31_18-57-31.png)
 
-พอติดตั้งเสร็จ คราวนี้หน้าจอก็จะโล่งเลยแถบที่หลายคนว่าเกะกะตาก็จะถูกซ่อนไป - ซ่อนแล้ว จะไปคลิกเอาจากที่ไหน?
+พอติดตั้งเสร็จ คราวนี้หน้าจอก็จะโล่งเลยแถบที่หลายคนว่าเกะกะตาก็จะถูกซ่อนไป
+
+![Clear workspace](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541139390/Screenshot_from_2018-10-31_18-58-36.png)
+
+ซ่อนแล้ว จะไปคลิกเอาจากที่ไหน? - เวลาจะต้องใช้ให้กดที่คีย์ `Window` ได้เลย
 
 ![Show workspace](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541059088/Screenshot_from_2018-10-31_18-58-57.png)
 
-เวลาใช้กดที่คีย์ Window ได้เลย เพราะไม่ได้ซ่อนไปไหน แค่ซ่อนกลิ่นไง - ฟังกันหรือยัง? เพลงเพราะแล้วก็ MV เค้าก็สวยน่ะ ไปล่ะ ขอไป ไปซ่อนตัวก่อน บาย!
+ง่ายๆ แค่นี้เองนะครับ สำหรับการซ่อน Sidebar และ Top bar ของ Ubuntu 18.04 อย่างไม่ต้องให้มีอะไรออกมาผลุบๆ โผล่ๆ

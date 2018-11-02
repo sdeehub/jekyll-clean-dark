@@ -22,12 +22,12 @@ comments: true
 
 ![hide top panel](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541059016/Screenshot_from_2018-10-31_18-57-31.png)
 
-พอติดตั้งเสร็จ คราวนี้หน้าจอก็จะโล่งเลยแถบที่หลายคนว่าเกะกะตาก็จะถูกซ่อนไป
+พอติดตั้งเสร็จ คราวนี้หน้าจอก็จะโล่งเลย แถบต่างๆ ที่หลายคนว่าเกะกะตาก็จะถูกซ่อนไป
 
 ![Clear workspace](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541139390/Screenshot_from_2018-10-31_18-58-36.png)
 
-ซ่อนแล้ว จะไปคลิกเอาจากที่ไหน? - เวลาจะต้องใช้ให้กดที่คีย์ `Window` ได้เลย
+ซ่อนแล้ว จะไปคลิกเอาจากที่ไหน? - เวลาจะต้องใช้ให้กดคีย์ `Window` ก็จะเห็นหมดทั้ง Workspace พร้อม `Sidebar` และ `Top bar` ให้คลิกใช้ได้เลย
 
 ![Show workspace](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541059088/Screenshot_from_2018-10-31_18-58-57.png)
 
-ง่ายๆ แค่นี้เองนะครับ สำหรับการซ่อน Sidebar และ Top bar ของ Ubuntu 18.04 อย่างไม่ต้องให้มีอะไรออกมาผลุบๆ โผล่ๆ
+ง่ายๆ แค่นี้เองนะครับ สำหรับการซ่อน Sidebar และ Top bar ของ Ubuntu 18.04 เพื่อให้มีพื้นที่หน้าจอเกลี้ยงๆ ไม่ต้องให้มีอะไรออกมาผลุบๆ โผล่ๆ รบกวนสายตา (สำหรับบางคน) เวลาทำงาน

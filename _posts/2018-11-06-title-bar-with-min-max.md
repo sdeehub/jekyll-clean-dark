@@ -14,7 +14,7 @@ comments: true
 
 กดที่ `Windows` คีย์
 
-![Windows Key]()
+![Windows Key](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_200/v1541483460/windows-key.jpg)
 
 คลิกที่ปุ่ม `Show Applications` แล้วเปิดไปที่ `Tweaks`
 

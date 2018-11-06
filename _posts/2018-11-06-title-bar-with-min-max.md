@@ -10,7 +10,7 @@ comments: true
 ---
 เวลาทำงานอยากได้หน้าจอแบบนี้ - คือสังเกตว่าไม่ได้จะซ่อนอะไร แต่ต้องการให้แสดงปุ่มที่คลิกแล้ว ย่อ-ขยาย-ปิด หน้าต่างได้ แต่ทำไมบน Arch Linux ถึงไม่มีมาให้ ต้องไปตรงไหน?
 
-![Window Screen](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541480103/Screenshot_from_2018-11-06_11-38-38.png)
+![Window Screen](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541482840/Screenshot_from_2018-11-06_12-37-45.png)
 
 กดที่ `Window` คีย์ ‣ `Show Applications` แล้วเปิดไปที่ `Tweaks`
 

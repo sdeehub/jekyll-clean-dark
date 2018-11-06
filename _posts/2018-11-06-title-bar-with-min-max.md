@@ -12,7 +12,11 @@ comments: true
 
 ![Window Screen](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541482840/Screenshot_from_2018-11-06_12-37-45.png)
 
-กดที่ `Window` คีย์ ‣ `Show Applications` แล้วเปิดไปที่ `Tweaks`
+กดที่ `Windows` คีย์
+
+![Windows Key]()
+
+คลิกที่ปุ่ม `Show Applications` แล้วเปิดไปที่ `Tweaks`
 
 ![Tweaks](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541481605/Screenshot_from_2018-11-06_12-18-14.png)
 

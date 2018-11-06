@@ -20,8 +20,12 @@ comments: true
 
 ![Tweaks](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541481605/Screenshot_from_2018-11-06_12-18-14.png)
 
-คลิกไปที่ส่วนของ `Windows` ‣ `Titlebar Buttons` เลือก `Maximize` ให้เป็น `ON`{: .key} และ `Minimize` ให้เป็น `ON`{: .key} - ส่วน `Placement` คือเอาปุ่มไว้ด้านซ้าย หรือขวา แค่นี้ก็เรียบร้อย
+คลิกไปที่ส่วนของ `Windows` ‣ `Titlebar Buttons` เลือก `Maximize` ให้เป็น `ON`{: .key} และ `Minimize` ให้เป็น `ON`{: .key} - ส่วน `Placement` คือเลือกว่าจะเอาปุ่มไว้ด้านซ้าย หรือด้านขวา
 
 ![Titlebar Buttons](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1541482067/Screenshot_from_2018-11-06_12-24-28.png)
 
-*Tip:* - ส่วนของ Browser ที่ไม่มี Titlebar อันนี้ที่ Firefox กดเข้าเมนู ‣ `Customize...` แล้วที่มุมล่างซ้ายเอาตัวเลือกของ `Title Bar` ออกไป แบบนี้คือเหมือนเปี๊ยบนะครับ
+*Tip:* - ส่วนของ Browser ที่ไม่มี Titlebar
+
+![Firefox Customize](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1541483820/Screenshot_from_2018-11-06_12-56-29.png)
+
+อันนี้ที่ Firefox กดเข้าเมนู ‣ `Customize...` แล้วที่มุมล่างซ้ายเอาตัวเลือกของ `Title Bar` ออกไป - เรียบร้อยแบบนี้คือเหมือนเปี๊ยบนะครับ

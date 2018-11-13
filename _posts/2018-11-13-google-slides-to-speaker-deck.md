@@ -3,7 +3,9 @@ layout: post
 title: "ทำ Slide บน Jekyll"
 date: 2018-11-13 15:08:20 +0700
 description: มาดูการแปะ Slide บน Jekyll ด้วย Google Slides และ Speaker Deck
-tags: Tool
+tags:
+- Jekyll
+- Tool
 comments: true
 ---
 อันนี้มาจาก Google Slides โดยตรง

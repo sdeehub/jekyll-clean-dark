@@ -10,9 +10,7 @@ comments: true
 ---
 อันนี้มาจาก Google Slides โดยตรง
 
-<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsaK6p2sI3jbV1LkC0AX190U7jmTK8muY4cs8fiBONsJKlj_IGHT2-Jhtlk06jwpBo02VoR517g1z8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsaK6p2sI3jbV1LkC0AX190U7jmTK8muY4cs8fiBONsJKlj_IGHT2-Jhtlk06jwpBo02VoR517g1z8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ส่วนอันนี้มาจาก Speaker Dock
 

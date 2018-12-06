@@ -33,11 +33,11 @@ comments: true
 
    ![Installation type](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1543895988/Screenshot_from_2018-12-04_10-59-30.png)
 
-   ถัดมาจะเป็นหน้าจอให้เลือกขนาด Partition - ตามตังอย่างคือแบ่งเนื้อที่กันคนละครึ่งระหว่าง Ubuntu และ Linux Mint โดยใช้ home แยกกันด้วย
+   ถัดมาจะเป็นหน้าจอให้เลือกขนาด Partition - ตามตัวอย่างคือแบ่งเนื้อที่กันคนละครึ่งระหว่าง Ubuntu และ Linux Mint และทั้ง 2 OS นี้มีส่วนของพื้นที่ home แยกกัน
 
    ![Install alongside](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1543896036/Screenshot_from_2018-12-04_11-00-10.png)
 
-   จากนั้นก็คลิก `Continue` หรือ `Next` ตามขั้นตอนการติดตั้งไปเรื่อยๆ
+   จากนั้นก็คลิก `Continue` ตามขั้นตอนการติดตั้งไปเรื่อยๆ
 
    ![Write previous changes](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1543896094/Screenshot_from_2018-12-04_11-01-17.png)
 
@@ -51,11 +51,11 @@ comments: true
 
    ![Welcome to Linux Mint](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1543896642/Screenshot_from_2018-12-04_11-10-32.png)
 
-- เมื่อการติดตั้งเรียบร้อยต้องทำการรีบูท 1 ครั้ง (จะมีหน้าจอบอกให้เราเอา USB Live Boot ออกก่อนที่จะกด `Enter`{: .key})
+- เมื่อการติดตั้งเรียบร้อยต้องทำการรีบูท 1 ครั้ง นั่นคือ `Restart Now` พอคลิกแล้วตรงนี้จะมีหน้าจอบอกให้เราเอา USB Live Boot ออกก่อนที่จะกด `Enter`{: .key}
 
    ![Installation Complete](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1543897572/Screenshot_from_2018-12-04_11-25-31.png)
 
-และเมื่อรีบูทกลับขึ้นมาก็จะมีเมนูให้เลือกว่าจะบูทเข้า Linux Mint หรือ Ubuntu ก็ได้ สำหรับในส่วนของ Partition เราสามารถตรวจสอบด้วยคำสั่ง `sudo fdisk -l` ดูอีกที
+และเมื่อรีบูทกลับขึ้นมาคราวนี้ก็จะมีเมนูให้เลือกเลยว่าจะบูทเข้า Linux Mint หรือ Ubuntu ก็ได้ สำหรับในส่วนของ Partition เราสามารถตรวจสอบด้วยคำสั่ง `sudo fdisk -l` ดูอีกที และจากในตัวอย่างของเราก็จะมี /dev/sdb2 และ /dev/sdb3 เป็น Linux filesystem อยู่ 2 ส่วนคู่กัน
 
 ```
 Disk /dev/sdb: 465.8 GiB, 500107862016 bytes, 976773168 sectors
@@ -71,6 +71,6 @@ Device         Start       End   Sectors   Size Type
 /dev/sdb3  499800064 976771071 476971008 227.4G Linux filesystem
 ```
 
-จากในตัวอย่างของเราจะมี /dev/sdb2 และ /dev/sdb3 เป็น Linux filesystem อยู่ 2 ส่วนคู่กัน คราวนี้ไม่ว่าจะเพราะอะไรที่เราจะต้องลง OS ไปคู่กันนะครับ แต่ก็คือให้รู้ว่าเราสามารถทำได้สบายๆ แบบนี้
+คราวนี้ไม่ว่าจะเพราะอะไรที่เราจะต้องลง OS ไปคู่กันนะครับ แต่ก็คือให้รู้ว่าเราสามารถทำได้สบายๆ แบบที่ว่ามานี้
 
 สำหรับวันนี้จบล่ะครับ

@@ -2,7 +2,7 @@
 layout: post
 title: "การใช้ PhpSpreadsheet ร่วมกับ Yii2 (บันทึกความจำ 3/3)"
 date: 2018-12-14 11:21:55 +0700
-description: ตัวอย่างงานแสดงผล HTML จากไฟล์ Excel
+description: ส่วนที่ 3 - ตัวอย่างงานแสดงผล HTML จากไฟล์ Excel
 tags:
   - Yii2
 comments: true

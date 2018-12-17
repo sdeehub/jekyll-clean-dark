@@ -2,7 +2,7 @@
 layout: post
 title: "การใช้ PhpSpreadsheet ร่วมกับ Yii2 (บันทึกความจำ 2/3)"
 date: 2018-12-14 11:31:55 +0700
-description: ส่วนที่ 2 ตัวอย่างที่ใช้เพื่อเขียนไฟล์ Excel
+description: ส่วนที่ 2 - ตัวอย่าง Function และ Code ที่ใช้เพื่อเขียนไฟล์ Excel
 tags:
   - Yii2
 comments: true

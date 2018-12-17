@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "การใช้ PhpSpreadsheet ร่วมกับ Yii2 (บันทึกย่อสำหรับทวนความจำ)"
+title: "การใช้ PhpSpreadsheet ร่วมกับ Yii2 (บันทึกความจำ 1/3)"
 date: 2018-12-14 11:41:55 +0700
 description: ตัวอย่างงานที่เอา PhpSpreadsheet มาใช้กับ Yii2 Framework เพื่ออ่านและเขียนไฟล์ Excel
 tags:
@@ -26,6 +26,7 @@ comments: true
     "kartik-v/yii2-widget-datepicker": "@dev",
     "kartik-v/yii2-widget-datetimepicker": "*",
     "phpoffice/phpspreadsheet": "^1.2"
+  }
 ```
 
 Controller: Function ที่อ่านไฟล์ Excel

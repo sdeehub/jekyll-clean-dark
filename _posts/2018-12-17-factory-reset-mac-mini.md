@@ -2,7 +2,7 @@
 layout: post
 title: "ลง macOS ใหม่แบบที่ทำ Factory Reset ยังไง?"
 date: 2018-12-17 15:46:07 +0700
-description: ถ้าหากเรามีความจำเป็นที่จะต้องลง macOS ใหม่เพื่อล้างทุกอย่างบนเครื่องหรือทำ Factory Reset จะต้องทำยังไง?
+description: ถ้าหากเรามีความจำเป็นที่จะต้องลง macOS ใหม่ ในแบบล้างทุกอย่างบนเครื่องหรือทำ Factory Reset จะต้องทำยังไง?
 tags: Apple
 comments: true
 ---

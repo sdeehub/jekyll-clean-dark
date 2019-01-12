@@ -6,11 +6,9 @@ description: ถ้าเรามีหน้าเวบ หรือ Web Page
 tags: Trello
 comments: true
 ---
-*คำถาม:*
-> ถ้าเรามี Web Page ที่จะต้องอ่านหรืออยากแบ่งให้ในทีมได้อ่าน - อืม! เราจะเก็บ Web Page ไว้ใน Trello ดีมั๊ย?
+*คำถาม:* ถ้าเรามี Web Page ที่จะต้องอ่านหรืออยากแบ่งให้ในทีมได้อ่าน - อืม! เราจะเก็บ Web Page ไว้ใน Trello ดีมั๊ย?
 
-*คำตอบ:*
-> สำหรับทีมของเรา เราคิดว่าดีสุดๆ
+*คำตอบ:* สำหรับทีมของเรา เราคิดว่าดีสุดๆ
 
 *เหตุผล:* พอเก็บหน้าเวบลงไปใน Trello เราก็จะได้ Card มา ซึ่งต่อจากนี้เราสามารถจัดการ จัดระบบได้สะดวกเลยที่นี้ ทำอะไรต่อได้มากมาย อย่างเช่น:
 - จะเอาไปไว้ Board ไหน / List ไหนก็ได้
@@ -25,6 +23,6 @@ comments: true
 - เปิดไปที่ Board ที่เราจะเก็บหน้าเวบ
 - แล้วพออ่านเจออะไรที่น่าสนใจ หรือน่าเก็บไว้ก็ `คลิก-คลิก` ที่ Address Bar ลากมาใส่ในพื้นที่ว่างๆ บน List ของ Trello ได้เลย *(ถ้าลากมาลงที่ว่างๆ ก็จะได้ Card ใหม่ใน List แต่ถ้าลากมาลงที่ Card ก็จะได้ Attached Link ของหน้าเวบนั้นที่เพิ่มเข้าไป)*
 
-ง่ายๆ และได้ประโยชน์มากๆ - มีตัวอย่างเป็น Board ของพวกเราให้สามารถติดตามอ่านเรื่องที่น่าสนใจกันได้ที่นี่เลย: [https://trello.com/b/NgSxsvht](https://trello.com/b/NgSxsvht)
+*Reading 'N' Watching:* ง่ายๆ และได้ประโยชน์มากๆ - มีตัวอย่างเป็น Board ของพวกเราให้สามารถติดตามอ่านเรื่องที่น่าสนใจกันได้ที่นี่เลย: [https://trello.com/b/NgSxsvht](https://trello.com/b/NgSxsvht)
 
-![Trello Reading Board](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_400/v1547291458/Screenshot_from_2019-01-12_18-10-13.png)
+![Trello Reading Board](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_600/v1547291458/Screenshot_from_2019-01-12_18-10-13.png)

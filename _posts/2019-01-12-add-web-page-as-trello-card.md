@@ -27,4 +27,4 @@ comments: true
 
 ง่ายๆ และได้ประโยชน์มากๆ - มีตัวอย่างเป็น Board ของพวกเราให้สามารถติดตามอ่านเรื่องที่น่าสนใจกันได้ที่นี่เลย: [https://trello.com/b/NgSxsvht](https://trello.com/b/NgSxsvht)
 
-![Trello Reading Board](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_400/v1547290826/Screenshot_from_2019-01-12_17-58-50.png)
+![Trello Reading Board](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,e_shadow:40,w_400/v1547291458/Screenshot_from_2019-01-12_18-10-13.png)

@@ -29,7 +29,6 @@ comments: true
 
 ![Sample 600](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1548237664/dayne-topkin-67327-unsplash.jpg)
 *Photo by [Dayne Topkin](https://unsplash.com/@dtopkin1) on [Unsplash](https://unsplash.com/)*
-{:.figure}
 
 สำหรับอันนี้ `c_scale,w_300` ก็จะปรับขนาดเป็นกว้าง 300 และจัดการรักษาสัดส่วนให้โดยอัตโนมัติ
 

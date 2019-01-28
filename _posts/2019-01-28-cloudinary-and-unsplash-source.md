@@ -47,9 +47,10 @@ comments: true
 
 ![Sample r_max](https://res.cloudinary.com/sdees-reallife/image/upload/c_fill,g_auto,h_150,w_150,r_max/v1548237664/dayne-topkin-67327-unsplash.jpg)
 
-ประโยชน์ที่ได้และต้องขอบคุณ Cloudinary ไว้เป็นอย่างมากก็คือการที่:
+เอาตัวอย่างพอให้เห็นภาพกันสักเท่านี้ก่อนนะครับ สำหรับประโยชน์ที่ได้และต้องขอบคุณ Cloudinary ไว้เป็นอย่างมากก็คือการที่:
 - เราได้พื้นที่เก็บรูป
 - เรียกใช้รูปได้บน Cloud
 - จัดการรูปได้เลยในตอนเรียกใช้
+- และถ้าใช้แบบที่ไม่ใช่ Free Plan ก็สามารถมี User หลายๆ คนและกำหนดผู้ดูแลได้ด้วย - [ตามเนื้อหานี้ครับ](https://support.cloudinary.com/hc/en-us/articles/202521652-Can-I-have-multiple-users-roles-for-my-account-)
 
 ถ้าสนใจจะดูตัวอย่างทั้งหมดของ Cloudinary ก็คลิกที่นี่เลยครับ: [Cloudinary Demo](https://demo.cloudinary.com/) - ครั้งหน้าเรามาต่อกันที่ Unsplash Source นะครับ

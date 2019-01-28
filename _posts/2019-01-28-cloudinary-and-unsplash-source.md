@@ -23,11 +23,13 @@ comments: true
 - เปลี่ยนขนาดไฟล์ให้เล็กลง
 - เปลี่ยนไฟล์ Format - หลักๆ ก็จะใช้งานอยู่ประมาณนี้ครับ
 
-ดูตัวอย่าง *Photo by [Dayne Topkin](https://unsplash.com/@dtopkin1) on [Unsplash](https://unsplash.com/)* จากรูปจริงที่มีขนาด 3888 x 2592  - แต่เราจะเอามาแสดงที่ขนาดกว้าง 600 จากการอ้าง URL ข้างล่างนี้ ดูตรง `c_scale,w_600` คือกำหนดขนาดเป็นกว้าง (width) 600 และจัดการรักษาสัดส่วนให้โดยอัตโนมัติ
+ดูตัวอย่าง: จากรูปจริงที่มีขนาด 3888 x 2592  - แต่เราจะเอามาแสดงที่ขนาดกว้าง 600 จากการอ้าง URL ข้างล่างนี้ ดูตรง `c_scale,w_600` คือกำหนดขนาดเป็นกว้าง (width) 600 และจัดการรักษาสัดส่วนให้โดยอัตโนมัติ
 
 `https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1548237664/dayne-topkin-67327-unsplash.jpg`
 
 ![Sample 600](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1548237664/dayne-topkin-67327-unsplash.jpg)
+*Photo by [Dayne Topkin](https://unsplash.com/@dtopkin1) on [Unsplash](https://unsplash.com/)*
+{:.figure}
 
 สำหรับอันนี้ `c_scale,w_300` ก็จะปรับขนาดเป็นกว้าง 300 และจัดการรักษาสัดส่วนให้โดยอัตโนมัติ
 

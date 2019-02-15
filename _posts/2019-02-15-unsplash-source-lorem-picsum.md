@@ -1,0 +1,37 @@
+---
+layout: post
+title: "แนะนำผู้ช่วยงานด้านรูปภาพ Cloudinary และ Unsplash Source (2/2)"
+date: 2019-02-15 17:30:43 +0700
+description: วันนี้ถึงเวลาที่เราจะมาแนะนำ Unsplash Source และมีแถม Lorem Picsum ให้พวกเราได้รู้จักกันต่อจากตอนที่แล้วครับ
+tags: Tool
+comments: true
+---
+*ตอนที่ 2* - วันนี้เรามาดูการใช้งาน Unsplash Source กันดีกว่า - เริ่มจากที่นี่ [https://source.unsplash.com](https://source.unsplash.com) สิ่งที่เราสามารถจะใช้ได้ก็คือการเรียกรูปจาก Unsplash มาแสดง
+
+- แบบแรกคือสุ่มเอารูปภาพมาแสดงในขนาดที่กำหนด - `https://source.unsplash.com/random/600x400` ในคำสั่งนี้คือแสดงด้วยขนาด 600x400
+
+![Random Unsplash](https://source.unsplash.com/random/600x400)
+
+- ถัดมาเป็นการสุ่มรูปภาพจาก User ที่เราต้องการ - `https://source.unsplash.com/user/mzmlatief/600x400` ในคำสั่งนี้คือเราเลือกเอาการสุ่มรูปภาพของ [Mizan M Latief](https://unsplash.com/@mzmlatief)
+
+![Random from User](https://source.unsplash.com/user/mzmlatief/600x400)
+
+- ต่อมาเป็นการเพิ่มให้สุ่มเอารูปภาพจากการ Like ของ User คนที่เราต้องการ - `https://source.unsplash.com/user/mzmlatief/likes/600x400`
+
+![Random User Likes](https://source.unsplash.com/user/mzmlatief/likes/600x400)
+
+- คราวนี้มาสุ่มรูปภาพจาก Collection กันบ้างครับ - `https://source.unsplash.com/collection/4285281/600x400` ในตัวอย่างนี้เราใช้ `Collection ID: 4285281`
+
+![Random from Collection](https://source.unsplash.com/collection/4285281/600x400)
+
+- เลือกแบบสุ่มมาแล้ว คราวนี้ทุกครั้งที่มีการเรียกใหม่รูปภาพก็จะเปลี่ยนไป แต่ถ้าต้องการให้ใช้รูปภาพนั้นไป ทั้งวัน หรือ ทั้งสัปดาห์ ก็ง่ายๆ แค่เติม `/daily` หรือ `/weekly` ต่อท้ายเข้าไปแบบนี้
+
+`https://source.unsplash.com/collection/4285281/600x400/daily`
+
+![Random Daily](https://source.unsplash.com/collection/4285281/600x400/daily)
+
+`https://source.unsplash.com/collection/4285281/600x400/weekly`
+
+![Random Weekly](https://source.unsplash.com/collection/4285281/600x400/weekly)
+
+เรียบร้อยกันไปแล้วครับสำหรับ Unsplash Source - มาแถมท้ายกันด้วย Lorem Picsum สักนิดนะครับ

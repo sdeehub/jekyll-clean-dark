@@ -24,7 +24,7 @@ comments: true
 
 ![Random from Collection](https://source.unsplash.com/collection/4285281/600x400)
 
-- เลือกแบบสุ่มมาแล้ว คราวนี้ทุกครั้งที่มีการเรียกใหม่รูปภาพก็จะเปลี่ยนไป แต่ถ้าต้องการให้ใช้รูปภาพนั้นไป ทั้งวัน หรือ ทั้งสัปดาห์ ก็ง่ายๆ แค่เติม `/daily` หรือ `/weekly` ต่อท้ายเข้าไปแบบนี้
+- เลือกแบบสุ่ม ตรงนี้คือทุกครั้งที่มีการเรียก URL ไปใหม่รูปภาพก็จะเปลี่ยนไป แต่ถ้าต้องการให้ใช้รูปภาพนั้นไป ทั้งวัน หรือ ทั้งสัปดาห์ ก็ง่ายๆ แค่เติม `/daily` หรือ `/weekly` ต่อท้ายเข้าไปแบบนี้
 
 `https://source.unsplash.com/collection/4285281/600x400/daily`
 
@@ -34,4 +34,20 @@ comments: true
 
 ![Random Weekly](https://source.unsplash.com/collection/4285281/600x400/weekly)
 
-เรียบร้อยกันไปแล้วครับสำหรับ Unsplash Source - มาแถมท้ายกันด้วย Lorem Picsum สักนิดนะครับ
+เรียบร้อยกันไปแล้วครับสำหรับ Unsplash Source - แต่ถ้าหากเรายังต้องการอะไรที่มากไปกว่านี้จาก Unsplash ให้ดูจาก [Unsplash API](https://unsplash.com/developers) เพิ่มได้ครับ เพราะอย่างหลังนี่มีเอาไว้สำหรับงาน Dev. โดยเฉพาะครับ
+
+*ของแถม:* ก่อนจบมาแถมท้ายกันด้วย Lorem Picsum สักนิดนะครับ - `https://picsum.photos/`
+
+- เริ่มจากง่ายๆ เลย สุ่มรูปภาพมาด้วย - `https://picsum.photos/600/400?random` นี่คือให้แสดงรูปภาพที่ขนาด 600x400 นะครับ แต่ถ้าใส่ค่าเดียวก็จะเป็น Square ไป
+
+![Picsum](https://picsum.photos/600/400)
+
+![Picsum Square](https://picsum.photos/600)
+
+- ถัดมาใส่ Grayscale คือเพิ่ม `/g/` เข้าไป - `https://picsum.photos/g/600/400?random`
+
+![Picsum Grayscale](https://picsum.photos/g/600/400?random)
+
+- หรือจะใส่เบลอก็เพิ่ม `?blur` ต่อท้ายเข้าไป - `https://picsum.photos/600/400?random?blur`
+
+![Picsum Blur](https://picsum.photos/600/400?random?blur)

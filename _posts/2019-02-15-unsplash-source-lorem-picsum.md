@@ -38,16 +38,20 @@ comments: true
 
 *ของแถม:* ก่อนจบมาแถมท้ายกันด้วย Lorem Picsum สักนิดนะครับ - `https://picsum.photos/`
 
-- เริ่มจากง่ายๆ เลย สุ่มรูปภาพมาด้วย - `https://picsum.photos/600/400?random` นี่คือให้แสดงรูปภาพที่ขนาด 600x400 นะครับ แต่ถ้าใส่ค่าเดียวก็จะเป็น Square ไป
+- เริ่มจากง่ายๆ เลย - `https://picsum.photos/600/400` นี่คือให้แสดงรูปภาพที่ขนาด 600x400 นะครับ แต่ถ้าใส่ค่าเดียวก็จะเป็น Square ไป
 
 ![Picsum](https://picsum.photos/600/400)
 
 ![Picsum Square](https://picsum.photos/600)
 
-- ถัดมาใส่ Grayscale คือเพิ่ม `/g/` เข้าไป - `https://picsum.photos/g/600/400?random`
+- ถัดมาใส่ Grayscale คือเพิ่ม `/g/` เข้าไป - `https://picsum.photos/g/600/400`
 
-![Picsum Grayscale](https://picsum.photos/g/600/400?random)
+![Picsum Grayscale](https://picsum.photos/g/600/400)
 
-- หรือจะใส่เบลอก็เพิ่ม `?blur` ต่อท้ายเข้าไป - `https://picsum.photos/600/400?blur`
+- ถ้าจะใส่เบลอก็แค่เพิ่ม `?blur` ต่อท้ายเข้าไป - `https://picsum.photos/600/400?blur`
 
 ![Picsum Blur](https://picsum.photos/600/400?blur)
+
+- ในกรณีที่ต้องการระบุภาพจาก ID - `https://picsum.photos/600/400?image=1080` อันนี้คือใช้ ID: 1080 ส่วนทั้งหมดรูปไหนเบอร์อะไร ดูได้ที่ `https://picsum.photos/images`
+
+![Picsum ID](https://picsum.photos/600/400?image=1080)

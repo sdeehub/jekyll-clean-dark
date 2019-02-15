@@ -48,6 +48,6 @@ comments: true
 
 ![Picsum Grayscale](https://picsum.photos/g/600/400?random)
 
-- หรือจะใส่เบลอก็เพิ่ม `?blur` ต่อท้ายเข้าไป - `https://picsum.photos/600/400?random?blur`
+- หรือจะใส่เบลอก็เพิ่ม `?blur` ต่อท้ายเข้าไป - `https://picsum.photos/600/400?blur`
 
-![Picsum Blur](https://picsum.photos/600/400?random?blur)
+![Picsum Blur](https://picsum.photos/600/400?blur)

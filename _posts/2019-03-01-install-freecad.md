@@ -14,7 +14,7 @@ comments: true
 
 ![FreeCAD Search](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1551433904/Screenshot_from_2019-03-01_16-15-34.png)
 
-จะได้มา 2 รายการนะครับ - รายการบนเป็น `FreeCAD Version .017` ส่วนรายการล่างเป็น `FreeCAD Version 0.16`
+จะได้มา 2 รายการนะครับ - รายการบนเป็น `FreeCAD Version 0.17` ส่วนรายการล่างเป็น `FreeCAD Version 0.16`
 
 ![FreeCAD 0.17](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1551433918/Screenshot_from_2019-03-01_16-21-47.png)
 
@@ -24,4 +24,4 @@ comments: true
 
 ![FreeCAD](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1551433926/Screenshot_from_2019-03-01_16-26-59.png)
 
-แค่นี้พวกเราก็มี FreeCAD โปรแกรมช่วยการออกแบบไว้ใช้กันแล้วครับ - วิธีการใช้งานมีช่อง Youtube มาแนะนำเริ่มจาก: [คลิปนี้เป็นตอนที่ 1](https://www.youtube.com/watch?v=CG_czsNdUfs) ดูแล้วใช้งานตามไปด้วยแปปเดียวก็เก่งล่ะครับ
+แค่นี้พวกเราก็มี FreeCAD โปรแกรมช่วยการออกแบบไว้ใช้กันแล้วครับ - วิธีการใช้งานมีช่อง Youtube มาแนะนำเริ่มจาก: [คลิปนี้เป็นตอนที่ 1](https://www.youtube.com/watch?v=CG_czsNdUfs) ดูแล้วใช้งานตามไปด้วยแป๊ปเดียวก็เก่งล่ะครับ

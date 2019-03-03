@@ -8,7 +8,7 @@ comments: true
 ---
 พวกเราได้รู้เกี่ยวกับ Keyboard shortcuts ที่ใช้บ่อยๆ กันไปแล้ว กับตอน: [Keyboard shortcuts ที่ช่วยให้วันสบายๆ ของพวกเราง่ายยิ่งขึ้น](https://sdeehub.github.io/cpe/2018/09/recommended-keyboard-shortcuts) - ครั้งนี้เรามี `Ctrl`{: .key}+`Shift`{: .key}+`N`{: .key} มาเพิ่มให้ เอาไว้เรียกหน้าต่างที่เพิ่งถูกปิดไปของ Firefox กลับมา และนั่นก็จะทำให้เราได้ tab ทั้งหมดที่เปิดอยู่ในนั้นกลับมาด้วย :)
 
-หรือถ้าจะไม่ใช้ shortcut นี้ ให้คลิกที่ `Menu` (3 ขีด) ‣ `Library` ‣ `History` ‣ `Recently Closed Windows` แล้วไปเลือกจากตรงนั้นก็ได้เหมือนกัน
+การใช้งานก็คือให้เราเปิด Firefox ขึ้นมาใหม่ หลังจากที่เพิ่งเผลอกดปิดหน้าต่าง Firefox ไป เสร็จแล้วกดคีย์ `Ctrl`{: .key}+`Shift`{: .key}+`N`{: .key} หรือถ้าจะไม่ใช้ shortcut นี้ ก็ให้คลิกที่ `Menu` (3 ขีด) ‣ `Library` ‣ `History` ‣ `Recently Closed Windows` แล้วไปเลือกจากตรงนั้นก็ได้เหมือนกัน
 
 ![Recently Closed Windows Menu](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1551601458/Screenshot_from_2019-03-03_15-23-16.png)
 

@@ -13,6 +13,7 @@ comments: true
 ### Relative URL
 ส่วนมากจะใช้เพื่อให้อ้าง URL ได้สะดวกเวลาที่เราต้องเขียน `include:` พวกหน้าการจัด `Pagination` - ตัวอย่าง Code:
 
+{% raw %}
 ```YAML
 {% if paginator.previous_page %}
   <a href="{{ paginator.previous_page_path | relative_url }}" class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> Previous</a>
@@ -21,9 +22,11 @@ comments: true
   <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 {% endif %}
 ```
+{% endraw %}
 
 เทียบกับแบบที่เป็นการอ้าง URL ทั่วๆ ไป:
 
+{% raw %}
 ```YAML
 {% if post.title %}
   <a href="{{ post.url | prepend: site.baseurl }}" class="recent-item" style="background: url({{post.img}}) center no-repeat; background-size: cover;"><span>{{ post.title }}</span></a>
@@ -33,3 +36,4 @@ comments: true
   <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">| {{ tag }}</a>
 {% endfor %}
 ```
+{% endraw %}

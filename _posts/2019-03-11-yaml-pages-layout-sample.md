@@ -10,8 +10,8 @@ comments: true
 - [YAML Tutorial](https://rhnh.net/2011/01/31/yaml-tutorial/)
 - [YAML Tutorial in the Context of Jekyll](https://deepnn.github.io/mydoc_yaml_tutorial.html)
 
-### Relative URL
-ส่วนมากจะใช้เพื่อให้อ้าง URL ได้สะดวกเวลาที่เราต้องเขียน `include:` พวกหน้าการจัด `Pagination` - ตัวอย่าง Code:
+### 1) Relative URL
+ส่วนมากจะใช้เพื่อให้อ้าง URL ได้สะดวกเวลาที่เราต้องเขียน `includes html` เช่นพวกหน้าการจัด `Pagination` - ดูตัวอย่าง Code:
 
 {% raw %}
 ```html
@@ -24,7 +24,7 @@ comments: true
 ```
 {% endraw %}
 
-เทียบกับแบบที่เป็นการอ้าง URL ทั่วๆ ไป:
+ถ้าเทียบกับแบบที่เป็นการอ้าง URL ทั่วๆ ไป:
 
 {% raw %}
 ```html
@@ -35,5 +35,26 @@ comments: true
 {% for tag in page.tags %}
   <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">| {{ tag }}</a>
 {% endfor %}
+```
+{% endraw %}
+
+### 2) Sort
+เอาไว้ใช้เวลาทำหน้า `pages` ที่ต้องแสดง list ของเนื้อหาต่างๆ เช่นตอนเรียงลำดับ `Posts` ที่แยกตาม `Tags` ต่างๆ
+
+{% raw %}
+```html
+<!--cycles through tag list and creates subheader for each tag name...-->
+  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+      <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
+<!--  lists all posts corresponding to specific tag...-->
+    {% assign sorted = (site.tags[this_word] | sort) %}
+    {% for post in sorted %}{% if post.title != null %}
+      <div class="tag-list">
+          <span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+          <small><span>| {{ post.date | date_to_string }}</span></small>
+      </div>
+    {% endif %}{% endfor %}
+  {% endunless %}{% endfor %}
 ```
 {% endraw %}

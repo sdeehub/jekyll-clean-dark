@@ -14,7 +14,7 @@ comments: true
 ส่วนมากจะใช้เพื่อให้อ้าง URL ได้สะดวกเวลาที่เราต้องเขียน `include:` พวกหน้าการจัด `Pagination` - ตัวอย่าง Code:
 
 {% raw %}
-```YAML
+```html
 {% if paginator.previous_page %}
   <a href="{{ paginator.previous_page_path | relative_url }}" class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> Previous</a>
 {% endif %}
@@ -27,7 +27,7 @@ comments: true
 เทียบกับแบบที่เป็นการอ้าง URL ทั่วๆ ไป:
 
 {% raw %}
-```YAML
+```html
 {% if post.title %}
   <a href="{{ post.url | prepend: site.baseurl }}" class="recent-item" style="background: url({{post.img}}) center no-repeat; background-size: cover;"><span>{{ post.title }}</span></a>
 {% endif %}

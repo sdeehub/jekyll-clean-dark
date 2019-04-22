@@ -4,7 +4,7 @@ title: "เมื่อต้องใช้งาน .NET Core บน Arch Linu
 date: 2019-04-22 14:34:32 +0700
 description: มาดูการติดตั้งและใช้งาน .NET Core บน Arch Linux กันครับ
 tags:
-  - .NET Core
+  - dotNET Core
 comments: true
 ---
 เริ่มจากการติดตั้งก่อนเลย

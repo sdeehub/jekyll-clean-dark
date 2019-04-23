@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ติดตั้ง Atom บน macOS"
-date: 2018-02-27 21:38:00 +0700
+date: 2018-02-28 21:38:00 +0700
 description: Atom คือ "A hackable text editor for the 21st Century." และวันนี้เราจะมาดูวิธีการติดตั้ง Atom บน macOS กัน
 tags: Atom
 comments: true

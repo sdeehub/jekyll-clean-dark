@@ -23,4 +23,4 @@ $ rm -- !(last)
 
 สำหรับคำสั่งแรก `shopt` ตามด้วย `-s` จะเป็นการ enable ค่า `extglob` - ดูรายละเอียดของ [shopt](https://bash.cyberciti.biz/guide/Shopt) และ [extglob](https://www.linuxjournal.com/content/bash-extended-globbing) ได้ที่นี่
 
-พอเราเอามาใช้ร่วมกับคำสั่ง `rm` ที่ตามมานั่นก็คือ ลบทุกอย่างแต่ไม่ลบที่อยู่ใน !(pattern-list) - ในที่นี้ก็คือไม่ลบโฟลเดอร์ชื่อ `last` นั่นเอง
+พอเราเอามาใช้ร่วมกับคำสั่ง `rm` ที่ตามมานั่นก็คือ ลบทุกอย่างแต่ไม่ลบที่อยู่ใน `!(pattern-list)` - ในที่นี้ก็คือไม่ลบโฟลเดอร์ชื่อ `last` นั่นเอง

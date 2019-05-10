@@ -8,7 +8,6 @@ comments: true
 ---
 เอาล่ะ พร้อมแล้วก็มาว่ากันเลยทีเดียว:
 - `Ctrl`{: .key}+`Shift`{: .key}+`P`{: .key} คือที่นี่จะมีทุกอย่างของ Keybinding ใน Atom เรียกว่าเป็นที่สุดแล้ว
-
 ![Keybindings](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1557488495/Screenshot_from_2019-05-10_18-32-51.png)
 
 - `Ctrl`{: .key}+`S`{: .key} อันนี้น่าจะคุ้นกันดีสำหรับการ Save File นั่นเอง
@@ -31,8 +30,7 @@ comments: true
 ชุดนี้สำหรับ Fold/Unfold - เก็บ Code หรือเปิด Code:
 - `Ctrl`{: .key}+`Alt`{: .key}+`[`{: .key} เก็บ Code ในชุดที่ Cursor อยู่
 - `Ctrl`{: .key}+`Alt`{: .key}+`]`{: .key} เปิด Code ในชุดที่ Cursor อยู่
-
-![Fold/Unfold](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1557488504/Screenshot_from_2019-05-10_18-34-09.png)
+![Fold/Unfold](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1557488918/Screenshot_from_2019-05-10_18-47-55.png)
 
 เอาอีกสักชุดเป็นการส่งท้ายนะ เวลาที่เราอยู่ใน Tree View:
 - `Ctrl`{: .key}+`Shift`{: .key}+`\`{: .key} เอาไว้หาว่าไฟล์ที่เรากำลังทำงานอยู่เวลาที่หลงใน Tree View

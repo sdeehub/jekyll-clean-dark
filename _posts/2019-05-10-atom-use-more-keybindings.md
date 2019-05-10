@@ -8,13 +8,18 @@ comments: true
 ---
 เอาล่ะ พร้อมแล้วก็มาว่ากันเลยทีเดียว:
 - `Ctrl`{: .key}+`Shift`{: .key}+`P`{: .key} คือที่นี่จะมีทุกอย่างของ Keybinding ใน Atom เรียกว่าเป็นที่สุดแล้ว
+
+![Keybindings](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1557488495/Screenshot_from_2019-05-10_18-32-51.png)
+
 - `Ctrl`{: .key}+`S`{: .key} อันนี้น่าจะคุ้นกันดีสำหรับการ Save File นั่นเอง
 - `Ctrl`{: .key}+`\`{: .key} เอาไว้เปิด-ปิด Tree View กัน หรือจริงๆ ที่เค้าเรียกว่า `Toggle Tree View` นั่นล่ะถึงจะถูก
 - `Alt`{: .key}+`\`{: .key} ส่วนอันนี้เอาไว้โดดไป-มาเวลาจะให้ Tree View กลับมา Active จริงๆ เค้าเรียกว่า `Toggle Focus` นั่นล่ะถึงจะถูก ... พอล่ะๆ
 
 มาว่ากันต่อ:
 - `Ctrl`{: .key}+`W`{: .key} นี่เอาไว้สำหรับปิดไฟล์ที่กำลังใช้งานอยู่
-- `Ctrl`{: .key}+`Tab`{: .key} อันนี้เอาไว้เลือกวนไปหาไฟล์ที่เปิดใช้งานอยู่ เวลาที่เราเปิดไฟล์ขึ้นมาเยอะๆ
+- `Ctrl`{: .key}+`Tab`{: .key} อันนี้เอาไว้วนเลือกไปหาไฟล์ที่เปิดใช้งานอยู่ เวลาที่เราเปิดไฟล์ขึ้นมาเยอะๆ
+- `Ctrl`{: .key}+`PgUp`{: .key} หรือ `Ctrl`{: .key}+`PgDn`{: .key} ส่วนคู่นี้เอาไว้วนเลื่อนไปไฟล์ก่อนหน้า/ถัดไปที่เปิดอยู
+่- `Ctrl`{: .key}+`Shift`{: .key}+`PgUp`{: .key} หรือ `Ctrl`{: .key}+`Shift`{: .key}+`PgDn`{: .key} คราวนี้ถ้าเพิ่ม `Shift` เข้าไปจะเลื่อนลำดับของไฟล์ที่กำลังใช้อยู่นี้ไปก่อนหน้า/ถัดไป ใน Editor Pane นั่นเอง
 - `Ctrl`{: .key}+`←`{: .key} หรือ `Ctrl`{: .key}+`→`{: .key} 2 อย่างนี้เอาไว้ขยับ cursor ไปทีละคำ หน้า/หลัง ก็แล้วแต่
 - `Ctrl`{: .key}+`ฺBackspace`{: .key} เอาไว้ลบถอยกลับมาทีละคำ
 - `Ctrl`{: .key}+`Delete`{: .key} เอาไว้ลบไปข้างหน้าทีละคำ
@@ -22,6 +27,12 @@ comments: true
 - `Ctrl`{: .key}+`Z`{: .key} เรื่องลบนี่งงมั๊ย? ลองใช้ดู แล้ว Undo ด้วย `Ctrl+Z` นะพวกเรา
 - `Ctrl`{: .key}+`L`{: .key} เอาไว้เลือกทีละบรรทัด
 - `Ctrl`{: .key}+`Shift`{: .key}+`←`{: .key} หรือ `Ctrl`{: .key}+`Shift`{: .key}+`→`{: .key} เอาไว้เลือกทีละคำ ไปข้างหน้า หรือหลังก็ตามนั้น
+
+ชุดนี้สำหรับ Fold/Unfold - เก็บ Code หรือเปิด Code:
+- `Ctrl`{: .key}+`Alt`{: .key}+`[`{: .key} เก็บ Code ในชุดที่ Cursor อยู่
+- `Ctrl`{: .key}+`Alt`{: .key}+`]`{: .key} เปิด Code ในชุดที่ Cursor อยู่
+
+![Fold/Unfold](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1557488504/Screenshot_from_2019-05-10_18-34-09.png)
 
 เอาอีกสักชุดเป็นการส่งท้ายนะ เวลาที่เราอยู่ใน Tree View:
 - `Ctrl`{: .key}+`Shift`{: .key}+`\`{: .key} เอาไว้หาว่าไฟล์ที่เรากำลังทำงานอยู่เวลาที่หลงใน Tree View

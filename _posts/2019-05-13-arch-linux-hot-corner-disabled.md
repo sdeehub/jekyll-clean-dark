@@ -21,7 +21,7 @@ comments: true
 
 ให้ติดตั้ง `chrome-gnome-shell` ด้วยคำสั่ง `sudo pacman -S chrome-gnome-shell` แบบนี้ซะก่อน
 
-```bash
+```console
 $ sudo pacman -S chrome-gnome-shell
 resolving dependencies...
 looking for conflicting packages...
@@ -53,7 +53,7 @@ $
 
 ถ้าจะตรวจสอบว่ามีการใช้งาน gnome-extension อะไรอยู่บ้างในตอนนี้ก็สามารถใช้คำสั่งนี้ได้เลย `gsettings get org.gnome.shell enabled-extensions`
 
-```bash
+```console
 $ gsettings get org.gnome.shell enabled-extensions
 ['hidetopbar@mathieu.bidon.ca', 'hide-top-panel@dimka665.gmail.com', 'nohotcorner@azuri.free.fr']
 $

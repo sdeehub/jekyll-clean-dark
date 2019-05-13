@@ -15,14 +15,14 @@ comments: true
 
 จากคำแนะนำเราสามารถติดตั้ง Extension ที่ชื่อว่า 'No Topleft Hot Corner' จากหน้า Browser ได้เลย ด้วยการคลิกไปที่ [https://extensions.gnome.org/](https://extensions.gnome.org/)
 
-และถ้าบน Browser เกิดมีข้อความเตือนแบบนี้ก็ไม่ต้องตกใจ
+พอคลิกเข้าไปแล้ว และถ้าบน Browser เกิดมีข้อความเตือนแบบนี้ก็ไม่ต้องตกใจ
 
 ![Needed chrome-gnome-shell](https://res.cloudinary.com/sdees-reallife/image/upload/v1557745360/Screenshot_from_2019-05-13_17-53-18.png)
 
 ให้ติดตั้ง `chrome-gnome-shell` ด้วยคำสั่ง `sudo pacman -S chrome-gnome-shell` แบบนี้ซะก่อน
 
 ```bash
-[odd@Lenovo ~]$ sudo pacman -S chrome-gnome-shell
+$ sudo pacman -S chrome-gnome-shell
 resolving dependencies...
 looking for conflicting packages...
 
@@ -42,7 +42,7 @@ Total Installed Size:  0.03 MiB
 (1/3) Updating icon theme caches...
 (2/3) Arming ConditionNeedsUpdate...
 (3/3) Updating the desktop file MIME type cache...
-[odd@Lenovo ~]$
+$
 ```
 
 คราวนี้บน Browser ก็สามารถติดตั้ง Extension ที่ต้องการได้ล่ะ
@@ -54,11 +54,11 @@ Total Installed Size:  0.03 MiB
 ถ้าจะตรวจสอบว่ามีการใช้งาน gnome-extension อะไรอยู่บ้างในตอนนี้ก็สามารถใช้คำสั่งนี้ได้เลย `gsettings get org.gnome.shell enabled-extensions`
 
 ```bash
-[odd@Lenovo ~]$ gsettings get org.gnome.shell enabled-extensions
+$ gsettings get org.gnome.shell enabled-extensions
 ['hidetopbar@mathieu.bidon.ca', 'hide-top-panel@dimka665.gmail.com', 'nohotcorner@azuri.free.fr']
-[odd@Lenovo ~]$
+$
 ```
 
-คราวนี้เมื่อติดตั้ง Extension ไปเรียบร้อยแล้ว สุดท้ายถ้าจะเปิด-ปิด Extension จากใน Tweaks ก็สามารถทำได้เช่นกัน
+คราวนี้เมื่อติดตั้ง Extension ไปเรียบร้อยแล้ว สุดท้ายถ้าจะเปิด-ปิด Extension จากใน Tweaks ก็สามารถทำได้เช่นกัน: `Tweaks` ‣ `Extensions`
 
 ![Tweaks Extensions](https://res.cloudinary.com/sdees-reallife/image/upload/v1557745471/Screenshot_from_2019-05-13_17-47-12.png)

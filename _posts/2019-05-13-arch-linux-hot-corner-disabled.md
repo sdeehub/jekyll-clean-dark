@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ปิดการใช้งาน Left Hot Corner บน Arch Linux"
+title: "ปิดการใช้งาน Top Left Hot Corner บน Arch Linux"
 date: 2019-05-13 17:30:42 +0700
 description: วันนี้จะมาดูการปิดเจ้า Top Left Hot Corner (คือตรงมุมซ้ายบนของหน้าจอเวลาที่เราเลื่อนเมาส์เข้าไป) บน Arch Linux กันครับ
 tags:

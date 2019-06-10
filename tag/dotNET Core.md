@@ -1,4 +1,4 @@
 ---
 layout: tag_index
-tag: .NET Core
+tag: dotNET Core
 ---

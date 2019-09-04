@@ -25,7 +25,7 @@ comments: true
 
 ![VM Screen-2](https://res.cloudinary.com/sdees-reallife/image/upload/v1567609950/archvm-screen-03.png)
 
-เมื่อ Boot ขึ้นมาได้เรียบร้อย หลังจากนี้ก็จะเป็นขั้นตอนของการติดตั้ง Arch Linux แล้วล่ะ - *มาถึงตรงนี้บอกเผื่อไว้สำหรับใครที่อาจจะหลุด แล้วต้องกลับมาบอกให้ VM ทำการ Boot ใหม่ ดูหน้าจอนี้นะครับ*
+หมายเหตุสำคัญ : *มาถึงตรงนี้บอกเผื่อไว้สำหรับใครที่อาจจะหลุด แล้วต้องกลับมาบอกให้ VM ทำการ Boot ใหม่ ดูหน้าจอนี้นะครับ*
 
 ![VM Screen-3](https://res.cloudinary.com/sdees-reallife/image/upload/v1567609966/archvm-screen-05.png)
 
@@ -64,4 +64,4 @@ comments: true
 16. `grub-mkconfig -o /boot/grub/grub.cfg`
 17. `passwd`
 
-ถึงตรงนี้เราควรจะได้ ArchVM ของเราที่มี root password ตามที่เราเพิ่งจะตั้งไปเรียบร้อยแล้วล่ะ - reboot VM แล้วภาวนา หรือยิ้มรอได้เลย :)
+มาถึงตรงนี้เราควรจะได้ ArchVM ของเราที่มี root password ตามที่เราเพิ่งจะตั้งไปเรียบร้อยแล้วล่ะ - reboot VM แล้วยิ้มรับ Arch Linux เครื่องใหม่ของเราได้เลย :)

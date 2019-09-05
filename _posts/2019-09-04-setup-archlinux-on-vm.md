@@ -21,7 +21,7 @@ comments: true
 - • `Dynamically allocated` ‣ คลิก `Next`
 - กำหนดพื้นที่ไว้ `20GB` ‣ คลิก `Create`
 
-พอได้ VM มาเรียบร้อย คาดว่า ISO ก็น่าจะโหลดมาเรียบร้อยแล้ว เอาล่ะงั้นก็มาทำการ Start สิ่งที่เป็น VM ของเรากันเลย - เลือก ISO ไฟล์จากตรงนี้
+พอได้ VM มาเรียบร้อย คาดว่า ISO ก็น่าจะโหลดมาเรียบร้อยแล้วในตอนนี้ เอาล่ะงั้นก็มาทำการ Start สิ่งที่เป็น VM ของเรากันเลย - เลือก ISO ไฟล์จากตรงนี้
 
 ![VM Screen-2](https://res.cloudinary.com/sdees-reallife/image/upload/v1567609950/archvm-screen-03.png)
 

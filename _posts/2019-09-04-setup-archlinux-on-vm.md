@@ -50,7 +50,8 @@ comments: true
 9. `arch-chroot /mnt`
 10. `ln -sf /usr/share/zoneinfo/Asia/Bangkok /etc/localtime`
 10. `hwclock --systohc --utc`
-11. `locale-gen` ‣ `echo LANG=en_GB.UTF-8 > /etc/locale.conf` > `export LANG=en_GB.UTF-8`
+11. `locale-gen` ‣ `echo LANG=en_GB.UTF-8 > /etc/locale.conf`
+11. `export LANG=en_GB.UTF-8`
 12. `echo ArchVM ‣ /etc/hostname` ตั้งชื่อเครื่องของเรา ในตัวอย่างนี้คือ `ArchVM`
 13. `nano /etc/hosts` ‣
 ```bash

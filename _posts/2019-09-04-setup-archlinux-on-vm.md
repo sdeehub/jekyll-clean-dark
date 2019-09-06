@@ -29,7 +29,7 @@ comments: true
 
 ![VM Screen-3](https://res.cloudinary.com/sdees-reallife/image/upload/v1567609966/archvm-screen-05.png)
 
-*วิธีตั้งค่าให้ VM ไปเอา ISO ไฟล์มา Boot ก็คือ Settings > Storage > Empty > คลิกที่รูป CD กลมๆ แล้วไปเลือกหาไฟล์ ISO สำหรับเอามาใช้ในการ Boot*
+*วิธีตั้งค่าให้ VM ไปเอา ISO ไฟล์มา Boot ก็คือ* `Settings` ‣ `Storage` ‣ `Empty` ‣ *คลิกที่รูป CD กลมๆ แล้วไปเลือกหาไฟล์ ISO สำหรับเอามาใช้ในการ Boot*
 
 เอาล่ะ! - เมื่อ Boot ขึ้นมาได้เรียบร้อย หลังจากนี้ก็จะเป็นขั้นตอนของการติดตั้ง Arch Linux แล้วล่ะ มาดูกันนะเราพยายามจะร้อยเรียงคำสั่งที่ต้องใช้ให้ทำตามได้เลยไปทีละขั้นตอนตามนี้ :
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "มาใช้ Chrome - Dark Mode บน Android กันดีกว่า"
-date: 2019-09-12 16:28:05 +0700
+date: 2019-09-18 16:28:05 +0700
 description: ยังไม่มีมือถือใหม่ แต่อยากจะลองใช้ Dark Mode - งั้นมาตั้ง Chrome ให้เป็น Dark Mode กัน
 tags:
 - Android
@@ -26,4 +26,6 @@ comments: true
 
 ![Done dark mode](https://res.cloudinary.com/sdees-reallife/image/upload/v1568813608/chrome-dark-4.png)
 
-สำหรับ Chrome ที่เป็น Dark Mode นอกจากตัว Browser นี้จะ Dark แล้ว เวลาที่เราเข้าเว็บไหนที่พอจะปรับให้ลุคเป็น Dark ได้ Chrome ก็จะแสดงผลหน้าเว็บนั้นให้เป็น Dark Mode ให้ในทันที
+สำหรับ Chrome ที่เป็น Dark Mode นี้ นอกจากหน้าตาหรือ UI ของตัว Browser นี้จะ Dark แล้ว - ซึ่งมาจากการ Enabled ที่ Android Chrome UI dark mode นั่นเอง
+
+เวลาที่เราเข้าเว็บไหนที่พอจะปรับให้ลุคเป็น Dark ได้ Chrome ก็จะจัดการเปลี่ยนการแสดงผลหน้าเว็บนั้นให้เป็น Dark Mode ให้ในทันที - ซึ่งมาจากการ Enabled ที่ Android web contents dark mode นั่นเอง

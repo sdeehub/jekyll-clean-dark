@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "cmd สำหรับจัดการ domain (ตอน 2)"
+title: "cmd สำหรับจัดการ domain (ฝั่ง client)"
 date: 2019-09-20 15:30:08 +0700
-description: วันนี้มาดูคำสั่งบน dos สำหรับตรวจดูเรื่อง domain กันสักหน่อยครับ
+description: วันนี้มาดูคำสั่งบน dos สำหรับตรวจดูเรื่อง domain บนฝั่ง client กันสักหน่อยครับ
 tags:
 - Microsoft
 comments: true

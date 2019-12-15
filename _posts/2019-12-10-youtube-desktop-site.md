@@ -18,3 +18,5 @@ comments: true
 ![Play at Lock Screen](https://res.cloudinary.com/sdees-reallife/image/upload/v1576422885/Screenshot_20191210_220302.jpg)
 
 แบบนี้ก็พอมีเพลงให้ฟังจาก YouTube เป็น Background App. กันไปได้อยู่บ้างเหมือนกันนะ - นั่นดิ ระหว่างนี้ก็ฟังเพลงไป รอจนกว่า Google จะปิดไม่ให้ใช้ Desktop Site บน Chrome ก็แค่นั้นเอง
+
+*อืม ... ว่าแต่นอกเรื่องเป็นข้อสังเกตไว้แถมท้ายไว้หน่อยว่า พักนี้ github pages ทำไมถึงได้ deploy ช้า หรือว่าคนเราใจร้อนขึ้น อันนี้ก็ไม่รู้นะ แต่ถ้าอยากรู้อาจต้องหาค่า Benchmark มาลองเทียบดู*

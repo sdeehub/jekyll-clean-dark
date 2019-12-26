@@ -9,17 +9,19 @@ comments: true
 ---
 ตัวแรกที่เราแนะนำก็คือ JSON viewer - ผลลัพธ์ที่ได้จากการใช้ plug-in นี้นะเหรอ? รูปนี้อธิบายได้ชัดมากเลย
 
-[!JSON Viewer](https://res.cloudinary.com/sdees-reallife/image/upload/v1577351434/Notepad-JSON_Viewer.png)
+![JSON Viewer](https://res.cloudinary.com/sdees-reallife/image/upload/v1577351434/Notepad-JSON_Viewer.png)
 
 ถัดมาคือ plug-in ชื่อ HTML Tag - ก็จริงอยู่นะที่ปกติเราจะเขียน Code กันใน IDE แต่ก็นั่นล่ะ มี plug-in นี้ติดมือไว้ เอาไว้ช่วยเวลาที่เราเผอิญผ่านมาอ่าน html หรือไล่ html tag อืม ... พอได้อยู่นะบางทีก็ไม่อยากไปเปิดบน IDE ไง! ใช้ Notepad++ นี่ล่ะ
 
-[!HTML Tags](https://res.cloudinary.com/sdees-reallife/image/upload/v1577351434/Notepad-JSON_Viewer.png)
+![HTML Tags](https://res.cloudinary.com/sdees-reallife/image/upload/v1577351434/Notepad-JSON_Viewer.png)
 
 สำหรับตัวสุดท้ายและเป็นตัวสำคัญที่เราจะแนะนำกันวันนี้ นั่นก็คือ Elastic Tabstops - เอาไว้เปิดไฟล์พวก .csv ที่จริงๆ แล้วคั่นด้วย Tab หรือ tsv (Tab-seperated values file) นั่นเอง ... ทำไมเหรอ? ก็บางทีก็เปิดในนี้ไง ไม่ต้องไปหา Excel หรืออะไรไง!
 
-[!Elastic Tabstops](https://res.cloudinary.com/sdees-reallife/image/upload/v1577351433/Notepad-Elastic-Tabstops.png)
+![Elastic Tabstops](https://res.cloudinary.com/sdees-reallife/image/upload/v1577351433/Notepad-Elastic-Tabstops.png)
 
 ตกลงจะลองลง Plug-ins แล้วเหรอ? ฟังแล้วชื่นใจ ... คลิกไปที่นี่เลย `Plugins` > `Plugin Manager` หรือ `Plugins Admin...` แล้วแต่ว่าเราจะใช้ Notepad++ ตัวเก่าหรืออัพเดทใหม่แล้ว แต่ก็นั่นล่ะไม่ใช่ว่าทั้งชีวิตจะไม่ไปไหน แต่บางที Notepad++ ก็ช่วยไว้ได้มากจริงๆ นะ - ไม่เชื่อก็ลองดู
+
+![Plugin Manager](https://res.cloudinary.com/sdees-reallife/image/upload/v1577371894/plugin-manager.webp)
 
 > Simply the best.
 

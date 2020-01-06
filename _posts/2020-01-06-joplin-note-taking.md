@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "ปีใหม่ ใช้ Tool ใหม่กัน!"
+title: "ปีใหม่ ใช้ tool ใหม่กัน!"
 date: 2020-01-06 22:11:24 +0700
 description: ปีใหม่แล้ว! มาลองใช้ tool ใหม่ๆ กัน เริ่มที่ตัวจดบันทึก หรือ Note Taking ที่ชื่อ Joplin นี่ไง - ก็เพราะปีนี้เราจะจดบันทึกกันให้เป็นนิสัย และก็มาช่วยกันทำปีนี้ให้ดี ให้น่าจดจำกันนะพวกเรา
 tags:
-- Elementary OS
+- elementary OS
 - Joplin
 comments: true
 ---
@@ -12,11 +12,13 @@ comments: true
 
 `wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash`
 
-เสร็จแล้วตรงนี้ถ้ามีติดเรื่องไอคอน - ให้เปิด Terminal (`Win`{: .key}+`T`{: .key}) แล้วใช้คำสั่งนี้
+เสร็จแล้วตรงนี้ถ้ามีติดเรื่องไอคอน - ให้เปิด Terminal ด้วยการกด `Win`{: .key}+`T`{: .key} แล้วใช้คำสั่งนี้
 
 `~/.joplin/Joplin.AppImage`
 
 ![Joplin.AppImage](https://res.cloudinary.com/sdees-reallife/image/upload/v1578323852/Screenshot_from_2020-01-06_21.02.32.png)
+
+Would you like to integrate ... คลิก `Yes` กันเลยทีเดียว
 
 ![Applications](https://res.cloudinary.com/sdees-reallife/image/upload/v1578323862/Screenshot_from_2020-01-06_21.03.31.png)
 
@@ -30,4 +32,4 @@ comments: true
 
 ![Options](https://res.cloudinary.com/sdees-reallife/image/upload/v1578323892/Screenshot_from_2020-01-06_21.27.02.png)
 
-ที่เหลือก็ใช้งานกันได้อย่างสบายใจ สวัสดีปีใหม่ แข็งแรง ร่ำรวย มีรอยยิ้ม มีความสบายใจ ตลอดปีใหม่นี้กันทุกๆ คนนะครับ :)
+ที่เหลือก็ใช้งานกันได้อย่างสบายใจ - สวัสดีปีใหม่ แข็งแรง ร่ำรวย มีรอยยิ้ม มีความสบายใจ ตลอดปีใหม่นี้กันทุกๆ คนนะครับพวกเรา :)

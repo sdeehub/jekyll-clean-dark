@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Screen recording กับ Edge แต่ลง Chrome extension บน Windows 10"
+title: "Screen recording กับ Microsoft Edge ที่ลง Chrome extension บน Windows 10"
 date: 2020-02-05 22:52:53 +0700
 description: มีวิธี Record หน้าจอ กับ การติดตั้ง Chrome extension บน Microsoft Edge Browser มาฝากกันครับ
 tags:
@@ -22,12 +22,12 @@ comments: true
 
 *ตรงนี้มี 2 อย่างฝากไว้ตอนท้ายนี้:*
 
-- ไม่สามารถ Record หน้าจอ Desktop ได้นะ
+- ไม่สามารถ Record หน้าจอ Desktop ได้นะ - Record ได้แค่หน้าจอของ App. เท่านั้น
 - สามารถใช้ `Win`{: .key} + `Alt`{: .key} + `R`{: .key} Shortcut สำหรับการกด Record ก็ได้นะ
 
-*คราวนี้มาเรื่อง Edge Browser กันบ้าง*
+*คราวนี้มาเรื่อง Microsoft Edge Browser กันบ้าง*
 
-ล่าสุดได้กลายเป็น Edge Chromium ไปเรียบร้อยแล้วนะ แล้วงั้นแบบนี้ก็ใช้ Chrome extension ก็ได้ดิ - ก็แน่นอนล่ะ ตามนี้เลย
+ล่าสุดได้กลายเป็น Edge Chromium ไปเรียบร้อยแล้วนะ แล้วงั้นแบบนี้ก็ลง Chrome extension ได้ด้วยเลยดิ? - ก็แน่นอนล่ะ ตามนี้เลย
 
 ![Extension](https://res.cloudinary.com/sdees-reallife/image/upload/v1580917151/extension-1.png)
 

@@ -27,6 +27,6 @@ comments: true
 
 ![dock](https://res.cloudinary.com/sdees-reallife/image/upload/v1581595225/Screenshot_from_2020-02-13_18.50.20.png)
 
-ถึงจะขึ้นว่า Preview แต่การใช้งานก็ได้ครบทุกอย่างนะ - รวมถึงการ share screen ที่ทำไม่เคยทำได้ถ้าใช้ Teams จากหน้าเว็บ แต่ถ้าทนไม่ไหวกับคำว่า Preview ลองติดตั้งด้วย Snap ก็ได้นะ
+ถึงจะขึ้นว่า Preview แต่การใช้งานก็ได้ครบทุกอย่างนะ - รวมถึงการ share screen ที่ไม่เคยทำได้ถ้าใช้ Teams จากหน้าเว็บ แต่ถ้าจะไม่เอาเวร์ชั่น Preview อืม ... จะลองติดตั้งตัวที่อยู่บน Snap ดูก็ได้นะ
 
 ![snap](https://res.cloudinary.com/sdees-reallife/image/upload/v1581595237/Screenshot_from_2020-02-13_18.57.14.png)

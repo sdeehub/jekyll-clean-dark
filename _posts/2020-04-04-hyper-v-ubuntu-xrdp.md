@@ -2,7 +2,7 @@
 layout: post
 title: "Hyper-V + Ubuntu + xRDP"
 date: 2020-04-04 T09:38:52+07:00
-description: วันนี้มาลองใช้ Hyper-V ของ Windows ทำ Virtual (แทนการใช้ VirtualBox) แล้วลง Ubuntu - ทุกอย่างเรียบร้อยแต่ทำไมหน้าจอมาไม่เต็ม?
+description: วันนี้มาลองใช้ Hyper-V ของ Windows ทำ VM (แทนการใช้ VirtualBox) แล้วลง Ubuntu - ทุกอย่างเรียบร้อยแต่ทำไมหน้าจอมาไม่เต็ม?
 tags:
 - Linux
 - Microsoft
@@ -17,11 +17,11 @@ comments: true
 
 คือเครื่องพร้อม, Hyper-V พร้อมแต่ถ้าเรายังไม่พร้อม : อ่านนี่ต่อเลย [How to Install Ubuntu on Windows 10 using Hyper-V?](https://geekflare.com/ubuntu-on-windows/)
 
-หรือให้สรุปสั้นๆ ง่ายๆ - ซึ่งก็ไม่มี แต่ว่าก็ไม่อยาก ลองดูนะ!
+หรือให้สรุปสั้นๆ ง่ายๆ - ซึ่งก็ไม่มี แต่ว่าก็ไม่ยาก ลองดูนะ!
 
 เพราะสิ่งที่พวกเราเจอนั่นก็คือ ได้ Hyper-V แล้ว - ลง Ubuntu แล้ว แต่จะทำยังไงให้เต็มจอ! หากันตั้งนาน หรือให้สรุปสั้นๆ ก็คือ : อ่านนี่เลยที่เดียวจบ [Sneak Peek: Taking a Spin with Enhanced Linux VMs](https://techcommunity.microsoft.com/t5/virtualization/sneak-peek-taking-a-spin-with-enhanced-linux-vms/ba-p/382415#)
 
-หรือให้สรุปสั้นๆ ง่ายๆ ก็คือ - ลง git ก่อนนะแล้วก็ตามนี้ได้เลย
+หรือให้สรุปสั้นๆ ง่ายๆ ก็คือ - บน VM ลง git ก่อนนะแล้วก็ตามนี้ได้เลย
 
 `$ git clone https://github.com/Microsoft/linux-vm-tools.git ~/linux-vm-tools`
 `$ cd ~/linux-vm-tools/ubuntu/18.04/`
@@ -38,6 +38,8 @@ comments: true
 
 `Set-VM -VMName <your_vm_name>  -EnhancedSessionTransportType HvSocket`
 
-คราวนี้พอบู๊ท VM กลับมาอีกครั้งก็จะมีหน้าจอ `Display configuration` : เลือกกันให้ตรงตามที่ควรจะเป็น แล้วตรง `Show Options` ก็คลิกนะล่ะ - รู้นะว่าคุณจะต้องทำอะไร :)
+*ตรง <your_vm_name> ก็คือชื่อ VM ของเรานั่นเอง*
 
-ไม่ลองก็ไม่รู้ใช่มั๊ย - วันนี้เอาแค่นี้ล่ะ ทุกอย่างเป็น VM ไม่น่าจะมีอะไรเสียหายลองดูได้นะ ของให้มีความสุขกับการใช้ Ubuntu และ Windows ไปพร้อมๆ กัน
+คราวนี้พอบู๊ท VM กลับมาอีกครั้งก็จะมีหน้าจอ `Display configuration` : เลือกกันให้ตรงตามที่ควรจะเป็น แล้วตรง `Show Options` ก็คลิกนั่นล่ะ - จากนั้น รู้แล้วนะว่าคุณจะต้องคลิกตรงไหน ยังไงต่อ :)
+
+ไม่ลองก็ไม่รู้ใช่มั๊ย - วันนี้เอาแค่นี้ล่ะ ทุกอย่างเป็น VM ไม่น่าจะมีอะไรเสียหายลองดูได้นะ ขอให้มีความสุขกับการใช้ Ubuntu และ Windows ไปพร้อมๆ กัน

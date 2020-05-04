@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ช่วยกันด้วยการ work from home"
-date: 2020-05-02 T12:31:23+07:00
+date: 2020-05-04 T21:45:21+07:00
 description: ช่วงนี้พวกเราช่วยกันนั่งทำงานกันที่บ้าน ช่วยกันรักษาระยะห่าง ช่วยส่งกำลังใจให้กัน แถมใน post นี้เรายังมีตัวช่วยมาฝากกันด้วย
 tags:
 - Keyboard Shortcuts
@@ -36,6 +36,10 @@ comments: true
 
 *6) จดอะไร หรือ อยากได้แรงบันดาลใจ?*
 - บางทีทำงานอยู่บ้านโต๊ะทำงานก็ไม่ใช่โต๊ะที่ทำงานซะเท่าไหร่ หยิบจดอะไรบางทีไม่คล่องตัว แนะนำอันนี้นะ - จด note ไปบน Chrome นี่ล่ะ เรียบๆ ง่ายๆ ก็ [Papier](https://chrome.google.com/webstore/detail/papier/hhjeaokafplhjoogdemakihhdhffacia) นี่ล่ะ
+- ถ้าเป็น Firefox ก็ลองใช้ตัวนี้ [Markdown New Tab](https://addons.mozilla.org/en-US/firefox/addon/markdown-new-tab/)
+
+![Markdown New Tab](https://res.cloudinary.com/sdees-reallife/image/upload/v1588603649/Screenshot_from_2020-05-04_21.47.01.png)
+
 - สำหรับแรงบันดาลใจ เราว่า [Momentum](https://momentumdash.com/) ก็ช่วยได้มากอยู่นะ
 
 *คราวนี้มาส่งท้ายกันที่ Online Meeting หรืออยากอยู่เงียบๆ ?*

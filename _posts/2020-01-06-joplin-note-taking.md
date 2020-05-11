@@ -5,7 +5,7 @@ date: 2020-01-30 15:51:05 +0700
 description: วันนี้มีคำสั่งมาฝากเอาไว้ใช้ติดตัวเวลาต้องแก้ไขปัญหาเกี่ยวกับ Network บนเครื่องที่รัน Windows
 tags:
 - DOS
-- Microsoft
+- Windows
 comments: true
 ---
 ก่อนอื่นเปิด command prompt ขึ้นมาก่อนเลย เพราะคำสั่งที่จะพูดถึงทั้งหมดนี้จะรันอยู่บน DOS นะครับ - เอาล่ะมาเริ่มกันเลย
@@ -29,7 +29,7 @@ comments: true
 `netsh int ip reset` หรือเพิ่ม `netsh int ip reset c:\resetlog.txt` - คำสั่งนี้มีคนเปรียบเทียบว่าจะ ทุบ stack ของ TCP/IP ให้เละแล้วสร้างขึ้นมาใหม่ด้วยการเขียนไปที่ registry 2 ตัวนี้
 
 ```console
-SYSTEM\CurrentControlSet\Services\Tcpip\Parameters 
+SYSTEM\CurrentControlSet\Services\Tcpip\Parameters
 SYSTEM\CurrentControlSet\Services\DHCP\Parameters
 ```
 

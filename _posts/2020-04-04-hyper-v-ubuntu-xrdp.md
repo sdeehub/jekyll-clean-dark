@@ -5,8 +5,8 @@ date: 2020-04-04 T09:38:52+07:00
 description: วันนี้มาลองใช้ Hyper-V ของ Windows ทำ VM (แทนการใช้ VirtualBox) แล้วลง Ubuntu - ทุกอย่างเรียบร้อยแต่ทำไมหน้าจอมาไม่เต็ม?
 tags:
 - Linux
-- Microsoft
 - Ubuntu
+- Windows
 comments: true
 ---
 เริ่มกันที่จะใช้งาน Hyper-V ต้องทำยังไง? : อ่านนี่ก่อนเลย [Install Hyper-V on Windows 10](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)

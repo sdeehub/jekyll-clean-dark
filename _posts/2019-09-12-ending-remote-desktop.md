@@ -4,7 +4,7 @@ title: "ปิด Remote Desktop แบบไหน? - Sign Out หรือใ�
 date: 2019-09-12 22:22:10 +0700
 description: เวลาที่เราจะจบการใช้งาน Remote Desktop เราจะเลือกใช้แบบไหน แล้วผลที่ได้จะเป็นยังไงบ้างเหรอครับ?
 tags:
-- Microsoft
+- Windows
 comments: true
 ---
 ![Remote Desktop](https://res.cloudinary.com/sdees-reallife/image/upload/v1568281371/remote-desktop.png)

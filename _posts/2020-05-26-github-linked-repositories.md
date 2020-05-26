@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "การตั้งค่า Linked repositories ใน Github Project"
+title: "การตั้งค่า Linked repositories ใน Github projects"
 date: 2020-05-26 T22:34:45+07:00
-description: ถ้าจะให้ดีใช้งาน Github Project แล้วก็ใช้ Linked repositories ซะด้วยเลย
+description: ถ้าจะให้ดีใช้งาน Github projects แล้วก็ใช้ Linked repositories ซะด้วยเลย
 tags:
 - Github
 comments: true
 ---
-มาดูกันเลยว่าเราจะต้องคลิกอะไรตรงไหนบ้าง เพื่อที่จะจัดการ link ให้ [Github Project](https://help.github.com/en/github/managing-your-work-on-github/managing-project-boards) รู้จักกับ Repository ที่เรา Push code กันอยู่ทุกวัน
+มาดูกันเลยว่าเราจะต้องคลิกอะไรตรงไหนบ้าง เพื่อที่จะจัดการ link ให้ [Github projects](https://help.github.com/en/github/managing-your-work-on-github/managing-project-boards) หรือ [Project boards บางทีก็เรียก Project management](https://github.com/features/project-management/) รู้จักกับ Repository ที่เรา Push code กันอยู่ทุกวัน
 
 เริ่มที่ Repository ของเราก่อน - ไปที่ `Settings`
 
@@ -17,7 +17,7 @@ comments: true
 
 ![select issues](https://res.cloudinary.com/sdees-reallife/image/upload/v1590508967/Screenshot_from_2020-05-26_22.49.02.png)
 
-ที่ Repository ทำแค่นี้ก็เรียบร้อยแล้ว ถัดมาก็ไปที่ Project กัน
+ที่ Repository ทำแค่นี้ก็เรียบร้อยแล้ว ถัดมาก็จะไปที่ `Projects` กัน
 
 สำหรับที่ Project ของเรา - ตรงมุมขวา คลิกที่ `...` แล้วก็ให้คลิกที่ `Settings`
 

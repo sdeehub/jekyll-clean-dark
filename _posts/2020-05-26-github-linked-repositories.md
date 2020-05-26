@@ -19,11 +19,11 @@ comments: true
 
 ที่ Repository ทำแค่นี้ก็เรียบร้อยแล้ว ถัดมาก็ไปที่ Project กัน
 
-สำหรับ Project ของเรา - คลิกที่ `...`
+สำหรับที่ Project ของเรา - ตรงมุมขวา คลิกที่ `...` แล้วก็ให้คลิกที่ `Settings`
 
 ![dot dot dot](https://res.cloudinary.com/sdees-reallife/image/upload/v1590508967/Screenshot_from_2020-05-26_22.51.00.png)
 
-ด้านซ้ายมุม - คลิกที่ `Linked repositories`
+ถัดมาก็เมนูด้านซ้ายมุม - คลิกที่ `Linked repositories` แล้วก็ปุ่มเขียว `Link a repository`
 
 ![linked repo.](https://res.cloudinary.com/sdees-reallife/image/upload/v1590508967/Screenshot_from_2020-05-26_22.51.45.png)
 

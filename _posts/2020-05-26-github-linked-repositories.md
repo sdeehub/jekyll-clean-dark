@@ -23,7 +23,7 @@ comments: true
 
 ![dot dot dot](https://res.cloudinary.com/sdees-reallife/image/upload/v1590508967/Screenshot_from_2020-05-26_22.51.00.png)
 
-ถัดมาก็เมนูด้านซ้ายมุม - คลิกที่ `Linked repositories` แล้วก็ปุ่มเขียว `Link a repository`
+ถัดมาก็เมนูด้านซ้าย - คลิกที่ `Linked repositories` แล้วก็ปุ่มเขียว `Link a repository`
 
 ![linked repo.](https://res.cloudinary.com/sdees-reallife/image/upload/v1590508967/Screenshot_from_2020-05-26_22.51.45.png)
 
@@ -35,4 +35,4 @@ comments: true
 
 ![note to issue](https://res.cloudinary.com/sdees-reallife/image/upload/v1590510408/Screenshot_from_2020-05-26_23.26.23.png)
 
-พอเมื่อไหร่ที่ Push code ก็ใส่ comment ให้ close #issue_no นั้นไว้ด้วย ตัว [Manage automation](https://help.github.com/en/github/managing-your-work-on-github/about-automation-for-project-boards) ของ Project ก็จะย้ายการ์ดไปให้ตามที่ตั้งไว้ได้เองเลย
+พอเมื่อไหร่ที่ Push code ก็ใส่ comment ให้ close #issue_no นั้นไว้ด้วย ตัว [Manage automation](https://help.github.com/en/github/managing-your-work-on-github/about-automation-for-project-boards) ของ Project ก็จะย้ายการ์ดไปให้ตามที่ตั้งไว้ได้เองเลย - แค่นี้ก็สบายใจ และ หลับฝันดี ได้แล้วนะพวกเรา!

@@ -8,11 +8,11 @@ comments: true
 ---
 ขอบคุณ Google ที่ให้เราไปร่วมใน [Google Cloud OnBoard](https://cloudplatformonline.com/2018-onboard-bkk.html)- ว่าแล้วก็หยิบมือถือขึ้นมา เปิด Chrome และในช่อง `Search or type URL` เราจะมาดูกันว่า Google ยังจะช่วยอะไรเราได้อีกบ้าง?
 
-* อย่างแรกเอาที่ใกล้ๆ ตัวเรา คือ จะหาร้านอาหาร ร้านกาแฟ ป้ายรถเมล์ เอทีเอ็ม ใช้การ search `atm near me` หรือ `atm ใกล้ฉัน` อังกฤษปนไทยก็ได้
+* อย่างแรกเอาที่ใกล้ ๆ ตัวเรา คือ จะหาร้านอาหาร ร้านกาแฟ ป้ายรถเมล์ เอทีเอ็ม ใช้การ search `atm near me` หรือ `atm ใกล้ฉัน` อังกฤษปนไทยก็ได้
 
     ![ATM Near Me]({{ "/assets/images/authors/reallife/2018-02-08/atm-near-me.png" | relative_url }})
 
-    ตรง `MORE FILTERS` สามารถคัดผลลัพธ์ให้เหลือเฉพาะที่ต้องการได้ เช่น ในระยะ 800 m หรือเลือกเป็นร้านข้าวแกงที่ยังเปิดให้บริการอยู่ในเวลานั้น แบบนี้ก็ได้ทานง่ายๆ สบายใจดี
+    ตรง `MORE FILTERS` สามารถคัดผลลัพธ์ให้เหลือเฉพาะที่ต้องการได้ เช่น ในระยะ 800 m หรือเลือกเป็นร้านข้าวแกงที่ยังเปิดให้บริการอยู่ในเวลานั้น แบบนี้ก็ได้ทานง่าย ๆ สบายใจดี
 
     ![Local Food Near Me]({{ "/assets/images/authors/reallife/2018-02-08/food-near-me.png" | relative_url }})
 
@@ -32,11 +32,11 @@ comments: true
 
     ![Scientific Calculator]({{ "/assets/images/authors/reallife/2018-02-08/scientific-calculator.png" | relative_url }})
 
-* เรื่องคำนวณไปแล้ว ถัดมาเอาเป็นการเปลี่ยนหน่วยกัน จะใส่ `unit converter` ลงไปแล้วเลือกเปลี่ยนค่าอะไรๆ ก็ได้
+* เรื่องคำนวณไปแล้ว ถัดมาเอาเป็นการเปลี่ยนหน่วยกัน จะใส่ `unit converter` ลงไปแล้วเลือกเปลี่ยนค่าอะไร ๆ ก็ได้
 
     ![Unit Converter]({{ "/assets/images/authors/reallife/2018-02-08/unit-converter.png" | relative_url }})
 
-    หรือจะง่ายๆ แบบใส่ค่าจากหน่วยไหน แปลงไป หน่วยไหน ทำนองนี้ก็ได้ครับ เช่น `6 feet in cm` หรือ `23c to f` แค่นี้เลย
+    หรือจะง่าย ๆ แบบใส่ค่าจากหน่วยไหน แปลงไป หน่วยไหน ทำนองนี้ก็ได้ครับ เช่น `6 feet in cm` หรือ `23c to f` แค่นี้เลย
 
     ![Temperature Converter]({{ "/assets/images/authors/reallife/2018-02-08/temperature-converter.png" | relative_url }})
 
@@ -68,7 +68,7 @@ comments: true
 
     ![Promthep Sunset]({{ "/assets/images/authors/reallife/2018-02-08/promthep-sunset.png" | relative_url }})
 
-* เฝ้าดูเวลาที่พระอาทิตย์ขึ้น-ลง แล้ว ถัดมาดูหุ้นขึ้น-ลงบ้างครับ เอาไว้ดูราคาแบบไวๆ ของตลาด SET ในบ้านเราใช้ `bkk: ตามด้วยชื่อหุ้นในตลาด` ได้ครับ
+* เฝ้าดูเวลาที่พระอาทิตย์ขึ้น-ลง แล้ว ถัดมาดูหุ้นขึ้น-ลงบ้างครับ เอาไว้ดูราคาแบบไว ๆ ของตลาด SET ในบ้านเราใช้ `bkk: ตามด้วยชื่อหุ้นในตลาด` ได้ครับ
 
     ![Search SET Stock Price]({{ "/assets/images/authors/reallife/2018-02-08/search-stock-price.png" | relative_url }})
 
@@ -76,8 +76,8 @@ comments: true
 
     ![Timer and Stopwatch]({{ "/assets/images/authors/reallife/2018-02-08/timer-stopwatch.png" | relative_url }})
 
-ว่าแล้วเขียนเรื่องเสร็จ หรือทำอะไรให้เสร็จๆ ก็สบายใจ ถึงเวลาปิดเครื่อง เก็บงานไปนอนพักผ่อนกันได้ (แต่อีกนิดนึงมีแถมทิ้งท้ายให้เป็นของฝากไปถึงทีมงานทางเทคนิค)
+ว่าแล้วเขียนเรื่องเสร็จ หรือทำอะไรให้เสร็จ ๆ ก็สบายใจ ถึงเวลาปิดเครื่อง เก็บงานไปนอนพักผ่อนกันได้ (แต่อีกนิดนึงมีแถมทิ้งท้ายให้เป็นของฝากไปถึงทีมงานทางเทคนิค)
 
 ![Show Public IP Address]({{ "/assets/images/authors/reallife/2018-02-08/ip-address.png" | relative_url }})
 
-ใส่ `ip address` แบบนี้ในช่อง search ก็ได้นะครับลองดู จะได้รู้ตรงกันว่า Google นั้นสารพัดประโยชน์จริงๆ ที่ว่ามาทั้งหมดนี้พวกเราก็ขอขอบคุณ Google ไว้นะที่นี้ด้วยเลยนะครับ
+ใส่ `ip address` แบบนี้ในช่อง search ก็ได้นะครับลองดู จะได้รู้ตรงกันว่า Google นั้นสารพัดประโยชน์จริง ๆ ที่ว่ามาทั้งหมดนี้พวกเราก็ขอขอบคุณ Google ไว้นะที่นี้ด้วยเลยนะครับ

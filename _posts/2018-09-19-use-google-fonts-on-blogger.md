@@ -3,7 +3,7 @@ layout: post
 title: "บน Blogger ถ้าจะเปลี่ยนมาใช้ Google font ต้องทำแบบนี้"
 date: 2018-09-19 15:29:47 +0700
 tags: Blogger
-description: ต้องการเปลี่ยน font ที่จะใช้บน Blogger มาเป็น Google font ที่มีตัวหนังสือภาษาไทยสวยๆ ต้องทำยังไงดี?
+description: ต้องการเปลี่ยน font ที่จะใช้บน Blogger มาเป็น Google font ที่มีตัวหนังสือภาษาไทยสวย ๆ ต้องทำยังไงดี?
 comments: true
 ---
 ![Blogger Logo](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_200/v1537345937/blogger_logo.png)
@@ -19,7 +19,7 @@ comments: true
 ![Blogger Theme](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1537346319/Screenshot_2018-09-19_Blogger_Odd_s_Horizon_-_Theme.png)
 
 *(2)* - หลังจาก `<head>` tag เราก็จะเอา `<link>` tag ของ Google font ที่เราเลือกใช้ใส่ลงไป ‣ เสร็จแล้วคลิก `Save theme`
-ในตัวอย่างนี้คือเราจะใช้ font: Athiti และ Prompt ก็จะใส่ไปแยก 2 อันเลยเพื่อความชัดเจน เวลาเรากลับมาอ่าน หรือมาแก้ทีหลังได้ดูง่ายๆ หน่อย
+ในตัวอย่างนี้คือเราจะใช้ font: Athiti และ Prompt ก็จะใส่ไปแยก 2 อันเลยเพื่อความชัดเจน เวลาเรากลับมาอ่าน หรือมาแก้ทีหลังได้ดูง่าย ๆ หน่อย
 
 ```
 <link href='https://fonts.googleapis.com/css?family=Athiti' rel='stylesheet'/>
@@ -58,4 +58,4 @@ comments: true
 
 ![Mobile theme custom](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1537422512/Screenshot_2018-09-20_Blogger_Odd_s_Horizon_-_Theme_1.png)
 
-และแล้วขั้นตอนทั้งหมดก็จบลง เราก็จะได้ Blogger ที่มี font สวยงามดั่งใจ คราวนี้ก็ขอให้ลงมือ blog กันได้อย่างเต็มที่เต็มอารมณ์ พร้อมด้วย font ที่งามๆ กันเน้อ
+และแล้วขั้นตอนทั้งหมดก็จบลง เราก็จะได้ Blogger ที่มี font สวยงามดั่งใจ คราวนี้ก็ขอให้ลงมือ blog กันได้อย่างเต็มที่เต็มอารมณ์ พร้อมด้วย font ที่งาม ๆ กันเน้อ

@@ -18,4 +18,4 @@ comments: true
 
 ![Line on Chrome Web Store]({{ "/assets/images/authors/reallife/2018-02-14/Line-in-Chrome-Web-Store.png" | relative_url }})
 
-ที่บรรทัดแรกของรายการ คือ `LINE` ให้คลิกปุ่มฟ้า (ขวามือ) `+ ADD TO CHROME` แล้วเลือก `Add extension` ด้วยความรวดเร็วของการติดตั้ง ที่มุมบนด้านขวามือของหน้าต่าง Chrome จะมีไอคอน Line เพิ่มขึ้นมา คลิกที่นั่นแล้วทำการ Login เข้าใช้ Line ได้อย่างสบายใจ ‣ Happy Valentine's Day กันทุกๆ คนนะครับ
+ที่บรรทัดแรกของรายการ คือ `LINE` ให้คลิกปุ่มฟ้า (ขวามือ) `+ ADD TO CHROME` แล้วเลือก `Add extension` ด้วยความรวดเร็วของการติดตั้ง ที่มุมบนด้านขวามือของหน้าต่าง Chrome จะมีไอคอน Line เพิ่มขึ้นมา คลิกที่นั่นแล้วทำการ Login เข้าใช้ Line ได้อย่างสบายใจ ‣ Happy Valentine's Day กันทุก ๆ คนนะครับ

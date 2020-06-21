@@ -45,7 +45,7 @@ Also creating executable in /home/odd/.virtualenvs/proj-01/bin/python
 Installing setuptools, pip, wheel...done.
 ~/.virtualenvs$
 ```
-ถ้าเข้าไปดูที่ `proj-01` ก็จะเห็น folders ต่างๆ ที่ถูกสร้างขึ้นมา ให้เรารัน `source ./bin/activate` แบบนี้
+ถ้าเข้าไปดูที่ `proj-01` ก็จะเห็น folders ต่าง ๆ ที่ถูกสร้างขึ้นมา ให้เรารัน `source ./bin/activate` แบบนี้
 ```
 ~/.virtualenvs/proj-01$ source ./bin/activate
 (proj-01)~/.virtualenvs/proj-01$
@@ -93,4 +93,4 @@ Quit the server with CONTROL-C.
 
 ![django](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1533727467/Screenshot_from_2018-08-08_18-23-52.png)
 
-ส่งท้ายอีกนิดนึงนะครับ ถ้าจะจบการทำงานก็ `Ctrl`{: .key}+`C`{: .key} และดูดีๆ นิดนึงจะมีเรื่อง Migration อยู่อีกหน่อย ก็คือตรงนี้หยุด Server ซะก่อนแล้วใช้คำสั่ง `python manage.py migrate` ทุกอย่างก็จะเรียบร้อยครับ
+ส่งท้ายอีกนิดนึงนะครับ ถ้าจะจบการทำงานก็ `Ctrl`{: .key}+`C`{: .key} และดูดี ๆ นิดนึงจะมีเรื่อง Migration อยู่อีกหน่อย ก็คือตรงนี้หยุด Server ซะก่อนแล้วใช้คำสั่ง `python manage.py migrate` ทุกอย่างก็จะเรียบร้อยครับ

@@ -32,4 +32,4 @@ comments: true
 
 ![Finished and ready to go](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1519744227/commands-installed.png)
 
-เพียงแค่นี้ก็เรียบร้อย ‣ ขอให้สนุกกับการเขียนโค้ดนะครับทุกๆ คน!
+เพียงแค่นี้ก็เรียบร้อย ‣ ขอให้สนุกกับการเขียนโค้ดนะครับทุก ๆ คน!

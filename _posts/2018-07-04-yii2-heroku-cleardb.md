@@ -93,7 +93,7 @@ $config = require __DIR__ . '/../config/web.php';
 (new yii\web\Application($config))->run();
 ```
 
-เมื่อเราเรียก Gii ให้สร้าง code ต่างๆ ให้เสร็จ บวกกับเราพัฒนา code ต่อไปจนทุกอย่างเรียบร้อยแล้ว เราก็พร้อมที่จะกลับไปสู่ mode ที่เป็น production ด้วยการใส่ comment คืนที่ 2 บรรทัดนี้:
+เมื่อเราเรียก Gii ให้สร้าง code ต่าง ๆ ให้เสร็จ บวกกับเราพัฒนา code ต่อไปจนทุกอย่างเรียบร้อยแล้ว เราก็พร้อมที่จะกลับไปสู่ mode ที่เป็น production ด้วยการใส่ comment คืนที่ 2 บรรทัดนี้:
 ```
 // defined('YII_DEBUG') or define('YII_DEBUG', true);
 // defined('YII_ENV') or define('YII_ENV', 'dev');
@@ -110,4 +110,4 @@ $ heroku addons:create adminium
 
 ![Adminium DB Management](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_500/v1530873200/Screenshot_from_2018-07-06_17-31-28.png)
 
-ทั้งหมดนี้ก็จะทำให้ Yii2 ของเราไปรันอยู่บน Heroku พร้อมกับ ClearDB ได้อย่างเรียบร้อย สบายใจไปทั่วหน้ากัน ‣ ขอให้มีความสุขกับการพัฒนาเว็บแอพด้วย Yii2 กับ Heroku + ClearDB นะครับทุกๆ คน
+ทั้งหมดนี้ก็จะทำให้ Yii2 ของเราไปรันอยู่บน Heroku พร้อมกับ ClearDB ได้อย่างเรียบร้อย สบายใจไปทั่วหน้ากัน ‣ ขอให้มีความสุขกับการพัฒนาเว็บแอพด้วย Yii2 กับ Heroku + ClearDB นะครับทุก ๆ คน

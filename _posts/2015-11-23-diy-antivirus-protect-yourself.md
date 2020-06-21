@@ -12,9 +12,9 @@ comments: true
 
 ### 1) List Startup Items
 
-`wmic startup list full` ใช้คำสั่ง: wmic startup list full - ดูว่า Startup Item เมื่อเราเปิดเครื่องว่ามี Services หรือ Process อะไรที่ดูพิกลๆ ชื่อไม่คุ้น แต่…เอ้ย…จริงๆ คุ้นไม่คุ้นนี่ก็ต้องรู้มาระดับหนึ่งเหมือนกันนะเห้ย ขืนไปลบสุ่มสี่สุ่มห้า ได้ลง Windows ใหม่ อย่ามาโทษกันนะเอ่อ…
+`wmic startup list full` ใช้คำสั่ง: wmic startup list full - ดูว่า Startup Item เมื่อเราเปิดเครื่องว่ามี Services หรือ Process อะไรที่ดูพิกล ๆ ชื่อไม่คุ้น แต่…เอ้ย…จริง ๆ คุ้นไม่คุ้นนี่ก็ต้องรู้มาระดับหนึ่งเหมือนกันนะเห้ย ขืนไปลบสุ่มสี่สุ่มห้า ได้ลง Windows ใหม่ อย่ามาโทษกันนะเอ่อ…
 
-ปล. จริงๆ สามารถ กด `Ctrl`{: .key}+`Alt`{: .key}+`Del`{: .key} ได้ เหมือนกันนะ แต่ง่ายๆ เดี่ยวมันไม่เทย์ดิ
+ปล. จริง ๆ สามารถ กด `Ctrl`{: .key}+`Alt`{: .key}+`Del`{: .key} ได้ เหมือนกันนะ แต่ง่าย ๆ เดี่ยวมันไม่เทย์ดิ
 
 ### 2) DNS Cache
 
@@ -32,6 +32,6 @@ comments: true
 * -n   address, port ที่ใช้ในรูปแบบตัวเลข ‣ คุยกันทางไหน?
 * -a   connection ทั้งหมด และ listening port ‣ คุยกันกี่เรื่อง?
 * -o   process id ของแต่ละ connection ‣ รายละเอียดเยอะไหม?
-* -b   คำสั่ง connection นั้นๆ ‣ มันจะทำอะไรของมัน?
+* -b   คำสั่ง connection นั้น ๆ ‣ มันจะทำอะไรของมัน?
 
 ![Netstat]({{ "/assets/images/authors/romeoow/2015-11-23/blog2.png" | relative_url }}){: .center-image }*รูปหน้าจอ: คำสั่ง netstat -naob*

@@ -8,11 +8,11 @@ tags:
 - Tool
 comments: true
 ---
-เริ่มแรกอันนี้มาจาก Google Slides โดยตรง จากการคลิกที่ `File` ‣ `Publish to the web...` ‣ `Embed` ตั้งค่าต่างๆ ให้ตรงตามที่อยากได้ เอา code ตรง <iframe> มาเก็บไว้แล้วคลิก `Published`
+เริ่มแรกอันนี้มาจาก Google Slides โดยตรง จากการคลิกที่ `File` ‣ `Publish to the web...` ‣ `Embed` ตั้งค่าต่าง ๆ ให้ตรงตามที่อยากได้ เอา code ตรง <iframe> มาเก็บไว้แล้วคลิก `Published`
 
 ![Google Slides Embed](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1542194195/Screenshot_from_2018-11-14_18-15-44.png)
 
-พอเอา code ไปแปะที่ใน Jekyll ก็จะได้ผลลัพธ์ออกมาคล้ายๆ แบบนี้ (แต่ยังไม่ Responsive)
+พอเอา code ไปแปะที่ใน Jekyll ก็จะได้ผลลัพธ์ออกมาคล้าย ๆ แบบนี้ (แต่ยังไม่ Responsive)
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
@@ -39,7 +39,7 @@ comments: true
 
 เท่านี้ก็เรียบร้อยแล้วสำหรับการเอา Slide มาจาก Google Slides
 
-ส่วนอันนี้มาจาก Speaker Deck - ด้วยขั้นตอนง่ายๆ คือ `Upload a deck` (ซึ่งรับไฟล์ .pdf) แล้วก็เอา embed code ออกมาแปะที่ Jekyll ของเรา
+ส่วนอันนี้มาจาก Speaker Deck - ด้วยขั้นตอนง่าย ๆ คือ `Upload a deck` (ซึ่งรับไฟล์ .pdf) แล้วก็เอา embed code ออกมาแปะที่ Jekyll ของเรา
 
 ![Speaker Deck Embed](https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1542201180/Screenshot_from_2018-11-14_20-12-21.png)
 
@@ -53,6 +53,6 @@ comments: true
 <script async class="speakerdeck-embed" data-id="27cb35e9f1d844dab0230dc3fc78cdd9" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 ```
 
-ผลลัพธ์ก็ตามที่เห็นแล้วนะครับ คราวนี้ก็อยู่ที่ว่าพวกเราจะชอบแบบไหน สามารถเลือกใช้ตามที่ต้องการได้สบายๆ กันเลย
+ผลลัพธ์ก็ตามที่เห็นแล้วนะครับ คราวนี้ก็อยู่ที่ว่าพวกเราจะชอบแบบไหน สามารถเลือกใช้ตามที่ต้องการได้สบาย ๆ กันเลย
 
 ขอบคุณที่ติดตามอ่านเรื่องของพวกเรานะครับ มีข้อแนะนำเพิ่มเติมสามารถบอกกันได้ใน comment เช่นเคยครับ แล้วพบกันใหม่ โชคดีมีชัย มีตังค์ใช้กันทั่วหน้า ไว้ค่อยมาเจอกันใหม่ สวัสดีนะครับ

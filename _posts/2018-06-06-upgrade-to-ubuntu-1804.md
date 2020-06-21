@@ -19,7 +19,7 @@ comments: true
 
 ![Restart after upgrade](https://res.cloudinary.com/sdees-reallife/image/upload/c_crop,x_2000,y_50,w_1000,h_750/w_400,c_scale/Screenshot_from_2018-06-06_12-12-10.png)
 
-เมื่อเครื่องบูทกลับมาอีกครั้งพวกเราก็จะเข้ามาพบกับหน้าจอแนะนำตัว ที่พร้อมแนะนำเรื่องใหม่ๆ ของ Ubuntu 18.04 LTS
+เมื่อเครื่องบูทกลับมาอีกครั้งพวกเราก็จะเข้ามาพบกับหน้าจอแนะนำตัว ที่พร้อมแนะนำเรื่องใหม่ ๆ ของ Ubuntu 18.04 LTS
 
 ![What's new in Ubuntu](https://res.cloudinary.com/sdees-reallife/image/upload/c_crop,x_180,y_50,w_1000,h_750/w_400,c_scale/Screenshot_from_2018-06-06_12-14-43.png)
 
@@ -27,7 +27,7 @@ comments: true
 
 ![Livepatch](https://res.cloudinary.com/sdees-reallife/image/upload/c_crop,x_180,y_50,w_1000,h_750/w_400,c_scale/Screenshot_from_2018-06-06_12-21-26.png)
 
-การเปิด Livepatch ไม่ได้มีขั้นตอนอะไรมาก คลิก `Set Up Livepatch...` ทำตามหน้าจอ ถัดมาระบบขอ `sudo` เราก็ให้ไป แล้วพอใส่ Ubuntu One Account ก็เรียบร้อย ‣ ผลลัพธ์จากการ Set Up Livepatch อันนี้จะมีผลดีมากกับเครื่องของเรา และโดยเฉพาะเครื่อง Ubuntu ที่เราเอามาทำเป็น Server เพราะเวลามีอัพเดทที่เกี่ยวกับ Kernel หรือ Security ต่างๆ ระบบจะทำอัพเดทให้ในแบบที่ไม่ต้องมีการ Reboot เครื่อง ขอย้ำตรงที่ "ไม่ต้องมีการ Reboot เครื่อง"
+การเปิด Livepatch ไม่ได้มีขั้นตอนอะไรมาก คลิก `Set Up Livepatch...` ทำตามหน้าจอ ถัดมาระบบขอ `sudo` เราก็ให้ไป แล้วพอใส่ Ubuntu One Account ก็เรียบร้อย ‣ ผลลัพธ์จากการ Set Up Livepatch อันนี้จะมีผลดีมากกับเครื่องของเรา และโดยเฉพาะเครื่อง Ubuntu ที่เราเอามาทำเป็น Server เพราะเวลามีอัพเดทที่เกี่ยวกับ Kernel หรือ Security ต่าง ๆ ระบบจะทำอัพเดทให้ในแบบที่ไม่ต้องมีการ Reboot เครื่อง ขอย้ำตรงที่ "ไม่ต้องมีการ Reboot เครื่อง"
 
 ถัดจากนี้ก็ไม่มีอะไรที่เป็น Big Deal ล่ะ สรุปได้ว่าอัพเกรด Ubuntu ไป 18.04 เรื่องนี้ As easy as pie!
 

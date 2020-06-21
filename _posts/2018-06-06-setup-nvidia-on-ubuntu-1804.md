@@ -27,4 +27,4 @@ driver   : xserver-xorg-video-nouveau - distro free builtin
 
 ![NVIDIA X Server Settings](https://res.cloudinary.com/sdees-reallife/image/upload/c_crop,x_2000,y_50,w_1000,h_750/w_400,c_scale/Screenshot_from_2018-06-06_19-12-47.png)
 
-*หมายเหตุ:* การติดตั้ง Driver นี้จะช่วยทำให้การแสดงผลทางหน้าจอต่างๆ ดีขึ้น และยังช่วยให้การกำหนดคุณสมบัติของ Display Devices ถูกต้องมากขึ้นด้วย
+*หมายเหตุ:* การติดตั้ง Driver นี้จะช่วยทำให้การแสดงผลทางหน้าจอต่าง ๆ ดีขึ้น และยังช่วยให้การกำหนดคุณสมบัติของ Display Devices ถูกต้องมากขึ้นด้วย

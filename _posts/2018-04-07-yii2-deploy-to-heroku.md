@@ -10,7 +10,7 @@ comments: true
 ---
 ![Deploy to Heroku Logo]({{ "/assets/images/authors/reallife/2018-04-07/Deploy-to-heroku-logo.png" | relative_url }})
 
-เหตุผลที่เราจะใช้งาน Yii2 กับ Heroku ก็เพราะ เราไม่มี Server เป็นของตัวเอง (555) และเมื่อเรามีความจำเป็นที่จะต้องใช้ Server ที่สามารถ Access ได้จาก Internet ทั่วๆ ไป เราก็ต้องหาผู้ให้บริการ และเผอิญว่า Heroku มีบริการ PaaS ที่รองรับ Java, Node.js, Scala, Clojure, Python, PHP และ Go แบบที่มี Plan ให้ใช้งานได้ฟรี (1) และ สะดวกสำหรับการ Deploy PHP (2) ทั้ง 2 ข้อนี้รวมกันนั่นทำให้เราต้องเข้าไป [Sign Up กับ Heroku ในทันที](https://signup.heroku.com/)
+เหตุผลที่เราจะใช้งาน Yii2 กับ Heroku ก็เพราะ เราไม่มี Server เป็นของตัวเอง (555) และเมื่อเรามีความจำเป็นที่จะต้องใช้ Server ที่สามารถ Access ได้จาก Internet ทั่ว ๆ ไป เราก็ต้องหาผู้ให้บริการ และเผอิญว่า Heroku มีบริการ PaaS ที่รองรับ Java, Node.js, Scala, Clojure, Python, PHP และ Go แบบที่มี Plan ให้ใช้งานได้ฟรี (1) และ สะดวกสำหรับการ Deploy PHP (2) ทั้ง 2 ข้อนี้รวมกันนั่นทำให้เราต้องเข้าไป [Sign Up กับ Heroku ในทันที](https://signup.heroku.com/)
 ### Sign Up และ Git
 เมื่อได้ Account มาเรียบร้อยแล้ว หันมาที่เครื่อง Local (Ubuntu) เปิด Terminal แล้วติดตั้ง Heroku CLI ให้เรียบร้อยด้วยคำสั่ง
 

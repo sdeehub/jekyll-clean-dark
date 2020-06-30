@@ -5,7 +5,7 @@ date: 2019-04-22 14:34:32 +0700
 description: มาดูการติดตั้งและใช้งาน .NET Core บน Arch Linux กันครับ
 tags:
   - Arch Linux
-  - Microsoft
+  - Windows
 comments: true
 ---
 เริ่มจากการติดตั้งก่อนเลย

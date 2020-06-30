@@ -4,7 +4,7 @@ title: "cmd สำหรับจัดการ domain"
 date: 2019-08-30 13:15:45 +0700
 description: วันนี้มาดูคำสั่งบน dos สำหรับที่จะเอาเครื่องเข้า domain กันสักหน่อยครับ
 tags:
-- Microsoft
+- Windows
 comments: true
 ---
 ขั้นแรกไปที่เครื่องที่เป็น domain controller กันก่อนเลยครับ (คำสั่งพวกนี้ต้องรันที่ domain controller นะครับ)

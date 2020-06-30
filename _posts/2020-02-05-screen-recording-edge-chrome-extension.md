@@ -5,7 +5,7 @@ date: 2020-02-05 22:52:53 +0700
 description: มีวิธี Record หน้าจอ กับ การติดตั้ง Chrome extension บน Microsoft Edge Browser มาฝากกันครับ
 tags:
 - Chrome
-- Microsoft
+- Windows
 comments: true
 ---
 *Screen recording*

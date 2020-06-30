@@ -5,7 +5,6 @@ date: 2020-02-13 19:02:16 +0700
 description: Teams ติดตั้งบน Linux ได้แล้วนะพวกเรา!
 tags:
 - Linux
-- Microsoft
 - Ubuntu
 comments: true
 ---

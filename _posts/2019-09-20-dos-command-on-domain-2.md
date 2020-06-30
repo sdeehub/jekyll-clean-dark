@@ -4,7 +4,7 @@ title: "cmd สำหรับจัดการ domain (ฝั่ง client)"
 date: 2019-09-20 15:30:08 +0700
 description: วันนี้มาดูคำสั่งบน dos สำหรับตรวจดูเรื่อง domain บนฝั่ง client กันสักหน่อยครับ
 tags:
-- Microsoft
+- Windows
 comments: true
 ---
 ขั้นแรกไปที่เครื่องที่เป็น PC ฝั่ง Client กันครับ

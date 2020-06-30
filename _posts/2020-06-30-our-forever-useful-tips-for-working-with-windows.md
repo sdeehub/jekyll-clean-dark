@@ -52,3 +52,5 @@ stop service ที่ชื่อ Dhcp บนเครื่อง 192.168.0.35
 
 สุดท้ายนี่เวลาใช้ต้องเอา `DOMAIN\User` กับ `password` มาใส่เอาไว้เปลี่ยน logon account ของ service:   
 `sc \\192.168.0.35 config "Dhcp" obj= "DOMAIN\User" password= "password"`
+
+เรียบร้อยแล้วครับ สำหรับคำสั่ง sc ที่พวกเราใช้กันบ่อย ๆ และคิดว่าน่าจะเอาไว้ช่วยให้การ WFH หรือ Remote Support มีความสะดวกสบายขึ้นในเวลาที่พวกเราต้องจัดการกับ service ของ Windows นะครับ

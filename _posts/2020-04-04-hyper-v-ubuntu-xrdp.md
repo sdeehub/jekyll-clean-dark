@@ -42,4 +42,11 @@ comments: true
 
 คราวนี้พอบู๊ท VM กลับมาอีกครั้งก็จะมีหน้าจอ `Display configuration` : เลือกกันให้ตรงตามที่ควรจะเป็น แล้วตรง `Show Options` ก็คลิกนั่นล่ะ - จากนั้น รู้แล้วนะว่าคุณจะต้องคลิกตรงไหน ยังไงต่อ :)
 
+![xrdp](https://res.cloudinary.com/sdees-reallife/image/upload/v1595578371/xdrp.png)
+
+*เพิ่มเติม สำหรับ Ubuntu 20.04*: แก้ไฟล์ /etc/xrdp/xrdp.ini นิดนึงด้วยนะ ใช้ `sudo nano /etc/xrdp/xrdp.ini` ก็ได้
+
+- ตรงนี้ `port=3389` ให้แก้เป็น `port=vsock://-1:3389`
+- กับตรงนี้ `use_v_sock=true` ให้แก้เป็น `use_vsock=false`
+
 ไม่ลองก็ไม่รู้ใช่มั๊ย? วันนี้เอาแค่นี้ล่ะ ทุกอย่างเป็น VM ไม่น่าจะมีอะไรเสียหายลองดูได้นะ ขอให้ทุกๆ คนมีความสุขกับการอยู่บ้าน และใช้ Ubuntu <i class="fa fa-heart" style="color:#CD5C5C"></i> Windows ไปพร้อมๆ กัน

@@ -15,7 +15,7 @@ Syntax:
 
 ถ้าจะดูเป็น SHA256 ก็ใช้:
 
-`certutil -hashfile c:\Temp\myfile.exe SHA512`
+`certutil -hashfile c:\Temp\myfile.exe SHA256`
 
 หรือถ้าจะดูค่า hash อื่น ๆ ผมแนะนำให้ใช้:
 
@@ -25,7 +25,7 @@ Syntax:
 
 ง่าย ๆ แค่นี้เองครับ แต่การหาค่า hash file บน Windows ยังมีวิธี (คำสั่ง) อื่นด้วยนะครับเช่น
 - ใช้ fciv ก็ได้ - ตามที่พวกเราเคยเขียนไปแล้วใน post: [เช็คค่า MD5, SHA-1 ด้วย FCIV](https://sdeehub.github.io/cpe/2020/05/checksum-with-fciv)
-- ใช้ PowerShell:
+- ใช้ PowerShell: [Get-FileHash](https://ss64.com/ps/get-filehash.html)
 
 `PS C:\>Get-FileHash -Path c:\Temp\myfile.exe -Algorithm SHA512`
 

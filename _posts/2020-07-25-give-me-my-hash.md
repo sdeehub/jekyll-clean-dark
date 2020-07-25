@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "certutil -hashfile c:\Temp\myfile.exe SHA512"
+title: certutil -hashfile c:\Temp\myfile.exe SHA512
 date: 2020-07-25 T14:36:17+07:00
 description: หาค่า hashfile ยังไง? เวลาใช้ Windows 10
 tags:
@@ -21,7 +21,7 @@ Syntax:
 
 `certutil -hashfile -?`
 
-![certutil hashfile]()
+![certutil hashfile](https://res.cloudinary.com/sdees-reallife/image/upload/v1595664728/certutil-hashfile.png)
 
 ง่าย ๆ แค่นี้เองครับ แต่การหาค่า hash file บน Windows ยังมีวิธี (คำสั่ง) อื่นด้วยนะครับเช่น
 - ใช้ fciv ก็ได้ - ตามที่พวกเราเคยเขียนไปแล้วใน post: [เช็คค่า MD5, SHA-1 ด้วย FCIV](https://sdeehub.github.io/cpe/2020/05/checksum-with-fciv)

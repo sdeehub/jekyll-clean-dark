@@ -15,7 +15,7 @@ comments: true
 
 คู่ต่อมาก่อนเปิดใช้งานให้กดเข้าไปที่ Preferences ก่อน
 
-![Preferences](https://res.cloudinary.com/sdees-reallife/image/upload/v1601201896/Screenshot_from_2020-09-27_17.17.32.png)
+![Preferences](https://res.cloudinary.com/sdees-reallife/image/upload/v1601202946/Screenshot_from_2020-09-27_17.35.09.png)
 
 ดูว่าเราไม่ได้เลือก *Ctrl+Tab cycles through tabs in the recently used order*
 

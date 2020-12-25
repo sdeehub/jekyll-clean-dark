@@ -13,7 +13,11 @@ comments: true
 ![apkpure](https://res.cloudinary.com/sdees-reallife/image/upload/v1608799484/apkpure.png)
 
 เมื่อรู้ที่โหลดแล้วก็ต้องรู้ว่าจะโหลดอะไร? - *Line ก่อนเลยมั๊ย!*
-- [Line](https://apkpure.com/line-free-calls-messages/jp.naver.line.android) ใช้ได้ แต่ก่อนเข้าใช้หลังเปิดเครื่องมาใหม่จะมี Error ขึ้นมา กด Ok ไปก่อนแล้ว จากนั้นก็ใช้งานได้ปกติ
+- [Line](https://apkpure.com/line-free-calls-messages/jp.naver.line.android) ใช้ได้ แต่ก่อนเข้าใช้หลังเปิดเครื่องมาใหม่จะมีข้อความนี้ขึ้นมา
+
+> LINE won't run without Google Play services, which are not supported by your device.
+
+กด Ok ไปก่อนแล้ว จากนั้นก็ใช้งานได้ปกติ
 
 ![line](https://res.cloudinary.com/sdees-reallife/image/upload/v1608799784/line.png)
 

@@ -4,7 +4,7 @@ title: "Hyper-V + Ubuntu + xRDP"
 date: 2020-04-04 T09:38:52+07:00
 description: วันนี้มาลองใช้ Hyper-V ของ Windows ทำ VM (แทนการใช้ VirtualBox) แล้วลง Ubuntu - ทุกอย่างเรียบร้อยแต่ทำไมหน้าจอมาไม่เต็ม?
 tags:
-- Linux
+- Hyper-V
 - Ubuntu
 - Windows
 comments: true

@@ -11,7 +11,7 @@ comments: true
 ---
 เริ่มกันที่จะใช้งาน Hyper-V ต้องทำยังไง? : อ่านนี่ก่อนเลย [Install Hyper-V on Windows 10](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 
-หรือให้สรุปสั้นๆ ง่ายๆ - คลิกไป `Start` (หรือเท่ากับการ Search นั่นเอง) - ใส่ไปว่า `Turn Windows features on or off` แล้วคลิกไปที่ Hyper-V เป็นอันเรียบร้อย
+หรือให้สรุปสั้น ๆ ง่าย ๆ - คลิกไป `Start` (หรือเท่ากับการ Search นั่นเอง) - ใส่ไปว่า `Turn Windows features on or off` แล้วคลิกไปที่ Hyper-V เป็นอันเรียบร้อย
 
 ![Windows Features](https://res.cloudinary.com/sdees-reallife/image/upload/v1585882683/Windows-Features.png)
 
@@ -21,7 +21,7 @@ comments: true
 
 เพราะสิ่งที่พวกเราเจอนั่นก็คือ ได้ Hyper-V แล้ว - ลง Ubuntu แล้ว แต่จะทำยังไงให้เต็มจอ! หากันตั้งนาน หรือให้สรุปสั้นๆ ก็คือ : อ่านนี่เลยที่เดียวจบ [Sneak Peek: Taking a Spin with Enhanced Linux VMs](https://techcommunity.microsoft.com/t5/virtualization/sneak-peek-taking-a-spin-with-enhanced-linux-vms/ba-p/382415#)
 
-หรือให้สรุปสั้นๆ ง่ายๆ กว่าก็คือ - บน VM ลง git ก่อนนะแล้วก็ตามนี้ได้เลย
+หรือให้สรุปสั้น ๆ ง่าย ๆ กว่าก็คือ - บน VM ลง git ก่อนนะแล้วก็ตามนี้ได้เลย
 
 `$ git clone https://github.com/Microsoft/linux-vm-tools.git ~/linux-vm-tools`
 `$ cd ~/linux-vm-tools/ubuntu/18.04/`
@@ -47,6 +47,6 @@ comments: true
 *เพิ่มเติม สำหรับ Ubuntu 20.04*: แก้ไฟล์ /etc/xrdp/xrdp.ini นิดนึงด้วยนะ ใช้ `sudo nano /etc/xrdp/xrdp.ini` ก็ได้
 
 - ตรงนี้ `port=3389` ให้แก้เป็น `port=vsock://-1:3389`
-- กับตรงนี้ `use_v_sock=true` ให้แก้เป็น `use_vsock=false`
+- กับตรงนี้ `use_vsock=true` ให้แก้เป็น `use_vsock=false`
 
-ไม่ลองก็ไม่รู้ใช่มั๊ย? วันนี้เอาแค่นี้ล่ะ ทุกอย่างเป็น VM ไม่น่าจะมีอะไรเสียหายลองดูได้นะ ขอให้ทุกๆ คนมีความสุขกับการอยู่บ้าน และใช้ Ubuntu <i class="fa fa-heart" style="color:#CD5C5C"></i> Windows ไปพร้อมๆ กัน
+ไม่ลองก็ไม่รู้ใช่มั๊ย? วันนี้เอาแค่นี้ล่ะ ทุกอย่างเป็น VM ไม่น่าจะมีอะไรเสียหายลองดูได้นะ ขอให้ทุก ๆ คนมีความสุขกับการอยู่บ้าน และใช้ Ubuntu <i class="fa fa-heart" style="color:#CD5C5C"></i> Windows ไปพร้อม ๆ กัน
